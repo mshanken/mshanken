@@ -1,0 +1,228 @@
+
+<?php
+if (($header == "wso-overview") || ($header ==  "wso-glossary") || ($header == "wso-audience") || ($header == "wso-adspecs") || ($header == "wso-adplace") || ($header == "wso-mobile"))
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSOMedia_Kit2011.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Online Media Kit</a></p></div>";
+?>
+
+<?php
+if ($header == "wso-classifieds")
+{
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSO_Classified_Specs.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>";
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSO_Classified_IO.pdf\" target=\"_blank\">Download Classified Advertisng<br />Insertion Order</a></p></div>";
+}
+?>
+<?php
+if  ($header == "wsm-classified")
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSM_Classified_Specs.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>";
+
+?>
+<?php
+if (($header == "ws") || ($header == "wsm-calendar") || ($header == "wsm-adspec") || ($header == "wsm-prodspec")) 
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WS_MediaKit2013_Web.pdf\" target=\"_blank\"><em>Wine Spectator</em> Magazine Readership<br />at Glance</a></p></div>";
+?>
+<?php
+if (($header == "wsm-calendar") || ($header == "wsm-adspec") || ($header == "wsm-prodspec"))
+    //echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WS_Insertion_Order.pdf\" target=\"_blank\">Download <em>Wine Spectator</em><br />Insertion Order</a></p></div>";
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WS_Specs10.pdf\" target=\"_blank\">Download <em>Wine Spectator</em><br />Production Specs</a></p></div>";
+?>
+<?php
+if ($header == "wso-adspecs") {
+    echo "<table width=\"267\" border=\"0\" id=\"righttablewine\">
+            <tr>
+                <td>
+                    <h3>Technical Ad Specs</h3>
+                    <ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+                        <li><b>Format:</b> We accept GIF, JPEG, HTML, FLASH, IFrame, Javascript, and all other pre-approved, DART-compatible Rich Media files. 
+                        All ads must have a border.</li>
+                        <li><b>Linking URL:</b> Each creative should be accompanied by a click-through URL.</li>
+                        <li><b>Due Dates:</b> All creative(s) must be delivered a minimum of 5 business days prior to launch.</li>
+						<li>All ads must have a border.</li>
+                    </ul>
+                    
+                    <h3>Rich Media Ad Specs</h3>
+                    <ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+                        <li><b>Flash Files:</b>
+                            <ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+                                <li>Flash files are accepted in .swf format only</li>
+                                <li>To ensure proper tracking, files should contain an action script inserted in this fashion:<br /><br />
+                                &nbsp;&nbsp;&nbsp;on (release) {<br />
+                                &nbsp;&nbsp;&nbsp;getURL (_level0.clickTag,<br /> 
+                                &nbsp;&nbsp;&nbsp;\"_blank\");<br /> 
+                                &nbsp;&nbsp;&nbsp;}<br /><br />
+                                (This action script will replace the click-through url within the file but url's must still be provided.)</li>
+                                <li>All flash files also require a default .gif or .jpeg with a max file size of 30k.</li>
+                                <li>Flash 6 or higher</li>
+                            </ul></li>
+                            
+                        <li><b>Expandable Units:</b>
+                            <ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+                                <li>728x90; max expansion 728 x 270</li>
+                                <li>300x250; max expansion 500 x 500</li>
+                                <li>Expansion must be user-initiated</li>
+				<li>No expandable ads on the homepage</li>
+				<li>Only one ad can expand on a page at a time</li>
+                            </ul></li>
+            
+                        <li><b>Other Rich Media:</b>
+                            <ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+                                <li>All Rich Media files also require a default .gif or .jpeg with a max file size of 30K</li>
+                                <li>Sound is permitted but must be user initiated</li>
+                                <li>Please contact us for additional Rich Media-specific requirements</li>
+                            </ul></li>
+                    </ul>
+                </td>
+            </tr>
+            </table>";
+} ?>
+<?php
+if ($header == "wso-classifieds") {
+    echo "<table width=\"267\" border=\"0\" id=\"righttablewine\">
+            <tr>
+                <td>
+                    <h3>&nbsp;Categories:</h3>
+                    <ul style=\"list-style-image:url(../images/list-icon-1.gif);\">	 
+                        <li style=\"margin:2px 0 2px 0;\">Auctions</li>
+                        <li style=\"margin:2px 0 2px 0;\">Business Opportunities</li>
+                        <li style=\"margin:2px 0 2px 0;\">Cooking Schools</li>
+                        <li style=\"margin:2px 0 2px 0;\">Gourmet Products</li>
+                        <li style=\"margin:2px 0 2px 0;\">Help Wanted</li>
+                        <li style=\"margin:2px 0 2px 0;\">Hotels &amp; Resorts</li>
+                        <li style=\"margin:2px 0 2px 0;\">Positions Wanted</li>
+                        <li style=\"margin:2px 0 2px 0;\">Real Estate</li>
+                        <li style=\"margin:2px 0 2px 0;\">Restaurants</li>
+                        <li style=\"margin:2px 0 2px 0;\">Services</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Accessories</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Appraisers</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Books</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Cellar Transportation</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Clubs</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Country Lodging</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine For Sale</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Racks</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Schools</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Shops</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Software</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Storage Facilities</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Storage Systems</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wine Tours</li>
+                        <li style=\"margin:2px 0 2px 0;\">Wineries</li>
+                        <li style=\"margin:2px 0 2px 0;\">Miscellaneous</li>
+                    </ul>
+                </td>
+            </tr>
+            </table>";
+} ?>
+<?php
+if ($header == "wsm-classified") {
+    echo "<table width=\"267\" border=\"0\" bgcolor=\"#dbdac8\" id=\"righttablewine\">
+				<tr>
+					<td>
+					<h3>Deadline Notice</h3>
+					<p>Insertion orders, ad materials and payment are ALL DUE BY NOON E.S.T. on the deadline. Ad materials and payments received 
+					after the deadline will appear in the following issue.</p>
+					<p>Issue deadlines are subject to change.</p>
+					</td>
+
+				</tr>
+				</table>
+	
+		<table width=\"267\" border=\"0\" id=\"righttablewine\">
+            <tr>
+                <td>
+                <h3>Art Requirements For  Display Classified Advertising</h3>
+                <p>Digital Files only. Preferred file format: Press optimized PDF. EPS and TIFF files are also acceptable.</p>
+                <p>Black &amp; White ads only.  Please convert your ad to grayscale. CMYK or RGB formats are not acceptable. </p>
+                <p><b>Please include a proof</b>. We are not responsible for print quality if a proof is not included.</p>
+                <p>All ads must have a border; we reserve the right to add a border if necessary.</p>
+                <p>120 maximum line screen, 300 dpi minimum.</p>
+                <p>Please measure your ad precisely and according to our column width requirement and to your space reservation in depth. 
+                We will not resize ads</p> 
+                <p>E-mail your ad to: <a href=\"mailto:chedaya@mshanken.com\"><b>chedaya@mshanken.com</b></a>. If your file is larger than 1MB, please 
+                create a zip file using compression software such as Stuff-It before e-mailing.</p>
+                <p><b>Prepayment is due with materials and is necessary or your ad will not run.</b></p>
+                <p><b><i>Wine Spectator</i> not responsible for reproduction quality if above specifications are not met.</b></p><br />
+                </td>
+            </tr>
+            </table>";
+} ?>
+<?php
+if (($header == "wsm-adspec") || ($header == "wsm-prodspec")) {
+    echo "<table width=\"267\" border=\"0\" id=\"righttablewine\">
+	<tr>
+		<td>
+			<h3>Digital File Specification</h3><hr style=\"margin-left:10px;\" color=\"#d3b253\" width=\"250\">
+			<p><b>PDF/X-1a</b></p>
+			<ul class=\"list\" style=\"list-style-image:url(../images/list-icon-1.gif)\">
+					<li>PDF/X1a file (Only one ad per file)</li>
+					<li>Images must be CMYK or Grayscale TIFF or EPS prepared for the SWOP3 color environment</li>
+					<li>Total Area Coverage for CMYK color builds should not exceed 300%</li>
+				</ul>
+				
+				<p><small>SWOP&reg; is a registered trademark of SWOP, Inc.</small></p>
+		</td>
+	</tr>
+	</table>";
+} ?>
+
+<!-- wso-overview -->
+<?php /*
+if ($header == "wso-overview")
+	echo "<table border=\"0\" id=\"righttablewine\">
+<tr>
+    <td>
+        <h3>A Sample of Our Advertisers</h3>
+
+        <h3>Wine Industry</h3>
+        <p>Acker Merrall &amp; Condit<br />
+	Bonny Doon<br />
+	Chateau Ducru-Beaucaillou<br />
+	Chateau Haut-Brion<br />
+	Curran and Conners<br />
+	D. Sokolin Company<br />
+	Gallo<br />
+	Hart Davis Hart<br />
+	J.P King Auction<br />
+	Pasternak Wine Imports<br />
+	Rioja<br />
+	Terlato Wines<br />
+	Sterling Winery<br />
+	Vineyard Brands<br />
+	Vinitaly<br />
+	Wines from Spain<br />
+	Wines of Germany</p>
+        
+        <h3>Travel/Tourism</h3>
+        <p>Air New Zealand<br />
+	California Tourism<br />
+	Delta Airlines<br />
+	Government of France<br />
+	Hyatt<br />
+	Monaco Tourism Board<br />
+	Pinehurst Resorts<br />
+	Ritz-Carlton<br />
+	The Luxury Collection<br />
+	Three Forks Ranch<br />
+	Tourism BC<br />
+	Tourism New Zealand<br />
+	Tourism of Ontario<br />
+	Vail Resorts</p>
+        
+        <h3>Financial/Automotive</h3>
+        <p>American Express<br />
+	Aetna/AARP<br />
+	Acura<br />
+	Porsche</p>
+
+	<h3>Fashion/Misc.</h3>
+        <p>Callaway Golf<br />
+	Christies<br />
+	Gucci<br />
+	Riedel<br />
+	Sothebys<br />
+	Triscuit<br />
+	Vinturi<br />
+	WinePod</p><br />
+    </td>
+</tr>
+</table>";*/
+?>
