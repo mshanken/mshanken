@@ -24,7 +24,7 @@
 				<h1 class="im">CALENDARS</h1>
 				<hr class="im"><br />
 				
-				<h2 class="im">2012 Issue Dates and Deadlines</h2>
+				<h2 class="im">2013 Issue Dates and Deadlines</h2>
 				<hr class="im">
 				<p>Please contact us for the most up-to-date version.</p>
 				<table align="center" id="calender" width="98%" border="0" cellspacing="1" cellpadding="1" bgcolor="#d3b253">
@@ -37,97 +37,97 @@
 				<tr bgcolor="#f8f8f4">
                 	<td><p><em>January 1 &amp; 15</em></p></td>
                 	<td><p><em>&bull; Top 25 U.S. Spirits</em></p></td>
-                	<td><p><em>December 30</em></p></td>
-                	<td><p><em>January 4</em></p></td>
+                	<td><p><em>December 28</em></p></td>
+                	<td><p><em>January 2</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p><em>February 1 &amp; 15</em></p></td>
                 	<td><p><em>&bull; Top 100 Spirit Brands Worldwide</em></p></td>
-                	<td><p><em>February 2</em></p></td>
-                	<td><p><em>February 6</em></p></td>
+                	<td><p><em>February 1</em></p></td>
+                	<td><p><em>February 5</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p><strong><em>March 1 &amp; 15<br>(Impact Seminar 3/22)</em></strong></p></td>
+                	<td><p><strong><em>March 1 &amp; 15<br>(Impact Seminar 3/21)</em></strong></p></td>
                 	<td><p><strong><em>&bull; Hot Brands <br />&bull; Top 100 By Value</em></strong></p></td>
-                	<td><p><em>March 1</em></p></td>
+                	<td><p><em>February 28</em></p></td>
                 	<td><p><em>March 5</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p><strong><em>April 1 &amp; 15<br />(WSWA 4/2-5)</em></strong></p></td>
+                	<td><p>April 1</p></td>
+                	<td><p>&bull; Tequila Report <br />&bull; New Product Update</p></td>
+                	<td><p>March 15</p></td>
+                	<td><p>March 20</p></td>
+				</tr>
+				<tr bgcolor="#f8f8f4">
+                	<td><p><strong><em>April 15 &amp; May 1<br />(WSWA 4/28-30)</em></strong></p></td>
                 	<td><p><strong><em>&bull; Top 10 Spirits &amp; Wine Distributors <br />&bull; U.S. On-Premise Overview</em></strong></p></td>
-                	<td><p><em>March 13</em></p></td>
-                	<td><p><em>March 16</em></p></td>
+                	<td><p><em>April 5</em></p></td>
+                	<td><p><em>April 10</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p>May 1</p></td>
-                	<td><p>&bull; Tequila Report <br />&bull; Spring New Product Update</p></td>
-                	<td><p>April 13</p></td>
-                	<td><p>April 16</p></td>
-				</tr>
-				<tr bgcolor="#f8f8f4">
-                	<td><p><strong>May 15<br />(NABCA 5/19-23)</strong></p></td>
+                	<td><p><strong>May 15<br />(NABCA 5/15-19)</strong></p></td>
                 	<td><p><strong>&bull; Imported Vodka Spotlight <br />&bull; Imported Wine Report <br />&bull; Control State Update</strong></p></td>
-                	<td><p>May 2</p></td>
-                	<td><p>May 4</p></td>
+                	<td><p>April 26</p></td>
+                	<td><p>May 1</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p><em>June 1 &amp; 15</em></p></td>
-                	<td><p><em>&bull; Champagne/Sparkling Wine <br />&bull; High-End California Wine Report <br />&bull; Flavored Whiskey</em></p></td>
-                	<td><p><em>May 21</em></p></td>
-                	<td><p><em>May 30</em></p></td>
+                	<td><p><strong><em>June 1 &amp; 15<br />(Vinexpo-6/16-20)</em></strong></p></td>
+                	<td><p><strong><em>&bull; Champagne/Sparkling Wine <br />&bull; High-End California Wine Report <br />&bull; Flavored Whiskey</em></strong></p></td>
+                	<td><p><strong><em>May 24</em></strong></p></td>
+                	<td><p><strong><em>May 29</em></strong></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p>July 1</p></td>
-                	<td><p>&bull; Rum <br />&bull; U.S. Beer <br />&bull; RTDs</p></td>
-                	<td><p>June 13</p></td>
-                	<td><p>June 15</p></td>
+                	<td><p>&bull; Rum <br />&bull; U.S. Beer <br />&bull; Mexico overview</p></td>
+                	<td><p>June 14</p></td>
+                	<td><p>June 19</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p>July 15</p></td>
-                	<td><p>&bull; Global vodka market <br />&bull; Poland/Central Europe overview <br />&bull; Premix Cocktails</p></td>
+                	<td><p>&bull; Global Vodka Market <br />&bull; Brazil overview <br />&bull; High-proof spirits</p></td>
                 	<td><p>July 2</p></td>
                 	<td><p>July 5</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p><em>August 1 &amp; 15</em></p></td>
-                	<td><p><em>&bull; China overview: Spirits, Wine, Beer <br />&bull; Small-batch/Craft Spirits</em></p></td>
+                	<td><p><em>&bull; China overview: Spirits, Wine, Beer <br />&bull; Craft/small-batch spirits</em></p></td>
                 	<td><p><em>July 25</em></p></td>
-                	<td><p><em>July 27</em></p></td>
+                	<td><p><em>July 30</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p><em>September 1 &amp; 15</em></p></td>
                 	<td><p><em>&bull; Top Spirits Companies <br />&bull; Hot Prospects</em></p></td>
-                	<td><p><em>August 29</em></p></td>
-                	<td><p><em>August 30</em></p></td>
+                	<td><p><em>August 21</em></p></td>
+                	<td><p><em>August 26</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p><em><strong>October 1 &amp; 15 (NBWA 10/14-17)</strong></em></p></td>
+                	<td><p><em><strong>October 1 &amp; 15 (NBWA 9/29-10/2)</strong></em></p></td>
                 	<td><p><strong><em>&bull; World Beer Report <br />&bull; Top U.S. Beer Wholesalers <br />&bull; Blue Chip Brands</em></strong></p></td>
-                	<td><p><em>September 21</em></p></td>
-                	<td><p><em>September 24</em></p></td>
+                	<td><p><em>September 10</em></p></td>
+                	<td><p><em>September 13</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-                	<td><p><strong><em>November 1 (TFWA 10/21-26)</em></strong></p></td>
-                	<td><p><strong><em>&bull; Travel Retail Report-Pricing, Top Sellers <br />&bull; Scotch/Single Malt <br />&bull; Cognac Update</em></strong></p></td>
-                	<td><p><em>October 3</em></p></td>
-                	<td><p><em>October 5</em></p></td>
+                	<td><p><strong><em>November 1 (TFWA TBD)</em></strong></p></td>
+                	<td><p><strong><em>&bull; Travel Retail Report<br />&bull; Scotch/Single Malt <br />&bull; Cognac Update</em></strong></p></td>
+                	<td><p><em>October 1</em></p></td>
+                	<td><p><em>October 4</em></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p>November 15</p></td>
-                	<td><p>&bull; Bourbon <br />&bull; Irish Whiskey</p></td>
+                	<td><p>&bull; Bourbon<br />&bull; Irish Whiskey<br />&bull; Rye Whiskey</p></td>
+                	<td><p>October 25</p></td>
                 	<td><p>October 30</p></td>
-                	<td><p>November 1</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p>December 1</p></td>
-                	<td><p>&bull; Gin <br />&bull; Washington Wine Report</p></td>
+                	<td><p>&bull; Gin <br />&bull; Hybrid products (spirits/wine)</p></td>
+                	<td><p>November 15</p></td>
                 	<td><p>November 20</p></td>
-                	<td><p>November 22</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
                 	<td><p>December 15</p></td>
-                	<td><p>&bull; Liqueurs Market <br />&bull; Winter New Product Update</p></td>
-                	<td><p>December 4</p></td>
+                	<td><p>&bull; Liqueurs Market <br />&bull; India overview</p></td>
+                	<td><p>December 3</p></td>
                 	<td><p>December 6</p></td>
 				</tr>
                 </table>

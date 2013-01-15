@@ -25,8 +25,51 @@
         	<div class="leftCoumnContent">
 				<h1 class="ws">OVERVIEW</h1>
 				<hr class="ws">
+				<p>Thank you for your interest in <em>Wine Spectator</em> magazine.</p>
+
+				<p>Published 15 times per year, <em>Wine Spectator</em> offers an exciting, insider’s view of the good life, including fine dining, wine travel, and entertainment. With 2.8 million readers (MRI), <em>Wine Spectator</em> reaches business leaders, trendsetters, epicureans and connoisseurs. Our readership also comprises the billion-dollar trade – the key buyers in the wine and spirits industry.</p>
 				
-				<p>Thank you for your interest in <em>Wine Spectator</em>. Our circulation continues to grow, 35% since 2000, and MRI tracks our readership at more than 2.5 million.</p>
+				<p>Consumer readers who participated in the recent <strong>Luxury Brand Status Index Survey*</strong> had this to say about <em>Wine Spectator</em>:</p> 
+				
+				<blockquote>	<p>“It is the industry benchmark.”</p>
+				
+					<p>“I consider it the foremost guide to its subject matter.”</p>
+				
+					<p>“… great recommendations for wines at all price levels, and great travel recommendations too …”</p>
+				</blockquote>
+				
+				<p>About our subscribers:</p>
+				<ul style="list-style-image:url(../images/list-icon-1-1.gif)">
+					<li><font color="#a53276"><b><em>Wine Spectator</em> is #1 in dining and affluence</b></font></li>
+					<li><font color="#a53276"><b>Median HHI $177,039</b></font></li>
+					<li><font color="#a53276"><b>99% enjoy dining out</b></font></li>
+					<li><font color="#a53276"><b>72% visit food and wine festivals</b></font></li>
+					<li><font color="#a53276"><b>73% enjoys cooking for family and friends</b></font></li>
+					<li><font color="#a53276"><b>55% have a wine cellar</b></font></li>
+					<li><font color="#a53276"><b>97% took a recent trip</b></font></li>
+					<li><font color="#a53276"><b>85% have a valid passport</b></font></li>
+					<li><font color="#a53276"><b>80% feel comfort and service are worth paying for when traveling</b></font></li>
+				</ul>
+				
+				<p><big><strong>Our readers are influencers and brand ambassadors not only for wine, but for the luxury products they enjoy and consume. To put it simply, those who enjoy wine and spirits, food, travel and the good life read <em>Wine Spectator</em>.</strong></big></p>
+				
+				<br /><br /><p><big><strong>Best Regards,<br /><br />
+				
+				Miriam Morgenstern / <a href="mailto:mmorgenstern@mshanken.com" target="_blank">mmorgenstern@mshanken.com</a><br />
+				Vice President, Associate Publisher<br />
+				Tel: 212-684-4224</strong></big></p>
+				
+				
+				<p><small>* The Luxury survey, conducted online, consists of a national sample of wealthy American consumers
+				with an average income of $293,000 and an average net worth of $2.9 million.</small></p> 
+								
+				
+				
+				
+				
+				
+				
+				<!-- <p>Thank you for your interest in <em>Wine Spectator</em>. Our circulation continues to grow, 35% since 2000, and MRI tracks our readership at more than 2.5 million.</p>
 				
 				<p><em>Wine Spectator</em>, published 15 times per year, illuminates and educates wine lovers and epicureans. We are renowned for our in-depth wine tasting reports and Buying Guide, travel and fine dining features, chefs' menus, personality profiles and thought-provoking editorial.</p>
 				
@@ -60,7 +103,7 @@
 					&nbsp;&nbsp;results are weighted to match the demographic and net worth profile<br /> 
 					&nbsp;&nbsp;of the same audience according to the latest Survey of Consumer<br /> 
 					&nbsp;&nbsp;Finances from the Federal Reserve.</li>
-				</ul>
+				</ul> -->
 			</div>
 			<!--left side body-->
 			

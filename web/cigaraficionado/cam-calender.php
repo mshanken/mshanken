@@ -25,7 +25,7 @@
 				<hr class="ca"><br />
 				
                 <p>&nbsp;</p>
-                <h2 class="ca">2012 Issue Dates and Deadlines</h2>
+                <h2 class="ca">2013 Issue Dates and Deadlines</h2>
 				<hr class="ca">
 				
                 <!--<p>Please contact us for the most up&#45;to&#45;date versions.</p> -->
@@ -40,46 +40,53 @@
 					<td align="center" bgcolor="#63ac9b" width="20%"><p class="title"><b>Newsstand<br />On-Sale Date</b></p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">Jan/Feb 2012</p></td>
-					<td><p>Nov 29, 2011</p></td>
-					<td><p>Dec 6, 2011</p></td>
-					<td><p>Jan 4, 2012</p></td>
-					<td><p>Jan 24, 2012</p></td>
+					<td><p style="margin-left:5px;">Jan/Feb 2013</p></td>
+					<td><p>Nov 30, 2012</p></td>
+					<td><p>Dec 7, 2012</p></td>
+					<td><p>Jan 3, 2013</p></td>
+					<td><p>Jan 15, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">March/April 2012</p></td>
-					<td><p>Jan 20, 2012</p></td>
-					<td><p>Jan 27, 2012</p></td>
-					<td><p>Feb 21, 2012</p></td>
-					<td><p>March 13, 2012</p></td>
+					<td><p style="margin-left:5px;">March/April 2013</p></td>
+					<td><p>Jan 18, 2013</p></td>
+					<td><p>Jan 25, 2013</p></td>
+					<td><p>Feb 19, 2013</p></td>
+					<td><p>March 12, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">May/June 2012</p></td>
-					<td><p>March 2, 2012</p></td>
-					<td><p>March 9, 2012</p></td>
-					<td><p>April 3, 2012</p></td>
-					<td><p>April 24, 2012</p></td>
+					<td><p style="margin-left:5px;">May/June 2013</p></td>
+					<td><p>March 1, 2013</p></td>
+					<td><p>March 8, 2013</p></td>
+					<td><p>April 2, 2013</p></td>
+					<td><p>April 23, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">July/August 2012</p></td>
-					<td><p>May 3, 2012</p></td>
-					<td><p>May 10, 2012</p></td>
-					<td><p>June 5, 2012</p></td>
-					<td><p>June 26, 2012</p></td>
+					<td><p style="margin-left:5px;">July/August 2013</p></td>
+					<td><p>May 3, 2013</p></td>
+					<td><p>May 10, 2013</p></td>
+					<td><p>June 4, 2013</p></td>
+					<td><p>June 25, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">Sept/Oct 2012</p></td>
-					<td><p>July 6, 2012</p></td>
-					<td><p>July 13, 2012</p></td>
-					<td><p>Aug 7, 2012</p></td>
-					<td><p>Aug 28, 2012</p></td>
+					<td><p style="margin-left:5px;">Sept/Oct 2013</p></td>
+					<td><p>July 5, 2013</p></td>
+					<td><p>July 12, 2013</p></td>
+					<td><p>Aug 6, 2013</p></td>
+					<td><p>Aug 27, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
-					<td><p style="margin-left:5px;">Nov/Dec 2012</p></td>
-					<td><p>Sept 14, 2012</p></td>
-					<td><p>Sept 21, 2012</p></td>
-					<td><p>Oct 16, 2012</p></td>
-					<td><p>Nov 6, 2012</p></td>
+					<td><p style="margin-left:5px;">Nov/Dec 2013</p></td>
+					<td><p>Sept 13, 2013</p></td>
+					<td><p>Sept 20, 2013</p></td>
+					<td><p>Oct 15, 2013</p></td>
+					<td><p>Nov 5, 2013</p></td>
+				</tr>
+				<tr bgcolor="#f8f8f4">
+					<td><p style="margin-left:5px;">Jan/Feb 2014</p></td>
+					<td><p>Nov 22, 2013</p></td>
+					<td><p>Dec 2, 2013</p></td>
+					<td><p>Dec 20, 2014</p></td>
+					<td><p>Jan 10, 2014</p></td>
 				</tr>
 				</table>
             </div>				

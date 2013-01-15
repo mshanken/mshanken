@@ -25,7 +25,7 @@
 				<h1 class="fa">Calendars</h1>
 				<hr class="fa"><br />
 				
-				<h2 class="fa">2012 Issue Dates and Deadlines</h2>
+				<h2 class="fa">2013 Issue Dates and Deadlines</h2>
 				<hr class="fa"><br />
 				
 				<table align="center" id="calender" width="90%" border="0" cellspacing="1" cellpadding="1" bgcolor="#d3b253">
@@ -36,58 +36,58 @@
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; January/February</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 12/5/11</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp;12/8/11</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 12/10/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp;12/13/12</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; March</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 1/17/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 1/20/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 1/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 1/22/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 2/15/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 2/21/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 2/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 2/20/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; May</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 3/15/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 3/20/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 3/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 3/20/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; June</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 4/16/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 4/19/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 4/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 4/18/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; July/August</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 6/15/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 6/18/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 6/10/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 6/13/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; September</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 7/16/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 7/19/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 7/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 7/18/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; October</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 8/15/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 8/20/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 8/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 8/20/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; November</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 9/17/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 9/20/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 9/16/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 9/19/13</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; December</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 10/15/12</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 10/18/12</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 10/15/13</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;&nbsp; 10/18/13</p></td>
 				</tr>
             </table>
 				<br /><br />
 				
-				<h2 class="fa">2012 Editorial Calendar</h2>
+				<h2 class="fa">2013 Editorial Calendar</h2>
 				<hr class="fa">
 				
 				<p>Please contact us for the most up&#45;to&#45;date version.</p>
@@ -95,16 +95,15 @@
 				<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">                
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Jan/Feb.</b></p></td>
-					<td><p><font color="#919342"><b>Special Double Issue</b></font><br /></p>
+					<td><p><font color="#919342"><b>Special Double Issue<br />Special Bonus Distribution</b></font><br /><em>NAFEM<br /> Show
+Women Chefs & Restaurateurs National Conference</em></p>
                     <ul style="list-style-image:url(../images/list-icon-8-1.gif)">
-                    	<li>Annual Roundup Industry & Culinary Award Winners</li>
-                        <li>Bar Biz</li>
-                        <li>Kitchen Spy: Equipment Feature</li>
-                        <li>Wine Report</li>
-                        <li>Flavor Patrol</li>
-                        <li>Tech Talk</li>
-                        <li>Techniques</li>
-                        <li>Recipes</li>
+                    	<li>Bar Biz</li>
+						<li>Wine Report</li>
+						<li>Equipment: Kitchen Designers’ Favorite Gear</li>
+						<li>Tech Talk</li>
+						<li>Kitchen Spy: Equipment Feature</li>
+						<li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
@@ -116,81 +115,72 @@
                         <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
                         <li>Wine Report</li>
-                        <li>Flavor Patrol</li>
                         <li>Cups & Co.</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>April</b></p></td>
-					<td><p><font color="#919342"><b>F&B Trends<br />Special Bonus Distributio</b></font><br />
-                    <em>Greystone Flavor Summit<br />IACP Conference</em></p>
+					<td><p><font color="#919342"><b>F&B Trends<br />Special Bonus Distribution</b></font><br />
+                    <em>Food Arts/CIA Flavor Summit at Greystone<br />ACP Conference</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                         <li>Mystery Basket</li>
-                        <li>Bar Biz</li>
-                        <li>Wine Report</li>
-                        <li>Flavor Patrol</li>
-                        <li>Tabletop: China, Glass, Silver</li>
-                        <li>Tech Talk</li>
-                        <li>Techniques</li>
-                        <li>Recipes</li>
+						<li>The New Indulgence: Vegetarian Options</li>
+						<li>Drink Arts</li>
+						<li>Wine Report</li>
+						<li>Tabletop: China, Glass, Silver</li>
+						<li>Hotel Kitchen Equipment</li>
+						<li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>May</b></p></td>
 					<td><p><font color="#919342"><b>Special Bonus Distribution</b></font><br />
-                    <em>National Restaurant Association Restaurant, Hotel-Motel Show</em></p>
+                    <em>National Restaurant Association Restaurant, Hotel-Motel Show<br />Food Arts 15th Annual Championship BBQ & Cookout</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                     	<li>Top Chefs’ Hits & Flops</li>
-                        <li>Chain Reaction: Pizza</li>
-                        <li>Chicago Restaurant Roundup</li>
-                        <li>Bar Biz</li>
-                        <li>Wine Report</li>
-                        <li>Tabletop: China, Glass, Silver</li>
-                        <li>Kitchen Spy: Equipment Feature</li>
-                        <li>Techniques</li>
-                        <li>Recipes</li>
+						<li>Spotlight on Burgers</li>
+						<li>Bar Biz</li>
+						<li>Kitchen Spy: Equipment Feature</li>
+						<li>Wine Report</li>
+						<li>Tabletop: China, Glass, Silver</li>
+						<li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>June</b></p></td>
 					<td><p><font color="#919342"><b>The Americana Issue</b></font><br />
-                    <em>Harvey Communication Study<br />The Green Album: Update of Responsible Steps Being<br />Taken Throughout the Food Industry (Chains, Independents,
-Manufacturers, Wineries, etc.)</em></p>
+                    <em>Harvey Communication Study<br />The Green Album: Sustainability Update</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                         <li>American Cuisine</li>
                         <li>Flavor Summit Conference Review</li>
                         <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
                         <li>Wine Report </li>
-                        <li>Tech Talk</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Jul/Aug.</b></p></td>
-					<td><p><font color="#919342"><b>Special Double Issue<br />Special Bonus Distribution</b></font><br />
-                    American Culinary Federation Conference</p>
+					<td><p><font color="#919342"><b>Special Double Issue<br />Special Bonus Distribution</b></font><br /><em>
+                    American Culinary Federation Conference<br />SF Chefs<br />The National Association of College & University<br />Food Services (NACUFS)</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                     	<li>Nationwide Fall/Winter Menu Previews</li>
                         <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
                         <li>Wine Report</li>
-                        <li>Flavor Patrol</li>
                         <li>Tabletop: China, Glass, Silver</li>
-                        <li>Chain Reaction: Quality on the Menu</li>
-                        <li>Techniques</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Sep.</b></p></td>
-					<td><p><font color="#919342"><b>Technology in the Kitchen</b></font><br /></p>
+					<td><p><font color="#919342"><b>On-the-Horizon Rising Stars</b></font><br /></p>
                     <ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                     	<li>Mystery Basket</li>
                         <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
-                        <li>Wine Report</li>
+                        <li>Wine Pairings Portfolio</li>
                         <li>Cups & Co.</li>
                         <li>Tech Talk</li>
                         <li>Recipes</li>
@@ -199,22 +189,19 @@ Manufacturers, Wineries, etc.)</em></p>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Oct.</b></p></td>
 					<td><p><font color="#919342"><b>Europe on the Menu<br />Special Bonus Distribution</b></font><br />
-                    <em>Wine Spectator’s New World Wine Experience<br />Banquets and Catering</em></p>
+                    <em>Wine Spectator’s New York Wine Experience</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                         <li>International Culinary Trends</li>
-                        <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
                         <li>Wine Report</li>
-                        <li>Flavor Patrol</li>
                         <li>Tabletop: China, Glass, Silver</li>
-                        <li>Techniques</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Nov.</b></p></td>
-					<td><p><font color="#919342"><b>Special Bonus Distribution</b></font><br />
-                    <em>International Hotel/Motel & Restaurant Show<br />Women Chefs & Restaurateurs National Conference</em></p>
+					<td><p><font color="#919342"><b>Focus on Hotelsz,br />Special Bonus Distribution</b></font><br />
+                    <em>International Hotel/Motel & Restaurant Show</em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                         <li>F&B Updates</li>
                         <li>Top Chefs’ Hits & Flops</li>
@@ -223,21 +210,20 @@ Manufacturers, Wineries, etc.)</em></p>
                         <li>Wine Report</li>
                         <li>Tabletop: China, Glass, Silver </li>
                         <li>Chain Reaction: Hotels</li>
-                        <li>Tech Talk</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
 				<tr>
 					<td valign="top"><p style="color:#919342;"><b>Dec.</b></p></td>
-					<td><p><font color="#919342"><b>The Year in Review</b></font><br />
-                    <em>Brand New: A Food and Drinks Recipe Collection</em></p>
+					<td><p><font color="#919342"><b>The Year in Review</b></font><!-- <br />
+                    <em>Brand New: A Food and Drinks Recipe Collection --></em></p>
 					<ul style="list-style-image:url(../images/list-icon-8-1.gif)">
                     	<li>Significant Top Trends, Hot Ingredients, & Milestone Happenings</li>
                         <li>Bar Biz</li>
-                        <li>Flavor Patrol</li>
                         <li>Wine Report</li>
-                        <li>Techniques</li>
+                        <li>Kitchen Spy: Equipment Feature</li>
                         <li>Chef Cookbook Roundup</li>
+                        <li>Tech Talk</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>

@@ -36,58 +36,58 @@
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; January/February</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Dec 29, 2011</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Jan 1, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Jan 2, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Jan 4, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; March</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Jan 30, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Feb. 1, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Jan 28, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Jan 30, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; April</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;March 3, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;March 7, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;March 7, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;March 11, 2013</p></td>
 				</tr>
                 <tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; May</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;April 4, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;April 9, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;April 4, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;April 8, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; June</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;May 2, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;May 7, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;May 3, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;May 8, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; July/August</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;June 4, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;June 8, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;June 11, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;June 17, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; September</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;July 27, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Aug 1, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Aug 9, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Aug 15, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; Leaders</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Aug 17, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Aug 22, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Aug 15, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Aug 19, 2013</p></td>
 				</tr>
 				<tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; October</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Sep 4, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Sep 10, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Sep 6, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Sep 12, 2013</p></td>
 				</tr>
                 <tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; November</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Sep 27, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Oct 1, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Oct 4, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Oct 8, 2013</p></td>
 				</tr>
                 <tr bgcolor="#f8f8f4">
 					<td><p>&nbsp;&nbsp;&nbsp; December</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Oct 25, 2012</p></td>
-					<td><p>&nbsp;&nbsp;&nbsp;Oct 29, 2012</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Nov 1, 2013</p></td>
+					<td><p>&nbsp;&nbsp;&nbsp;Nov 5, 2013</p></td>
 				</tr>
 				</table>
                 
@@ -100,15 +100,18 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>Jan./Feb.:</b></p></td>
 					<td><!--<p><font color="#e5874a"><b>On Premise Player of the Year</b></font></p> -->
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Flavored Whiskies Feature</li>
-                        <li>On-Premise Profile: Cosmopolitan Hotel Retailer Profile: Tamura's, Hawaii</li>
-                        <li>Bar Talk: Cutting-edge ice programs</li>
-                        <li>Beer National Retail Sales Update</li>
-                        <li>2011 In Review</li>
-                        <li>Crystal Ball: A Look Ahead to 2012</li>
-                        <li>City Scope: Honolulu</li>
+                    	<li>Armagnac Feature</li>
+                        <li>Mixology: Veggie Cocktails</li>
+                        <li>On-Premise Profile: Fox Restaurant Concepts</li>
+                        <li>On-Premise Profile: On Revel Casino in Atlantic City</li>
+                        <li>Retailer Profile: Berbiglia, Kansas City</li>
+                        <li>Craft Spirits</li>
+                        <li>Deschutes Brewery Profile</li>
+                        <li>Jim Beam American Stillhouse</li>
+                        <li>Crystal Ball: A Look Ahead In 2013</li>
+                        <li>City Scope: Atlantic City</li>
                         <li>Wine Files: California</li>
-                        <li>Beer Watch: Bottle Share Events</li>
+                        <li>Beer Watch: Craft Beer And The Inflight Channel</li>
                 	</ul></td>
                 </tr>
                 
@@ -116,18 +119,19 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>March:</b></p></td>
 					<td><p><font color="#e5874a"><b>On Premise Player of the Year</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Vodka Feature</li>
-                        <li>On-Premise Player Of The Year</li>
-                        <li>Retailer Profile: House of Bacchus</li>
-                        <li>Beer Marketers Launch Major On-Premise Initiatives</li>
-                        <li>Bar Talk: Profile of EveningAgent.com</li>
-                        <li>City Scope: San Antonio</li>
-                        <li>Mixology: Latest Trends for Tequila Cocktails</li>
-                        <li>Wine Files: France</li>
-                        <li>Wine Sense: Madeira</li>
-                        <li>Beer Watch: Tap Takeovers—Bars With One Brew
-                        On Special Events</li>
-                        <li><strong><em>Special Bonus Distribution: Nightclub & Bar Show and Impact Marketing Seminar</em></strong></li>
+                    	<li>Vodka Category Feature</li>
+                        <li>Mixology: Rye And Other American Whiskies</li>
+                        <li>On-Premise Player of the Year</li>
+                        <li>On-Premise Profile: Enlightened Hospitality</li>
+                        <li>Retailer Profile: Lisa’s Liquor Barn</li>
+                        <li>More States Look To Allow Wine Sales In Supermarkets</li>
+                        <li>Washington State Privatization</li>
+                        <li>Delivery Web Sites (New companies in markets like Austin and San Francisco that deliver beverage alcohol to people’s homes)</li>
+                        <li>Bar Talk: Cocktail Machines</li>
+                        <li>City Scope: Pittsburgh</li>
+                        <li>Wine Files: Argentina</li>
+                        <li>Beer Watch: Temperature Control for Beer</li>
+                        <li><strong>Special Bonus Distribution: Impact Marketing Seminar</strong></li>
                 	</ul></td>
                 </tr>
                                
@@ -135,17 +139,17 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>April:</b></p></td>
 					<td><p><font color="#e5874a"><b>Hot Brand Awards</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Gin Feature</li>
-                        <li>On-Premise Profile: Block 16 Group</li>
-                        <li>Retailer Profile: Bruisin' Ales</li>
-                        <li>Beer Festivals Expand At Fast Pace</li>
-                        <li>Hot Brand Awards: Spirits and Wine</li>
-                        <li>City Scope: Salt Lake City</li>
-                        <li>Wine Files: Australia</li>
-                        <li>Wine Sense: Alsace</li>
+                    	<li>Gin Category Feature</li>
+                        <li>On-Premise Profile: EMM Group</li>
+                        <li>On-Premise Profile: Koi Restaurant Group</li>
+                        <li>Beer and Running</li>
+                        <li>Hot Brands Feature</li>
+                        <li>Bottle Shops Feature</li>
+                        <li>Wine Files: Cutting-Edge By-The-Glass Programs</li>
+                        <li>Beer Watch: Local Pours Dominate In Some Markets</li>
                         <li>Beer Watch: Beer & Bikes</li>
-                        <li><strong><em>Special Bonus Distribution: Wine & Spirits
-                        Wholesalers of America</em></strong></li>
+                        <li><strong><em>Special Bonus Distribution: Wine & Spirits Wholesalers of
+America/em></strong></li>
                 	</ul></td>
                 </tr>
                 
@@ -153,19 +157,20 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>May:</b></p></td>
 					<td><p><font color="#e5874a"><b>Control State Roundup/NABCA</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Rum Feature</li>
-                        <li>Liqueurs Feature</li>
-                        <li>On-Premise Profile: Hospitality Holdings</li>
-                        <li>Retailer Profile: Pennsylvania Liquor Control Board</li>
-                        <li>Imported Beer Back In Growth Mode</li>
-                        <li>Control State Roundup</li>
-                        <li>Impact Seminar Roundup</li>
-                        <li>CityScope: Albuquerque and Santa Fe</li>
-                        <li>Wine Files: New Zealand</li>
-                        <li>Wine Sense: Gruet Winery, New Mexico</li>
-                        <li>Beer Watch Column</li>
-                        <li><strong><em>Special Bonus Distribution: National Restaurant Association
-                        and National Alcohol Beverage Control Association</em></strong></li>
+                    	<li>Rum Category Feature</li>
+						<li>Mixology: Spirits Outside Traditional Categories (Hybrid
+						liqueurs, etc.)</li>
+						<li>On-Premise Profile: Bourbon & Branch</li>
+						<li>Retailer Feature: Fresh Market</li>
+						<li>Control State Roundup</li>
+						<li>Impact Seminar Roundup</li>
+						<li>City Scope: Detroit</li>
+						<li>Red Robin, Other Chains Take New Approach To Cocktails</li>
+						<li>Craft Brewers Tilt To India Pale Ales (IPAs)</li>
+						<li>Wine Files: Australia</li>
+						<li>Beer Watch: Brewery-Winery Hybrids</li>
+						<li><strong><em>Special Bonus Distribution: National Alcohol Beverage
+						Control Association and National Restaurant Association</em></strong></li>
                 	</ul></td>
                 </tr>
                 
@@ -173,17 +178,18 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>June:</b></p></td>
 					<td><p><font color="#e5874a"><b>Beer Season</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Pre-Mixed Cocktails Feature</li>
-                        <li>On-Premise Profile: Tilted Kilt</li>
-                        <li>Retailer Profile: Family Beer and Liquor</li>
-                        <li>Belgian Brews</li>
-                        <li>Top Beer Brands Rankings</li>
-                        <li>Movie Theatres Emerge As Drinks Venues</li>
-                        <li>City Scope</li>
-                        <li>Mixology: Latest Cocktail Trends for Vodka</li>
-                        <li>Wine Files: Chile</li>
-                        <li>Beer Watch Column</li>
-                        <li><strong><em>Special Bonus Distribution: American Beverages Licensees</em></strong></li>
+                    	<li>Cider Category Feature</li>
+						<li>Mixology: Vodka</li>
+						<li>Moonshine’s Renaissance ( White Whisky)</li>
+						<li>On-Premise Profile: Big Night Entertainment Group</li>
+						<li>Retailer Profile: Lund’s Supermarkets</li>
+						<li>City Scope: Birmingham</li>
+						<li>Beach Bars</li>
+						<li>Growler Update</li>
+						<li>Bar Talk: Alcohol-Based Snow Cones and Slushies</li>
+						<li>Wine Files: Rosés and Other Summer Wines</li>
+						<li>Beer Watch: Beer and the Cruise Ship Channel</li>
+						<li><strong><em>Special Bonus Distribution: American Beverages Licensees</em></strong></li>
                 	</ul></td>
                 </tr>
                 
@@ -191,18 +197,19 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>July/August:</b></p></td>
 					<td><p><font color="#e5874a"><b>Las Vegas</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Tequila Feature</li>
-                        <li>Sangria Feature</li>
-                        <li>On-Premise Profile: Taco Mac</li>
-                        <li>Craft Brewer Profile: Brooklyn Brewery, NY Texas Retail Scene: A Roundup</li>
-                        <li>Hot Brand Awards Roundup</li>
-                        <li>CityScope</li>
-                        <li>Mixology: Latest Cocktail Trends for Rum</li>
-                        <li>Wine Files: Alsace</li>
-                        <li>Beer Watch Column</li>
-                        <li>Special Advertorial Section: Summer Cocktails</li>
-                        <li><strong><em>Special Bonus Distribution: Texas Package Store Association
-                        and Tales of the Cocktail</em></strong></li>
+                    	<li>Tequila Category Feature</li>
+						<li>Sangria Category Feature</li>
+						<li>Mixology: Gin</li>
+						<li>On-Premise Profile: Zislis Group</li>
+						<li>On-Premise Profile: Changes at Ruth’s Chris</li>
+						<li>Retailer Profile: Goody Goody</li>
+						<li>City Scope: Boston</li>
+						<li>Wine Files: Branded Wines Targeting Women</li>
+						<li>The Sweet Red Wine Phenomenon</li>
+						<li>Beer Watch</li>
+						<li>Special Advertorial Section: Summer Cocktails</li>
+						<li><strong><em>Special Bonus Distribution: Texas Package Store
+						Association and Tales of the Cocktail</em></strong></li>
                 	</ul></td>
                 </tr>
                 
@@ -210,17 +217,20 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>September:</b></p></td>
 					<td><p><font color="#e5874a"><b>Whiskey</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Bourbon Feature</li>
-                        <li>Irish Whiskey Feature</li>
-                        <li>On-Premise Profile: Morton's</li>
-                        <li>Retailer Profile: Brown Derby</li>
-                        <li>Craft Distiller Profile: St. George Spirits
-                        <li>Sailing Events and Sprits</li></li>
-                        <li>Retail Stores As Travel Agents</li>
-                        <li>On-Premise: Promoting Oktoberfest</li>
-                        <li>City Scope</li>
-                        <li>Wine Files: Argentina</li>
-                        <li>Beer Watch: Influencer Accounts</li>
+                    	<li>Bourbon Category Feature</li>
+						<li>Irish Whiskey Category Feature</li>
+						<li>Mixology: Tequila</li>
+						<li>On-Premise Profile: Brick House Tavern Plus Tap</li>
+						<li>Retailer Profile: DeCicco’s, New York State</li>
+						<li>Craft Brewer Profile: Bell’s Brewery</li>
+						<li>Beer Hot Brands</li>
+						<li>Beer Wholesaler of the Year Profile</li>
+						<li>Craft Beer In Mainstream Retail Accounts</li>
+						<li>City Scope: Kansas City, MO</li>
+						<li>Wine Files: Spain</li>
+						<li>Beer Watch</li>
+						<li><strong><em>Special Bonus Distribution: National Beer Wholesalers
+						Association</em></strong></li>
                 	</ul></td>
                 </tr>
                 
@@ -229,8 +239,11 @@
 					<td><p><font color="#e5874a"><b><em>Annual Retail Awards Publication</em></b></font></p>
 						<dl>
                         	<dt><p><strong><em>Leaders Banquet</em></strong><br />
-                                Profiles of Six Leaders, Four Alumni Award Winners and The Retailer of the Year<br />
-                                Publication honoring the best industry retailers in the country. Leaders awards are presented at the annual Leaders Dinner event attended by retailers, wholesale and supplier executives.</p></dt>
+                                Profiles of Six Leaders, Four Alumni Award Winners and The
+								Retailer of the Year. The Publication honors the best industry
+								retailers in the country. Leaders awards are presented at the
+								annual Leaders Dinner event attended by retail, wholesale and
+								supplier executives.</p></dt>
                         </dl>                
                 	</td>
                 </tr>
@@ -239,22 +252,19 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>October:</b></p></td>
 					<td><p><font color="#e5874a"><b>Hot Prospect Brand Awards</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Blended Scotch Whisky Feature</li>
-                        <li>Single Malt Scotch Feature</li>
-                        <li>On-Premise Profile: Belgian Beer Café</li>
-                        <li>Retailer Profile: Schaefer's, Chicago</li>
-                        <li>Hot Prospect Brand Awards</li>
-                        <li>Beer Hot Brand Awards</li>
-                        <li>Beer Wholesaler of the Year Profile</li>
-                        <li>Extreme Sports Sponsorships</li>
-                        <li>Holiday Forecast</li>
-                        <li>CityScope</li>
-                        <li>Mixology: Latest Cocktail Trends for Gin</li>
-                        <li>Wine Files: Spain</li>
-                        <li>Beer Watch: Craft Brewers and Christmas</li>
-                        <li>Special Advertising Section: Holiday Gift Giving & Gift Packs</li>
-                        <li><em><strong>Special Bonus Distribution: National Beer Wholesalers
-                        Association and Wine Spectator Wine Experience</strong></em></li>
+                    	<li>Scotch Whisky Category Feature</li>
+						<li>Single Malt Category Feature</li>
+						<li>Mixology: Trends At Tales of the Cocktail</li>
+						<li>On-Premise Profile: Public House gastropub chain</li>
+						<li>Retailer Feature: Jubilation Wines & Spirits, Albuquerque NM</li>
+						<li>Spirits and Wine “Hot Prospect” Brands</li>
+						<li>City Scope: Tampa/St. Pete</li>
+						<li>Wine Files: Italy</li>
+						<li>Beer Watch</li>
+						<li><em><strong>Special Advertising Section: Hot Prospect Brands and
+						Holiday Gift Giving</strong></em></li>
+						<li><em><strong>Special Bonus Distribution: Wine Spectator Wine
+						Experience</strong></em></li>
                 	</ul></td>
                 </tr>
                 
@@ -262,17 +272,15 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>November:</b></p></td>
 					<td><p><font color="#e5874a"><b>Champagne & Sparkling Wine</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Canadian Whisky Feature</li>
-                        <li>On-Premise Profile: World Of Beer</li>
-                        <li>Retailer Profile: Heinen's, Cleveland</li>
-                        <li>Sparkling Wine Feature</li>
-                        <li>Imported Vodka Feature</li>
-                        <li>Draft Beer Update</li>
-                        <li>Craft Brewer Profile: Great Lakes Brewing</li>
-                        <li>Leaders Banquet Roundup</li>
-                        <li>City Scope</li>
-                        <li>Mixology: Latest Cocktail Trends for Liqueurs Wine Files: Italy</li>
-                        <li>Beer Watch Column</li>
+                    	<li>Canadian Whisky Category Feature</li>
+						<li>Sparkling Wine (including Prosecco and Champagne)</li>
+						<li>Mixology: Liqueurs</li>
+						<li>Las Vegas Feature</li>
+						<li>On-Premise Profile: Sage Restaurant Group</li>
+						<li>Retailer Feature: Bottle Bargains, Northport, NY</li>
+						<li>Leaders Banquet Roundup</li>
+						<li>Philadelphia-Area Casinos</li>
+						<li>Beer Watch</li>
                 	</ul></td>
                 </tr>
                 
@@ -280,16 +288,14 @@
                 	<td valign="top"><p style="color:#e5874a;"><b>December:</b></p></td>
 					<td><p><font color="#e5874a"><b>Blue Chip Brand Awards</b></font></p>
 					<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-                    	<li>Cognac Feature</li>
-                        <li>On-Premise Profile: Three Headed Productions</li>
-                        <li>Retailer Profile: Haggen's/Top Foods, Washington-Oregon</li>
-                        <li>Blue Chip Brand Awards</li>
-                        <li>Cider Roundup</li>
-                        <li>NBWA Hot Brands Roundup</li>
-                        <li>City Scope</li>
-                        <li>Mixology: Latest Cocktail Trends for Whisk(e)y</li>
-                        <li>Wine Files: Pacific Northwest</li>
-                        <li>Beer Watch Column</li>
+                    	<li>Imported Vodka Feature</li>
+						<li>Cognac Category Feature</li>
+						<li>Mixology: Top Trends Among Star Mixologists</li>
+						<li>Blue Chip Brands</li>
+						<li>On-Premise Profile: Fleming’s</li>
+						<li>Retailer Feature: Tower, Atlanta, GA</li>
+						<li>Wine Files: Chile</li>
+						<li>Beer Watch</li>
                 	</ul></td>                
                 </tr>
                 </table>
