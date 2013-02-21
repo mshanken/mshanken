@@ -44,18 +44,19 @@
 				<hr class="mw">
 
 				<ul style="list-style-image:url(../images/list-icon-10-1.gif)">
-						<li>Market Watch is the voice of the industry, providing crucial information to your customers (on-premise and off-premise) so they can
-						aggressively promote and sell alcoholic beverages.</li>
-						
-						<li>Market Watch maintains a constant, active presence at all industry functions (including WSWA, NABCA, NRA, ABL, NBWA and the
-						Wine &amp; Spirits Guild).</li>
-						
-						<li>Market Watch gives you 170,000 buyers 7 times a year who request and read each issue!</li>
-						
-						<li>Market Watch readers offer enormous purchasing power: on-premise beverage sales average $1.6 million per outlet annually; off-premise 
-						average is $1.8 million!</li>
-						
-						<li><b>Market Watch is the industry's No. 1 source for business information!</b></li>
+					<li><i>Market Watch</i> is the voice of the industry, providing crucial trend and market information to your customers
+(on-premise and off-premise) so they can aggressively promote and sell alcoholic beverages.</li>
+				
+					<li><i>Market Watch</i> maintains a constant, active presence at all industry functions (including WSWA, NABCA,
+NRA, ABL, Nightclub & Bar, NBWA and the Wine & Spirits Guild).</li>
+
+					<li><i>Market Watch</i> gives you 53,000+ buyers (135,000+ with pass along readership, Harvey Research Study)
+11 times a year who request and read each issue!</li>
+
+					<li><i>Market Watch</i> readers offer enormous purchasing power: on-premise beverage sales average $1.6 million
+per outlet annually; off-premise average is $1.8 million!</li>
+				
+					<li><strong><i>Market Watch</i> is the industry's number one source for business information!</strong></li>
 				</ul>                
 			</div>            
 			<!--left side body-->
@@ -66,7 +67,7 @@
             </div>
 			<!--right side body-->
 			
-            <p align="center" style="clear:both;">Questions about your Market Watch subscription?  <a href="http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer care&addurl=eid=E99999" target="_blank" style="text-decoration:underline;">Click Here</a> to access Customer Care.</p>
+            <p align="center" style="clear:both;">Questions about your <i>Market Watch</i> subscription?  <a href="http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer care&addurl=eid=E99999" target="_blank" style="text-decoration:underline;">Click Here</a> to access Customer Care.</p>
 
 		</div>
         
