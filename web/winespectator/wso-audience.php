@@ -43,12 +43,12 @@
                 
                 <h2 class="ws">Ad Sizes</h2>
                 <ul style="list-style-image:url(../images/list-icon-1-1.gif)">
-					<li>300 x 250</li>
-                    <li>160 x 600</li>
-                    <li>728 x 90</li>
 					<li>300 x 600</li>
+					<li>300 x 250</li>
+                    <li>728 x 90</li>
                     <li>234 x 60</li>
-					<li>120 x 600</li>
+                    <!-- <li>160 x 600</li>
+					<li>120 x 600</li> -->
 				</ul>
                 <p>We will tailor the proposal based on advertiser goals and objectives. Our minimum buy is $5,000 net per month.</p>
                 

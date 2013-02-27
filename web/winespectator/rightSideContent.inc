@@ -1,7 +1,7 @@
 
 <?php
 if (($header == "wso-overview") || ($header ==  "wso-glossary") || ($header == "wso-audience") || ($header == "wso-adspecs") || ($header == "wso-adplace") || ($header == "wso-mobile"))
-    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSOMedia_Kit2011.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Online Media Kit</a></p></div>";
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSOnlineMediakit2013.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Online Media Kit</a></p></div>";
 ?>
 
 <?php

@@ -13,7 +13,7 @@ if ($header == "ca-events")
 <!-- cao-adspecs cao-audience cao-overview cao-glossary -->
 <?php
 if (($header == "cao-adspecs") || ($header == "cao-audience") || ($header == "cao-overview") || ($header == "cao-glossary"))
-	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CAOmediakit2012.pdf\" target=\"_blank\"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CAOmediakit2013.pdf\" target=\"_blank\"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>";
 ?>
 
 <!-- cam-calendar cam-adspec cam-prodspec  -->
