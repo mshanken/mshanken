@@ -3,21 +3,21 @@
                 
 		$imageBackground = "im/im-main-image.jpg";
 		
-		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a></p>";
+		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a> | <a href=\"http://www.impactdatabank.com\" target=\"_blank\">IMPACT DATABANK</a></p></p>";
 		
 } elseif ( $header == "imm-calendar" ){
 		$menu = "<p class=\"immsm\"><a href=\"index.php\"><span>MAGAZINE</span></a> | <a href=\"im-events.php\">EVENTS</a></p>";
             
 		$imageBackground = "im/im-main-image.jpg";
 		
-		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <span>CLOSING DATES</span> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a></p>";
+		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <span>CLOSING DATES</span> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a> | <a href=\"http://www.impactdatabank.com\" target=\"_blank\">IMPACT DATABANK</a></p></p>";
 				
 } elseif ( $header == "imm-prodspec" ){
 		$menu = "<p class=\"immsm\"><a href=\"index.php\"><span>MAGAZINE</span></a> | <a href=\"im-events.php\">EVENTS</a></p>";
             
 		$imageBackground = "im/im-main-image.jpg";
 		
-		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <span>PRODUCTION SPECS</span> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a></p>";
+		$submenu = "<p class=\"immsm\"><a href=\"index.php\">OVERVIEW</a> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a> | <span>PRODUCTION SPECS</span> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a> | <a href=\"http://www.impactdatabank.com\" target=\"_blank\">IMPACT DATABANK</a></p></p>";
 				
 } elseif ( $header == "im-events" ){
 		$menu = "<p class=\"immsm\"><a href=\"index.php\">MAGAZINE</a> | <span>EVENTS</span></p>";
@@ -31,7 +31,7 @@
                 
 		$imageBackground = "im/im-main-image.jpg";
 		
-		$submenu = "<p class=\"immsm\"><span>OVERVIEW</span> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a></a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a></p>";
+		$submenu = "<p class=\"immsm\"><span>OVERVIEW</span> | <a href=\"http://mshankencustompublishing.com/\" target=\"_blank\">CUSTOM MEDIA</a></a> | <a href=\"imm-prodspec.php\">PRODUCTION SPECS</a> | <a href=\"imm-calender.php\">CLOSING DATES</a> | <a href=\"#\" onclick=\"javascript:vartarget=window.open('../contact.html#impact','','scrollbars=yes,resizable=no,status=no,width=690,height=600');javascript:void(0);\">CONTACT US</a> | <a href=\"https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999\" target=\"_blank\">CUSTOMER CARE</a> | <a href=\"http://www.impactdatabank.com\" target=\"_blank\">IMPACT DATABANK</a></p></p>";
 				
 } elseif( $header == "ca-events" ){
 		$menu = "<p class=\"camsm\"><a href=\"index.php\">MAGAZINE</a> | <a href=\"cao-overview.php\">ONLINE</a> | <span>EVENTS</span></p>";

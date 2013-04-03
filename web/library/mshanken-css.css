@@ -56,9 +56,10 @@ td hr, hr {margin:0px;padding:0px;height:0;border-top-style:solid;border-bottom-
 td a , a{color:#3a1c02;text-decoration:none;}
 td ul, ul{margin-left:17px;margin-top:0px;padding-left:17px;padding-top:0px;}
 
-.toaPDFfile{background:url(../images/pdfIcon.gif) no-repeat #eae9e0 5px 3px; height:35px; padding:5px; margin:5px 0; width:255px}
-.toaPDFfile p{margin:0; font-size:11px; font-weight:bold; vertical-align:middle; padding-left:45px;}
-.toaPDFfile a{color:#572700;}
+.toaPDFfile, .toaExternalSite{background:url(../images/pdfIcon.gif) no-repeat #eae9e0 5px 3px; height:35px; padding:5px; margin:5px 0; width:255px;}
+.toaExternalSite{background-image:none;}
+.toaPDFfile p, .toaExternalSite p{margin:0; font-size:11px; font-weight:bold; vertical-align:middle; padding-left:45px;}
+.toaPDFfile a, .toaExternalSite a{color:#572700;}
 .rightColumnContent p{margin:0 0 7px;}
 .rightColumnContent table{width:267px; margin:0; padding:0;margin-bottom:5px; background-color:#dbdac8}
 .rightColumnContent td p{margin:5px 0 0 10px;}
@@ -78,6 +79,7 @@ td ul, ul{margin-left:17px;margin-top:0px;padding-left:17px;padding-top:0px;}
 
 #calender p {font:11px Arial, Helvetica, sans-serif;margin:08px 0 08px 15px;}
 #calender p.title {font:12px Arial, Helvetica, sans-serif;color:#fff;margin:5px 0 05px 0;}
+.big {font-size:14px;}
 
 #adplacetable li{{font:13px Arial, Helvetica, sans-serif;color:#000;margin:5px 0 05px 0;}
 #adplacetable ul{margin-left:18px;margin-top:0;padding-left:18px;padding-top:0;}
