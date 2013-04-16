@@ -8,7 +8,7 @@ if (($header == "wso-overview") || ($header ==  "wso-glossary") || ($header == "
 if ($header == "wso-classifieds")
 {
     echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSO_Classified_Specs.pdf\" target=\"_blank\"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>";
-    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSO_Classified_IO.pdf\" target=\"_blank\">Download Classified Advertisng<br />Insertion Order</a></p></div>";
+    //echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WSO_Classified_IO.pdf\" target=\"_blank\">Download Classified Advertisng<br />Insertion Order</a></p></div>";
 }
 ?>
 <?php

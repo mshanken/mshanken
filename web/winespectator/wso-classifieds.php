@@ -44,7 +44,7 @@
 				<ul style="list-style-image:url(../images/list-icon-1-1.gif)">
 					<li>120 pixels wide by 60 pixels high</li>
 					<li>5k maximum file size</li>
-					<li>Graphic is to be emailed to<br /><a href="mailto:chedaya@mshanken.com"><b>chedaya@mshanken.com</b></a></li>
+					<li>Graphic is to be emailed to<br /><a href="mailto:cchiaffitella@mshanken.com"><b>cchiaffitella@mshanken.com</b></a></li>
 					<li>Format: gif or jpeg only</li>
 				</ul>
 				
