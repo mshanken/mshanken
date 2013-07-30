@@ -163,7 +163,7 @@ if ($header == "cao-overview")
 if ($header == "ca")
 	echo "<table border=\"0\" id=\"righttablecigar\">
 <tr>
-    <td colspan=\"2\"><p><b>Mendelsohn Affluent Study 2010</b><br /><br />Audience 286,000</p></td>
+    <td colspan=\"2\"><p><b>Mendelsohn Affluent Study 2012</b><br /><br />Audience 276,000</p></td>
 </tr>
 <!-- <tr>
     <td><p>Readers Per Copy*</p></td>
@@ -179,9 +179,9 @@ if ($header == "ca")
     <p>Married</p>
     </td>
     <td valign=\"top\">
-    <p>75%</p>
-    <p>25%</p>
-    <p>90%</p>
+    <p>80%</p>
+    <p>20%</p>
+    <p>76%</p>
     </td>
 </tr>
 <tr>
@@ -195,9 +195,9 @@ if ($header == "ca")
     <p>Median Age</p>
     </td>
     <td valign=\"top\">
-    <p>100%</p>
-    <p>72%</p>
-    <p>78%</p>
+    <p>99%</p>
+    <p>60%</p>
+    <p>66%</p>
     <p>50</p>
     </td>
 </tr>
@@ -207,19 +207,15 @@ if ($header == "ca")
 <tr>
 	<td valign=\"top\">
 		<p>Median HHI</p>	
-		<p>HHI $100,000+</p>	
-		<p>HHI $150,000+</p>	
-		<p>HHI $200,000+</p>	
-		<p>Median Total HH Net Worth</p>	
-		<p>Median Value of Financial Accounts	 plus Real Estate</p>
+		<p>Median Net Worth</p>	
+		<p>Median Value of Financial<br />Accounts + Real Estate</p>	
+		<p>Own Principle Resident</p>
 	</td>
     <td valign=\"top\">
-		<p>$178,305</p>
-		<p>100%</p>
-		<p>62%</p>
-		<p>38%</p>
-		<p>$720,991</p>
-		<p>$960, 965</p>
+		<p>$162,810</p>
+		<p>$602,816</p>
+		<p> <br />$792,844</p>
+		<p>93%</p>
 	</td>
 </tr>
 <tr>
@@ -227,15 +223,15 @@ if ($header == "ca")
 </tr>
 <tr>
     <td valign=\"top\">
-		<p>Any Top Management/Chief Officer Title</p>	
-		<p>College Degree+</p>	
+		<p>College Degree</p>	
+		<p>Top Mgmt/Chief Officer/Professional</p>	
 	</td>
 	<td valign=\"top\">
-		<p>31%</p>
-		<p><br />68%</p>
+		<p>61%</p>
+		<p><br />43%</p>
 	</td>
 </tr>
-<tr>
+<!-- <tr>
     <td colspan=\"2\"><h3>Property & Real Estate</h3></td>
 </tr>
 <tr>
@@ -251,48 +247,32 @@ if ($header == "ca")
 		<p>70%</p>
 		<p><br />31%</p>
 	</td>
-</tr>
+</tr> -->
 <tr>
     <td colspan=\"2\"><h3>Passions, Hobbies & interests</h3></td>
 </tr>
 <tr>
     <td valign=\"top\">
-    	<p>Own a Valid Passport</p>	
-		<p>Average Vacations per Year</p>
-		<p>Average Business Trips per Year</p>	
-		<p>Flies First Class or Business Class</p>	
-		<p>Travel Outside the U.S.</p>	
-		<p>Spent $3,000+ on Apparel</p>	
-		<p>$5,000+ on Leisure, Entertainment, and Dining</p>	
-		<p>Purchased Wine by the Case</p>
-		<p>Have Wine Cellar/ Refrigerator</p>
-		<p>Willing to Spend More on Gourmet Food</p>
-		<p>Entertains At Home</p>
-		<p>Attends Live Theater</p>
-		<p>Visits Museums</p>
-		<p>Attends Art Auctions / Gallery Exhibits</p>
-		<p>Golf 24+ Times per Year</p>
-		<p>Owns / Leases 2+ Vehicles</p>
-		<p>Spent $5,000+ on Watch or Jewelry</p>
+    	<p>$2K+ on Apparel & Accessories</p>	
+		<p>Attends Theater/Art Auctions</p>
+		<p>$2K on Leisure/Entertainment/Dining</p>	
+		<p>Have Wine Cellar or Fridge</p>	
+		<p>Drinks Whiskey.</p>	
+		<p>Buys Liquor by Case</p>	
+		<p>4+ Glasses Champagne/Sparkling Wine/Wk</p>	
+		<p>$5K+ on Watches/Jewelry</p>
+		<p>Plays Golf 12+ Times Per Year</p>
 	</td>
     <td valign=\"top\">
-    	<p>81%</p>
-		<p>5</p>
-		<p>10</p>
-		<p> <br />28%</p>
-		<p> <br />60%</p>
-		<p>78%</p>
-		<p>41%</p>
-		<p> <br />35%</p>
-		<p>32%</p>
-		<p> <br />56%</p>
-		<p> <br />65%</p>
-		<p>60%</p>
-		<p>55%</p>
-		<p>44%</p>
-		<p> <br />240 index</p>
-		<p>91%</p>
-		<p>401 index</p>
+    	<p> <br />80%</p>
+		<p>64%</p>
+		<p> <br />63%</p>
+		<p>303</p>
+		<p>299</p>
+		<p>248</p>
+		<p> <br /> <br />338</p>
+		<p>398</p>
+		<p> <br />195</p>
 	</td>
 </tr>
 <!-- <tr>
@@ -305,7 +285,7 @@ if ($header == "ca")
     <td valign=\"top\">
     	<p>51%<br />&nbsp;11,223 (Index)</p>
 	</td>
-</tr> -->
+</tr>
 <tr>
     <td colspan=\"2\"><h3>Digital</h3></td>
 </tr>
@@ -328,9 +308,9 @@ if ($header == "ca")
 		<p><br />211 index</p>
 		<p><br />130 index</p>
 	</td>
-</tr>
+</tr> -->
 <tr>
-    <td colspan=\"2\"><br /><p style=\"font:11px Arial;color:#657381;\"><i>Data Source: Mendelsohn Affluent Study 2010, Heads of Household, $100,000</i></p><br /></td>
+    <td colspan=\"2\"><br /><p style=\"font:11px Arial;color:#657381;\"><i>Data Source: Mendelsohn Affluent Study 2011/2012 DB: Mendelsohn Affluent Study 2012, HHI $100,000+</i></p><br /></td>
 </tr>
 </table>
 
