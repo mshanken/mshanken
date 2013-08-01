@@ -41,106 +41,153 @@
 				<table align="center" width="98%" border="0">
 				<tr>
 					<td valign="top" width="50%">
-						<h3 style="color:#c47440">AUTOMOTIVE & MOTORCYCLE</h3>
-						<p>Audi<br />BMW<br />Cadillac<br />Camaro<br />Ford Flex<br />Harley-Davidson<br />Honda S2<br />Hummer<br />Jaguar<br />Lexus<br />Nissan<br />Mercedes-Benz<br />Porsche<br />Saturn</p><br />
+						<h3 style="color:#c47440">AUTOMOTIVE</h3>
+<p>911 Carrera Cabriolet<br />
+A5 <br />
+Acura<br />
+Bridgestone<br />
+Cadillac<br />
+Camaro<br />
+Cayman<br />
+Chevrolet Impala<br />
+Corvette<br />
+Edge<br />
+Exotic Classics<br />
+Fusion<br />
+Hyundai<br />
+Jeep<br />
+Lexus<br />
+Maserati<br />
+Mercedes-Benz<br />
+Panamera S Hybrid<br />
+Porsche 911<br />
+Taurus<br />
+Touareg</p>
 
-						<h3 style="color:#c47440">Other Luxury</h3>
-						<p>American Express<br />
-                        Kohler<br />
-                        Viking Range<br />
-                        Visa</p><br />
-                        
-                        
-						<h3 style="color:#c47440">WATCH &amp; JEWELRY</h3>
-						<p>Bell & Ross<br />
-                        Carl F. Bucherer<br />
-                        Cartier<br />
-                        Chopard<br />
-                        IWC<br />
-                        Jacob & Co.<br />
-                        Maurice Lacroix<br />
-                        Mikimoto<br />
-                        Oceanus<br />
-                        Panerai<br />
-                        Zenith</p><br />
+<h3 style="color:#c47440">WATCHES & JEWELERY</h3>
+<p>Ball Watch<br />
+Bell & Ross USA<br />
+Bulova<br />
+Cartier<br />
+CFB North America<br />
+Chanel<br />
+Corum<br />
+Cuervo y Sobrinos<br />
+David Yurman<br />
+IWC<br />
+Jaquet Droz<br />
+LVMH Watch<br />
+Oris USA<br />
+Panerai<br />
+Tag Heuer<br />
+Tutima<br />
+Ulysse Nardin<br />
+Vacheron<br />
+Van Cleef & Arpels</p>
 
-						
-						<h3 style="color:#c47440">FASHION &amp; ACCESSORIES</h3>
-						<p>Chanel<br />
-                        Ermenegildo Zegna<br />
-                        Louis Vuitton<br />
-                        Talbott<br />
-                        Tommy Bahama</p><br />
-                        
-                        <h3 style="color:#c47440">CONSUMER ELECTRONICS</h3>
-						<p>Bang & Olufsen<br />
-                        Canon</p>
+<h3 style="color:#c47440">CIGAR ACCESSORIES</h3>
+<p>Andre Garcia<br />
+Blazer Lighter<br />
+Burn<br />
+Casa Magna<br />
+Colibri Lighters<br />
+Daniel Marshall<br />
+Elie Bleu<br />
+Humidif<br />
+Humidipak<br />
+Humidordiscount<br />
+Liebherr-Hausgeräte<br />
+Lighters Direct<br />
+Lotus Lighters<br />
+Snus<br />
+The Cigar Gard<br />
+Ventura Cigar Company<br />
+Xikar</p>
+
+<h3 style="color:#c47440">CONSUMER ELECTRONICS</h3>
+<p>Bose<br />
+Fujifilm<br />
+Harman</p>
+
+<h3 style="color:#c47440">FASHION</h3>
+<p>Chanel<br />
+Giorgio Armani<br />
+LVMH Leather<br />
+Mr Porter<br />
+Paul Fredrick</p>
                     </td>
 					<td valign="top" width="50%">
-						<h3 style="color:#c47440">Travel</h3>
-						<p>Borgata Hotel & Casino<br />
-                        Dominican Republic<br />
-                        Doonbeg Golf Resort<br />
-                        Embassy Suites<br />
-                        Foxwoods<br />
-                        India Tourism<br />
-                        MGM Grand<br />
-                        Monaco Tourism<br />
-                        Net Jets<br />
-                        Pinehurst<br />
-                        Punta Nizuc<br />
-                        Punta Cana Resort & Club<br />
-                        Quintess<br />
-                        Ritz Carlton Club & Residences<br />
-                        Roco Ki<br />
-                        Sea Island Resort<br />
-                        St. Kitts Marriott<br />
-                        Trump International Golf Club: Residences<br />
-                        Venetian Hotel & Casino<br />
-                        Villas at Royal Lahainal</p><br />
+						
+<h3 style="color:#c47440">SPIRITS</h3>
+<p>1800 Tequila<br />
+3 Olives<br />
+Absolut<br />
+Appleton Rum<br />
+Ardbeg<br />
+Bacardi<br />
+Balvenie<br />
+Belvedere<br />
+Bombay Sapphire<br />
+Botran Rum<br />
+Bulleit Bourbon<br />
+Bushmills<br />
+Captain Morgan<br />
+Carpano Antica Formula<br />
+Cazadores<br />
+Cointreau<br />
+Courvoisier XO<br />
+Crown Royal<br />
+Crystal Head Vodka<br />
+Dewars<br />
+Dobel Tequila<br />
+Don Julio<br />
+Don Q Rum<br />
+Drambuie<br />
+D'Usse<br />
+El Tesoro<br />
+George Dickel<br />
+Glenfiddich<br />
+Glenmorangie<br />
+Grand Marnier<br />
+Grey Goose<br />
+Hendrick's Gin<br />
+Hennessy<br />
+Jack Daniels<br />
+Jameson<br />
+Johnnie Walker Blue<br />
+Ketel One<br />
+Michter's American Whiskey<br />
+Milagro Tequila<br />
+Mount Gay Rum<br />
+Patrón Tequila<br />
+Rémy Martin<br />
+Ron Matusalem<br />
+Ron Zacapa<br />
+Skyy Vodka<br />
+Stoli<br />
+Tanqueray Gin<br />
+The Glenlivet<br />
+Tullamore Dew<br />
+Wild Turkey<br />
+Zafra Rum<br />
+Zaya Rum</p>
 
-						<h3 style="color:#c47440">CIGARS & ACCESSORIES</h3>
-                        <p>A. Turrent World Select<br />
-                        Alec Bradley<br />
-                        Arturo Fuente<br />
-                        Ashton<br />
-                        CAO International<br />
-                        Casa Magna<br />
-                        Chateau Real<br />
-                        Cohiba<br />
-                        Cuesta-Rey<br />
-                        Cusano<br />
-                        Davidoff<br />
-                        Diamond Crown<br />
-                        Don Pepin<br />
-                        Don Tomas<br />
-                        Dunhill<br />
-                        Felipe Gregorio<br />
-                        Fonseca<br />
-                        Gran Habanos<br />
-                        Gurkha<br />
-                        Joya de Nicaragua<br />
-                        La Aurora<br />
-                        La Aroma de Cuba<br />
-                        La Caya<br />
-                        La Flor Dominicana<br />
-                        La Gloria Cubana<br />
-                        Liga Privada No. 9<br />
-                        Macanudo<br />
-                        Oliva<br />
-                        Padilla<br />
-                        Partagas<br />
-                        Rocky Patel Premium<br />
-                        S.T. Dupont<br />
-                        San Cristobal<br />
-                        Savinelli<br />
-                        Siglo<br />
-                        Stradivarius πTatuaje πTed’s πTorano<br />
-                        Winston Churchill<br />
-                        Zino Platinum<br />
-                        Zippo BLU</p>
-						
-						
+<h3 style="color:#c47440">RESORT/TRAVEL</h3>
+<p>Bellagio<br />
+Casa De Campo<br />
+Dominican Republic<br />
+Foxwoods<br />
+Golf Club at Devils Tower<br />
+Mexico Tourism Board<br />
+Mirage<br />
+Palazzo<br />
+The Resort at Paws Up<br />
+Venetian Hotel & Casino<br />
+Visit St. Petersburg</p>
+
+<h3 style="color:#c47440">OTHER</h3>
+<p>Illycaffé Espresso</p>
+
 					</td>
 				</tr>
 				</table>
