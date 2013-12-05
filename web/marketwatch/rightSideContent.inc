@@ -1,7 +1,7 @@
 <!-- mw mw-events mwm-calendar mwm-prodspec mwm-adspecs -->
 <?php
 if (($header == "mw") || ($header == "mw-events") || ($header == "mwm-calendar") || ($header == "mwm-prodspec") || ($header == "mwm-adspecs")){
-	echo "<div class=\"toaPDFfile\"><p><a href=\"mw/MW_Mediakit2013_Web.pdf\" target=\"_blank\"><em>Market Watch</em> Magazine Readership<br />at Glance</a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"mw/MW_Mediakit2014_Web.pdf\" target=\"_blank\"><em>Market Watch</em> Magazine Readership<br />at Glance</a></p></div>";
 } ?>
 
 <!-- mwm-calendar mwm-prodspec mwm-adspecs -->

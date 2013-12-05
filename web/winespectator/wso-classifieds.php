@@ -26,8 +26,8 @@
 				
 				<p>America's most popular wine Web site is now accepting classified advertising. Reach the widest possible audience for your wine&#45;related products and services. 
 				A valuable extension of the magazine, WineSpectator.com traffic now exceeds 500,000 affluent visitors per month. In the months and years ahead its traffic is expected 
-				to increase dramatically.This is your chance to get in on the ground floor. Please note that the Web site audience is 82% male and their household income is 
-				$100,000&#45;$150,000, which is among the highest of all Web sites.</p>
+				to increase dramatically.This is your chance to get in on the ground floor. Please note that the Web site median age is 49 male and their household income is 
+				median HHI is $168.200, which is among the highest of all Web sites.</p>
 				
 				<ul style="list-style-image:url(../images/list-icon-1-1.gif)">
 					<li>Prepayment is required.</li>

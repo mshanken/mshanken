@@ -26,18 +26,17 @@
 				
 				<p><i>Wine Spectator</i> is the very best place for your classified ad. Here are a few reasons why:</p>
 				<ul style="list-style-image:url(../images/list-icon-1-1.gif)">
-					<li>Total Audience 2,913,000*</li>
-					<li>Male: 54% Female: 46%   &bull; Median HHI: $146,310  &bull; Median Age: 49*</li>
-					<li>57.1% own wine cellar/refrigerator**</li>
-					<li>55.1% purchase wine by the case**</li>
-					<li>82% of the readership read every issue***</li>
-					<!--<li>Fully paid circulation, audited by ABC, has grown steadily, increasing by 30% since 2000***</li> -->
-					<li>93% subscriber renewal rate***</li>
+					<li>Total Audience 3,077,000*</li>
+					<li>Male: 49% Female: 51%   &bull; Median HHI: $107,400  &bull; Median Age: 48*</li>
+					<li>62% own wine cellar/refrigerator**</li>
+					<li>98% took a recent trip**</li>
+					<li>64% are willing to spend more on Gourmet food**</li>
+					<!--<li>Fully paid circulation, audited by ABC, has grown steadily, increasing by 30% since 2000***</li>
+					<li>93% subscriber renewal rate**</li> -->
 				</ul>
 				
-				<p><small>* MRI Fall 2012 Survey HHI $100k+</small><br />
-				<small>** Mendelsohn Affluent Survey, Heads of House, HHI $100k+</small><br />
-				<small>*** Subscriber Survey</small></p>
+				<p><small>* MRI Fall 2013 Survey HHI $100k+</small><br />
+				<small>** 2013 Ipos Affluent Survey USA, HHI $100k+</small></p>
 				
 				<br />
 				
@@ -63,35 +62,35 @@
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Jan./Feb.</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Dec. 21</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Dec. 20</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; March 31</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 18</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 17</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; April 30</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Feb. 15</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Feb. 14</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; May 31</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; March 15</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; March 14</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; June 15</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 12</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 11</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; June 30</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 26</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 25</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; July 31</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; May 17</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; May 23</p></td>
                             </tr>
                             <tr bgcolor="#f8f8f4">
                                 <td><p>&nbsp;&nbsp; Aug. 31</p></td>
-                                <td><p>&nbsp;&nbsp;&nbsp;&nbsp; June 14</p></td>
+                                <td><p>&nbsp;&nbsp;&nbsp;&nbsp; June 13</p></td>
                             </tr>
 						</table>
 					</td>
@@ -103,23 +102,23 @@
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Sept. 30</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; July 12</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; July 11</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Oct. 15</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 9</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 8</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Oct. 31</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 23</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 22</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Nov. 15 </p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 13</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 12</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Nov. 30 </p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 27</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 26</p></td>
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Dec. 15 </p></td>
@@ -127,7 +126,7 @@
 						</tr>
 						<tr bgcolor="#f8f8f4">
 							<td><p>&nbsp;&nbsp; Dec. 31</p></td>
-							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 25</p></td>
+							<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 24</p></td>
 						</tr>
 						</table>
 					</td>
@@ -167,7 +166,7 @@
 				<img src="ws/ws-text45.gif" width="148" height="17" border="0" class="h2">
 				<hr class="ws">
 				
-				<p>Effective with the January/February 2013 Issue<br />First page premium: 10%</p>
+				<p>Effective with the January/February 2014 Issue<br />First page premium: 10%</p>
 				
 				<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
@@ -224,9 +223,9 @@
 				web addresses each count as one word)</p>
 				
 				<p><b>Multiple Insertion Discounts</b><br />			
-				4 Insertions: $1,680 / first 30 words<br />			
-				10 Insertions: $3,750 / first 30 words<br />			
-				One Year (15 Insertions): $5,325/ first 30 words<br />
+				4 Insertions: $1,680 / first 30 words ($420 each)<br />			
+				10 Insertions: $3,750 / first 30 words ($375 each)<br />			
+				One Year (15 Insertions): $5,325/ first 30 words ($355 each)<br />
 				For multiple orders, each word over 30 is an additional $5 per word, per insertion.</p><br />	
 				
 				<img src="ws/ws-text47.gif" width="230" height="17" border="0" class="h2">

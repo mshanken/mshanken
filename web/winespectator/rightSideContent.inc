@@ -137,7 +137,7 @@ if ($header == "wsm-classified") {
                 <p>120 maximum line screen, 300 dpi minimum.</p>
                 <p>Please measure your ad precisely and according to our column width requirement and to your space reservation in depth. 
                 We will not resize ads</p> 
-                <p>E-mail your ad to: <a href=\"mailto:lcassar@mshanken.com\"><b>lcassar@mshanken.com</b></a>. If your file is larger than 1MB, please 
+                <p>E-mail your ad to: <a href=\"mailto:cchiaffitella@mshanken.com\"><b>cchiaffitella@mshanken.com</b></a>. If your file is larger than 1MB, please 
                 create a zip file using compression software such as Stuff-It before e-mailing.</p>
                 <p><b>Prepayment is due with materials and is necessary or your ad will not run.</b></p>
                 <p><b><i>Wine Spectator</i> not responsible for reproduction quality if above specifications are not met.</b></p><br />
