@@ -39,7 +39,7 @@
 					<td valign="top">
 					<h2 class="im">Marketing Seminar</h2>
 					<hr class="im">
-					<p>The IMPACT ANNUAL MARKETING SEMINAR, in its 30th year, is the preeminent conference for the global spirits, wine and beer business. It brings together key 
+					<p>The IMPACT ANNUAL MARKETING SEMINAR, in its 38th year, is the preeminent conference for the global spirits, wine and beer business. It brings together key 
 					industry professionals to discuss the issues facing the international drinks market and the future of global companies and their brands; a stimulating panel 
 					discussion covers a wide range of topics.</p></td>
 					<td width="10">&nbsp;</td>

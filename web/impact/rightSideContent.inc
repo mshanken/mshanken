@@ -2,14 +2,16 @@
 <?php
 if (($header == "im") || ($header == "im-events") || ($header == "imm-calendar") || ($header == "imm-adspecs") || ($header == "imm-prodspec")){
 	echo "<div class=\"toaExternalSite\"><p><a href=\"http://www.impactdatabank.com\" target=\"_blank\" class=\"big\">IMPACT DATABANK<br />ANNUAL STUDIES</a></p></div>";
-	echo "<div class=\"toaPDFfile\"><p><a href=\"im/IM_MediaKit2013_Web.pdf\" target=\"_blank\"><em>Impact</em> Magazine Readership<br />at Glance</a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"im/Impact Media Kit 2014.pdf\" target=\"_blank\"><em>Impact</em> Magazine Readership<br />at Glance</a></p></div>";
 } ?>
 
 <!-- imm-calendar imm-adspecs imm-prodspec -->
 <?php
+/*
 if (($header == "imm-calendar") || ($header == "imm-adspecs") || ($header == "imm-prodspec")){
 	echo "<div class=\"toaPDFfile\"><p><a href=\"im/IM_Calendar2012.pdf\" target=\"_blank\">Download <em>Impact</em><br />Editorial Calendar</a></p></div>";
-} ?>
+}
+*/ ?>
 
 <!-- imm-adspecs imm-prodspec -->
 <?php

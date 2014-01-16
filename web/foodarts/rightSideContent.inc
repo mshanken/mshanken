@@ -1,7 +1,7 @@
 <!-- fa fam-adspecs fam-calendar fam-prodspec -->
 <?php
 if (($header == "fa") || ($header == "fam-adspecs") || ($header == "fam-calendar") || ($header == "fam-prodspec")){
-	echo "<div class=\"toaPDFfile\"><p><a href=\"fa/FA_MediaKit2013_Web.pdf\" target=\"_blank\"><em>Food Arts</em> Magazine Readership<br />at Glance</a></a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"fa/FA_MediaKit2014.pdf\" target=\"_blank\"><em>Food Arts</em> Magazine Readership<br />at Glance</a></a></p></div>";
 	//echo "<div class=\"toaPDFfile\"><p><a href=\"fa/FA_EditCalendar10.pdf\" target=\"_blank\"><em>Food Arts</em> Magazine Readership<br />at Glance</a></a></p></div>";
 } ?>
 
