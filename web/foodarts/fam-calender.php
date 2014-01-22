@@ -100,7 +100,7 @@
                     	<li>Bar Biz</li>
 						<li>Wine Report</li>
 						<li>Tech Talk</li>
-						<li>Kitchen Spy: Equipment Feature</li>
+						<li>Kitchen Equipment</li>
 						<li>Recipes</li>
 					</ul></td>
 				</tr>
@@ -146,11 +146,13 @@
 				<tr>
 					<td valign="top"><p style="color:#00538a;"><b>June</b></p></td>
 					<td><p><font color="#e75823;"><b>The Americana Issue:<br />Special Bonus Distribution</b></font><br />
-                    <em>Harvey Communication Study<br />Fancy Food Show<br />American Cuisine</em></p>
+                    <em>Harvey Communication Study<br />Fancy Food Show<br /></em></p>
 					<ul>
+						<li>American Cuisine</li>
+						<li>Sustainability Update</li>
                         <li>Flavor Summit Conference Review</li>
                         <li>Bar Biz</li>
-                        <li>Kitchen Spy: Equipment Feature</li>
+                        <li>Kitchen Equipment</li>
                         <li>Wine Report </li>
                         <li>Tech Talk</li>
                         <li>Recipes</li>
