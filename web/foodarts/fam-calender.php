@@ -146,13 +146,13 @@
 				<tr>
 					<td valign="top"><p style="color:#00538a;"><b>June</b></p></td>
 					<td><p><font color="#e75823;"><b>The Americana Issue:<br />Special Bonus Distribution</b></font><br />
-                    <em>Harvey Communication Study<br />Fancy Food Show</em></p>
+                    <em>Harvey Communication Study<br />Fancy Food Show<br />American Cuisine</em></p>
 					<ul>
-                        <li>American Cuisine</li>
                         <li>Flavor Summit Conference Review</li>
                         <li>Bar Biz</li>
                         <li>Kitchen Spy: Equipment Feature</li>
                         <li>Wine Report </li>
+                        <li>Tech Talk</li>
                         <li>Recipes</li>
 					</ul></td>
 				</tr>
@@ -202,7 +202,7 @@
                         <li>F&B Updates</li>
                         <li>Top Chefs’ Hits & Flops</li>
                         <li>Bar Biz</li>
-                        <li>Kitchen Spy: Equipment Feature</li>
+                        <li>Kitchen Equipment</li>
                         <li>Wine Report</li>
                         <li>Tabletop: China, Glass, Silver </li>
                         <li>Chain Reaction: Hotels</li>
@@ -248,7 +248,7 @@
                     Letter from the founder, Ariane Batterberry</p>
                     
                     <p><big style="color:#e75823;">Front Burner</big><br />
-                    Food news, culinary competi-tions, industry events &amp; more</p>
+                    Food news, culinary competitions, industry events &amp; more</p>
                     
                     <p><big style="color:#e75823;">Deep Dish</big><br />
                     Chefs on the move</p>
@@ -265,7 +265,7 @@
                     <p><big style="color:#e75823;">World Cuisines</big>
                     <ul>
                     <li>Global cooking styles</li>
-                    <li>A glimpse into the dining scene of a specific city or region</li>
+                    <li>Glimpses into the dining scenes of specific cities or regions</li>
                     <li>First-person accounts of exotic locales, from street food to hotel fare</li></ul></p>
                 </td><td valign="top">
                 
