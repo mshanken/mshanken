@@ -1,7 +1,7 @@
 <!-- cam-calendar cam-adspec cam-prodspec ca -->
 <?php
 if (($header == "cam-calendar") || ($header == "cam-adspec") || ($header == "cam-prodspec") || ($header == "ca"))
-	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CA_MediaKit2013_web.pdf\" target=\"_blank\"><em>Cigar Aficionado</em> Magazine<br />Readership at Glance</a></a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CA_MediaKit2014_Webv2.pdf\" target=\"_blank\"><em>Cigar Aficionado</em> Magazine<br />Readership at Glance</a></a></p></div>";
 ?>
 
 <!-- ca-events  -->
@@ -13,7 +13,7 @@ if ($header == "ca-events")
 <!-- cao-adspecs cao-audience cao-overview cao-glossary -->
 <?php
 if (($header == "cao-adspecs") || ($header == "cao-audience") || ($header == "cao-overview") || ($header == "cao-glossary"))
-	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CAOmediakit2013.pdf\" target=\"_blank\"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>";
+	echo "<div class=\"toaPDFfile\"><p><a href=\"ca/CAOnlineadrates2013.pdf\" target=\"_blank\"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>";
 ?>
 
 <!-- cam-calendar cam-adspec cam-prodspec  -->
@@ -163,7 +163,7 @@ if ($header == "cao-overview")
 if ($header == "ca")
 	echo "<table border=\"0\" id=\"righttablecigar\">
 <tr>
-    <td colspan=\"2\"><p><b>Mendelsohn Affluent Study 2012</b><br /><br />Audience 276,000</p></td>
+    <td colspan=\"2\"><p><b>2013 Ipsos Affluent Survey</b><br /><br />Audience 379,000</p></td>
 </tr>
 <!-- <tr>
     <td><p>Readers Per Copy*</p></td>
@@ -179,9 +179,9 @@ if ($header == "ca")
     <p>Married</p>
     </td>
     <td valign=\"top\">
-    <p>80%</p>
-    <p>20%</p>
-    <p>76%</p>
+    <p>81%</p>
+    <p>19%</p>
+    <p>72%</p>
     </td>
 </tr>
 <tr>
@@ -195,9 +195,9 @@ if ($header == "ca")
     <p>Median Age</p>
     </td>
     <td valign=\"top\">
-    <p>99%</p>
-    <p>60%</p>
-    <p>66%</p>
+    <p>100%</p>
+    <p>59%</p>
+    <p>64%</p>
     <p>50</p>
     </td>
 </tr>
@@ -206,16 +206,18 @@ if ($header == "ca")
 </tr>
 <tr>
 	<td valign=\"top\">
-		<p>Median HHI</p>	
-		<p>Median Net Worth</p>	
-		<p>Median Value of Financial<br />Accounts + Real Estate</p>	
+		<p>Median HHI</p>		
+		<p>HHI $150K+</p>	
+		<p>Median Value of Financial<br/> Accounts + Real Estate</p>
 		<p>Own Principle Resident</p>
+		<p>Own or Lease 2+ Vehicles</p>
 	</td>
     <td valign=\"top\">
-		<p>$162,810</p>
-		<p>$602,816</p>
-		<p> <br />$792,844</p>
-		<p>93%</p>
+		<p>$160,964</p>
+		<p>58%</p>
+		<p> <br />$936,592</p>
+		<p>88%</p>
+		<p>87%</p>
 	</td>
 </tr>
 <tr>
@@ -228,7 +230,7 @@ if ($header == "ca")
 	</td>
 	<td valign=\"top\">
 		<p>61%</p>
-		<p><br />43%</p>
+		<p><br />54%</p>
 	</td>
 </tr>
 <!-- <tr>
@@ -253,26 +255,30 @@ if ($header == "ca")
 </tr>
 <tr>
     <td valign=\"top\">
-    	<p>$2K+ on Apparel & Accessories</p>	
-		<p>Attends Theater/Art Auctions</p>
-		<p>$2K on Leisure/Entertainment/Dining</p>	
+    	<p>$15K on Total Travel</p>	
+		<p>Took 30+ Round Trips in the Past Year</p>
+		<p>Took 5+ Foreign Trips in the Past Year</p>	
+		<p>$10K+ on Artwork and Collectibles</p>	
 		<p>Have Wine Cellar or Fridge</p>	
-		<p>Drinks Whiskey.</p>	
-		<p>Buys Liquor by Case</p>	
-		<p>4+ Glasses Champagne/Sparkling Wine/Wk</p>	
+		<p>Drinks Whiskey</p>	
+		<p>Drinks 6+ Distilled Spirits Per Week</p>	
+		<p>Buys Liquor by Case</p>
+		<p>4+ Glasses Champagne/Sparkling<br /> Wine/Wk</p>
 		<p>$5K+ on Watches/Jewelry</p>
-		<p>Plays Golf 12+ Times Per Year</p>
+		<p>Plays Golf 24+ Times Per Year</p>
 	</td>
     <td valign=\"top\">
-    	<p> <br />80%</p>
-		<p>64%</p>
-		<p> <br />63%</p>
-		<p>303</p>
-		<p>299</p>
-		<p>248</p>
-		<p> <br /> <br />338</p>
-		<p>398</p>
-		<p> <br />195</p>
+    	<p> 212</p>
+		<p>291</p>
+		<p> <br />285</p>
+		<p><br />197</p>
+		<p><br />269</p>
+		<p>240</p>
+		<p>331</p>
+		<p> <br />210</p>
+		<p> <br />377</p>  
+		<p> <br />367</p>
+		<p>218</p>
 	</td>
 </tr>
 <!-- <tr>
@@ -310,7 +316,7 @@ if ($header == "ca")
 	</td>
 </tr> -->
 <tr>
-    <td colspan=\"2\"><br /><p style=\"font:11px Arial;color:#657381;\"><i>Data Source: Mendelsohn Affluent Study 2011/2012 DB: Mendelsohn Affluent Study 2012, HHI $100,000+</i></p><br /></td>
+    <td colspan=\"2\"><br /><p style=\"font:11px Arial;color:#657381;\"><i>Data Source: 2013 Ipsos Affluent Survey USA DB, HHI $100,000+</i></p><br /></td>
 </tr>
 </table>
 
