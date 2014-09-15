@@ -81,5 +81,12 @@ td ul, ul{margin-left:17px;margin-top:0px;padding-left:17px;padding-top:0px;}
 #calender p.title {font:12px Arial, Helvetica, sans-serif;color:#fff;margin:5px 0 05px 0;}
 .big {font-size:14px;}
 
-#adplacetable li{{font:13px Arial, Helvetica, sans-serif;color:#000;margin:5px 0 05px 0;}
 #adplacetable ul{margin-left:18px;margin-top:0;padding-left:18px;padding-top:0;}
+#adplacetable li{font:13px Arial, Helvetica, sans-serif;color:#000;margin:5px 0 5px 0;}
+
+/* for new slider */
+.container, .container div, .container ul, .container ul li { padding:0; margin:0; }
+.container{ width:736px; height:325px; }
+.image-slider-wrapper{ overflow:hidden; }
+#image_slider{ position:relative; overflow:hidden; height:325px; left:0; }
+#image_slider li{ position:relative; max-width:100%; float:left; list-style:none; list-style-type:none; left:0; }

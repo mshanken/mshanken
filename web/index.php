@@ -29,49 +29,95 @@
         
         <div id="contentWrapper">
             <div class="oneColumnContent">
-            
-                <SCRIPT LANGUAGE="javascript">
-                <!--
-                var MM_contentVersion = 6;
-                var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-                if ( plugin ) {
-                    var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-                    for (var i = 0; i < words.length; ++i)
-                    {
-                    if (isNaN(parseInt(words[i])))
-                    continue;
-                    var MM_PluginVersion = words[i]; 
-                    }
-                var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
-                }
-                else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 && (navigator.appVersion.indexOf("Win") != -1)) {
-                        document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-                        document.write('on error resume next \n');
-                        document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
-                        document.write('</SCR' + 'IPT\> \n');
-                }
-                if ( MM_FlashCanPlay ) {
-                    document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-                    document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" ');
-                    document.write(' ID="script" width="735" height="325">');
-                    document.write(' <param name="movie" value="images/MS-intro.swf"> <param name="quality" value="high">  '); 
-                    document.write(' <embed src="images/MS-intro.swf" quality="high"  ');
-                    document.write(' pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"');
-                    document.write(' width="735" height="325">');
-                    document.write(' </EMBED>');
-                    document.write(' </OBJECT>');
-                } else{
-                document.write('<IMG SRC="images/intro.gif" WIDTH="735" HEIGHT="325">');
-                }
-                //-->
-                </SCRIPT>
-                <p><br />&nbsp;</p><p><br />&nbsp;</p>
+            	<div class="container">
+								<div class="image-slider-wrapper">
+									<ul id="image_slider">
+										<li><img src="images/mshankensiteWS-slider.jpg" /></li>
+										<li><img src="images/mshankensiteCA-slider.jpg" /></li>
+										<li><img src="images/mshankensiteMW-slider.jpg" /></li>
+										<li><img src="images/mshankensiteIM-slider.jpg" /></li>
+									</ul><!-- End: #image_slider -->
+								</div><!-- End: .image-slider-wrapper -->
+							</div><!-- End: .container -->
             </div>
         </div>
         
         <?php include "library/footer.inc"; ?>
         
 	</div>
+<script type="text/javascript">
+var ul;
+var li_items; 
+var li_number;
+var image_number = 0;
+var slider_width = 0;
+var image_width;
+var current = 0;
+function init(){	
+	ul = document.getElementById('image_slider');
+	li_items = ul.children;
+	li_number = li_items.length;
+	for (i = 0; i < li_number; i++){
+		// nodeType == 1 means the node is an element.
+		// in this way it's a cross-browser way.
+		//if (li_items[i].nodeType == 1){
+			//clietWidth and width???
+			image_width = li_items[i].childNodes[0].clientWidth;
+			slider_width += image_width;
+			image_number++;
+	}
+	
+	ul.style.width = parseInt(slider_width) + 'px';
+	slider(ul);
+}
 
+function slider(){		
+		animate({
+			delay:17,
+			duration: 3000,
+			delta:function(p){return Math.max(0, -1 + 2 * p)},
+			step:function(delta){
+					ul.style.left = '-' + parseInt(current * image_width + delta * image_width) + 'px';
+				},
+			callback:function(){
+				current++;
+				if(current < li_number-1){
+					slider();
+				}
+				else{
+					var left = (li_number - 1) * image_width;					
+					setTimeout(function(){goBack(left)},2000); 				
+					setTimeout(slider, 4000);
+				}
+			}
+		});
+}
+function goBack(left_limits){
+	current = 0;	
+	setInterval(function(){
+		if(left_limits >= 0){
+			ul.style.left = '-' + parseInt(left_limits) + 'px';
+			left_limits -= image_width;
+		}	
+	}, 17);
+}
+function animate(opts){
+	var start = new Date;
+	var id = setInterval(function(){
+		var timePassed = new Date - start;
+		var progress = timePassed / opts.duration
+		if(progress > 1){
+			progress = 1;
+		}
+		var delta = opts.delta(progress);
+		opts.step(delta);
+		if (progress == 1){
+			clearInterval(id);
+			opts.callback();
+		}
+	}, opts.dalay || 17);
+}
+window.onload = init;
+</script>
 </body>
 </html>
