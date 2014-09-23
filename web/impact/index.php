@@ -44,7 +44,7 @@
 				</ul>
 				
 				<p>Readers of <i>Impact</i> are top executives who control the distribution and sales of spirits, wine and beer throughout the world, covering both duty-paid and 
-				duty-free markets.  Read in more than 50 countries, <i>Impact</i> boasts a total full-paid subscription base of about 15,000 readers.</p>
+				duty-free markets.  Read in more than 50 countries, <i>Impact boasts</i> a readership of 25,000.</p>
 				
 				<p>No other publication has such reach and influence. <i>Impact</i> puts you in touch with the decision makers who can influence your spirits, wine and beer business. 
 				<i>Impact</i> immediately positions your brand as an important worldwide player, expanding your market position while reinforcing the brand's image.</p>
