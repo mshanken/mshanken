@@ -18,7 +18,7 @@ if  ($header == "wsm-classified")
 ?>
 <?php
 if (($header == "ws") || ($header == "wsm-calendar") || ($header == "wsm-adspec") || ($header == "wsm-prodspec")) 
-    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WS_MediaKit2013_Web.pdf\" target=\"_blank\"><em>Wine Spectator</em> Magazine Readership<br />at Glance</a></p></div>";
+    echo "<div class=\"toaPDFfile\"><p><a href=\"ws/WS_MediaKit2014_web.pdf\" target=\"_blank\"><em>Wine Spectator</em> Magazine Readership<br />at Glance</a></p></div>";
 ?>
 <?php
 if (($header == "wsm-calendar") || ($header == "wsm-adspec") || ($header == "wsm-prodspec"))
