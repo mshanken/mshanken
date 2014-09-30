@@ -22,7 +22,9 @@
 
 		<div id="contentWrapper">
 			<% if ( current.path[0] === "index"  || current.source === "contact"  || current.source === "privatepolicy" ) { %>
+      		<div class="oneColumnContent">
       			<%- yield %>
+      		</div>
       		<% } else  { %>
       			<%- partial(current.path[0] + "/_contentbody", { yield: yield }) %>
       		<% } %>
