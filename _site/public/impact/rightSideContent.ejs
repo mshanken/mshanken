@@ -1,0 +1,27 @@
+<!-- im imm-calendar imm-adspecs imm-prodspec -->
+<% if ((current.source === "index") || (current.source === "im-events") || (current.source === "imm-calendar") || (current.source === "imm-adspecs") || (current.source === "imm-prodspec")) { %>
+	<div class="toaExternalSite"><p><a href="http://www.impactdatabank.com" target="_blank" class="big">IMPACT DATABANK<br />ANNUAL STUDIES</a></p></div>
+	<div class="toaPDFfile"><p><a href="https://s3.amazonaws.com/assets.mshanken.com/wso/pdf/Impact+Media+Kit+2014.pdf" target="_blank"><em>Impact</em> Magazine Readership<br />at Glance</a></p></div>
+<% } %>
+
+
+<!-- imm-adspecs imm-prodspec -->
+<% if ((current.source === "imm-adspecs") || (current.source === "imm-prodspec")) { %>
+	<table width="267" border="0" id="righttableimpact">
+    <tr>
+        <td>
+            <h3>Digital File Specification</h3><hr color="#a53276" style="margin:0 0 0 10px;" width="250">
+            <p><b>PDF/X-1a</b></p>
+            <ul>
+    			<li>PDF/X1a file (Only one ad per file)</li>
+    			<li>Images must be CMYK or Grayscale TIFF or EPS prepared for the SWOP3 color environment</li>
+    			<li>Total Area Coverage for CMYK color builds should not exceed 300%</li>
+    		</ul>
+    		
+    		<p><small>SWOP&reg; is a registered trademark of SWOP, Inc.</small></p>
+
+        </td>
+    </tr>
+    </table>
+<% } %>
+
