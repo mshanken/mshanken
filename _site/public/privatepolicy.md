@@ -1,6 +1,4 @@
 
-	
-<div class="oneColumnContent">
 
 #Privacy Policy for M. Shanken Communications, Inc.
 ----
@@ -36,6 +34,3 @@ Or you can reach us by telephone at (212) 684-4224.</p>
 <p>If you do NOT wish to have your email address shared with that e-newsletter's sponsors, you will be given an opportunity within the e-newsletter to opt-out or you may contact our customer service department at the number/email listed below.</p>
 <p>We can be reached via e-mail at <a href="mailt:privacypolicy@mshanken.com" target="_blank">privacypolicy@mshanken.com</a></p>
 <p>Or you can reach us by telephone at (212) 684-4224.</p>
-
-
-</div>
