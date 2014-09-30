@@ -1,0 +1,285 @@
+{
+  "winespectator": {
+  	"title": "wine spectator",
+  	"imagebg": "ws/ws-main-image.jpg",
+  	"menu": {
+		  "magazine": {
+		    "title": "magazine",
+		    "url": "index",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "index",
+		    		"target": ""
+		    	},
+		    	"custommedia": {
+		    		"title": "custom media",
+		    		"url": "http://mshankencustompublishing.com/",
+		    		"target": "_blank"
+		    	},
+		    	"productionspecs": {
+		    		"title": "production specs",
+		    		"url": "wsm-prodspec",
+		    		"target": ""
+		    	},
+		    	"closingdates": {
+		    		"title": "closing dates",
+		    		"url": "wsm-calendar",
+		    		"target": ""
+		    	},
+		    	"classified": {
+		    		"title": "classified",
+		    		"url": "wsm-classified",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	}
+		    }
+		  },
+		  "online": {
+		    "title": "online",
+		    "url": "wso-overview",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "wso-overview",
+		    		"target": ""
+		    	},
+		    	"audience": {
+		    		"title": "audience",
+		    		"url": "wso-audience",
+		    		"target": ""
+		    	},
+		    	"adplacement": {
+		    		"title": "ad placement",
+		    		"url": "wso-adplace",
+		    		"target": ""
+		    	},
+		    	"adspecs": {
+		    		"title": "ad specs",
+		    		"url": "wso-adspecs",
+		    		"target": ""
+		    	},
+
+		    	"mobile": {
+		    		"title": "mobile",
+		    		"url": "wso-mobile",
+		    		"target": ""
+		    	},
+
+		    	"classifieds": {
+		    		"title": "classifieds",
+		    		"url": "wso-classifieds",
+		    		"target": ""
+		    	},
+		    	"glossary": {
+		    		"title": "glossary",
+		    		"url": "wso-glossary",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	}
+		    }
+		  },
+		  "events": {
+		  	"title": "events",
+		  	"url": "ws-events",
+		  	"target": "",
+		  	"submenu": ""
+		  }
+		}
+  },
+  "cigaraficionado": {
+    "title": "Cigar aficionado",
+    "imagebg": "ca/ca-main-image.jpg",
+  	"menu": {
+		  "magazine": {
+		    "title": "magazine",
+		    "url": "index",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "index",
+		    		"target": ""
+		    	},
+		    	"custommedia": {
+		    		"title": "custom media",
+		    		"url": "http://mshankencustompublishing.com/",
+		    		"target": "_blank"
+		    	},
+		    	"productionspecs": {
+		    		"title": "production specs",
+		    		"url": "cam-prodspec",
+		    		"target": ""
+		    	},
+		    	"closingdates": {
+		    		"title": "closing dates",
+		    		"url": "cam-calendar",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	}
+		    }
+		  },
+		  "online": {
+		    "title": "online",
+		    "url": "cao-overview",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "cao-overview",
+		    		"target": ""
+		    	},
+		    	"audience": {
+		    		"title": "audience",
+		    		"url": "cao-audience",
+		    		"target": ""
+		    	},
+		    	"adplacement": {
+		    		"title": "ad placement",
+		    		"url": "cao-adplace",
+		    		"target": ""
+		    	},
+		    	"adspecs": {
+		    		"title": "ad specs",
+		    		"url": "cao-adspecs",
+		    		"target": ""
+		    	},
+		    	"glossary": {
+		    		"title": "glossary",
+		    		"url": "cao-glossary",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	}
+		    }
+		  },
+		  "events": {
+		  	"title": "events",
+		  	"url": "ca-events",
+		  	"target": "",
+		  	"submenu": ""
+		  }
+		}
+  },
+  "marketwatch": {
+  	"title": "market watch",
+  	"imagebg": "mw/mw-main-image.jpg",
+  	"menu": {
+		  "magazine": {
+		    "title": "magazine",
+		    "url": "index",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "index",
+		    		"target": ""
+		    	},
+		    	"custommedia": {
+		    		"title": "custom media",
+		    		"url": "http://mshankencustompublishing.com/",
+		    		"target": "_blank"
+		    	},
+		    	"productionspecs": {
+		    		"title": "production specs",
+		    		"url": "mwm-prodspec",
+		    		"target": ""
+		    	},
+		    	"closingdates": {
+		    		"title": "closing dates",
+		    		"url": "mwm-calendar",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	}
+		    	,
+		    	"customercare": {
+		    		"title": "customer care",
+		    		"url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
+		    		"target": "_blank"
+		    	}
+		    }
+		  },
+		  "events": {
+		  	"title": "My third post",
+		  	"url": "mw-events",
+		  	"target": "",
+		  	"submenu": ""
+		  }
+		}
+  },
+  "impact": {
+    "title": "impact",
+    "imagebg": "im/im-main-image.jpg",
+  	"menu": {
+		  "magazine": {
+		    "title": "magazine",
+		    "url": "index",
+		    "target": "",
+		    "submenu": {
+		    	"overview": {
+		    		"title": "overview",
+		    		"url": "index",
+		    		"target": ""
+		    	},
+		    	"custommedia": {
+		    		"title": "custom media",
+		    		"url": "http://mshankencustompublishing.com/",
+		    		"target": "_blank"
+		    	},
+		    	"productionspecs": {
+		    		"title": "production specs",
+		    		"url": "imm-prodspec",
+		    		"target": ""
+		    	},
+		    	"closingdates": {
+		    		"title": "closing dates",
+		    		"url": "imm-calendar",
+		    		"target": ""
+		    	},
+		    	"contactus": {
+		    		"title": "contact us",
+		    		"url": "/contact",
+		    		"target": ""
+		    	},
+		    	"customercare": {
+		    		"title": "customer care",
+		    		"url": "https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999",
+		    		"target": "_blank"
+		    	},
+		    	"impactdatabank": {
+		    		"title": "impact databank",
+		    		"url": "http://www.impactdatabank.com/",
+		    		"target": "_blank"
+		    	}
+		    }
+		  },
+		  "events": {
+		  	"title": "My third post",
+		  	"url": "im-events",
+		  	"target": "",
+		  	"submenu": ""
+		  }
+		}
+  }
+}
