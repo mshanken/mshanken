@@ -6,7 +6,7 @@ Need to have harp-js installed ```sudo npm install harp -g``` if you are working
 After forking/cloning this repo, dive into the project ```cd mshanken``` then run the server with ```harp server _site``` , browse the app at //localhost:9000/ or //youwebserver:9000/
 
 ##Making Changes
-Create a branch to start working with your new changes. Do not work in the gh-pages branch just pull or merge for updates.
+Create a branch to start working with your new changes. Do not work in the gh-pages branch just pull or merge from master for updates.
 
 ##Updating Master
 After you made your changes in your created branch, merge your changes into master (create a pull request if you have forked this project or simply pull if you have the right privilages). Just push if you work from master branch.
