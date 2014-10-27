@@ -1,5 +1,5 @@
 #M. Shanken Site
-[M. Shanken Media Kit web site.](mshanken.com)
+[M. Shanken Media Kit web site.](http://www.mshanken.com)
 
 Need to have harp-js installed ```sudo npm install harp -g``` if you are working from your local machine. Harpjs is installed in QA already if you want to work from there,
 
