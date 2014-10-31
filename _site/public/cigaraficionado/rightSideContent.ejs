@@ -1,0 +1,38 @@
+<!-- cam-calendar cam-adspec cam-prodspec ca -->
+<% if (current.source === "cam-calendar" || current.source === "cam-adspec" || current.source === "cam-prodspec" || current.source === "index") { %>
+    <div class="toaPDFfile"><p><a href="https://s3.amazonaws.com/assets.mshanken.com/wso/pdf/CA_MediaKit2014_Web+10.22.14.pdf" target="_blank"><em>Cigar Aficionado</em> Magazine<br />Readership at Glance</a></a></p></div>
+<% } %>
+
+<!-- cao-adspecs cao-audience cao-overview cao-glossary -->
+<% if (current.source === "cao-adspecs" || current.source === "cao-audience" || current.source === "cao-overview" || current.source === "cao-glossary") { %>
+    <div class="toaPDFfile"><p><a href="/images/ca/CAOnlineadrates2013.pdf" target="_blank"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>
+<% } %>
+
+
+<!-- cam-calendar cam-adspec cam-prodspec  -->
+<% if (current.source === "cam-calendar" || current.source === "cam-adspec" || current.source === "cam-prodspec") { %>
+    <div class="toaPDFfile"><p><a href="/images/ca/CA_Insertion_Order.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Insertion Order</a></p></div>
+    <div class="toaPDFfile"><p><a href="/images/ca/CA_Specs10.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Production Specs</a></p></div>
+<% } %>
+
+
+<!-- cam-adspec cam-prodspec -->
+<% if (current.source === "cam-adspec" || current.source === "cam-prodspec") { %>
+    <table border="0" id="righttablecigar">
+	<tr>
+	    <td>
+	        <h3 style="color:#c29a2e;">Digital File Specification</h3><hr color="#c47440" style="margin:0 0 0 10px;" width="250">
+	        <p><b>PDF/X-1a</b></p>
+	        <ul class="list" style="list-style-image:url(../images/list-icon-4.gif)">
+	            <li>PDF/X1a file (Only one ad per file)</li>
+				<li>Images must be CMYK or Grayscale TIFF or EPS prepared for the SWOP3 color environment</li>
+				<li>Total Area Coverage for CMYK color builds should not exceed 300%</li>
+			</ul>
+			
+			<p><small>SWOP&reg; is a registered trademark of SWOP, Inc.</small></p>
+	    </td>
+	</tr>
+	</table>
+<% } %>
+
+<!-- cao-adspecs -->
