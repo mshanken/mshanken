@@ -281,5 +281,15 @@
 		  	"submenu": ""
 		  }
 		}
+  },
+  "contact": {
+  	"title": "Contac us",
+  	"url": "",
+	"target": ""
+  },
+  "privatepolicy": {
+  	"title": "Private Policy",
+  	"url": "",
+	"target": ""
   }
 }
