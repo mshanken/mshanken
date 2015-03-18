@@ -45,4 +45,4 @@ This command will copy the compiled (HTML generated) version of your working sit
 Once you have committed (and push if you need to) your changes, checkout gh-pages branch ```git checkout gh-pages``` and merge your updates from master or the branch you were working ```git merge branch-name```. Now lets build gh-pages static content with the following command ```harp compile _site``` check your gh-pages brach for updated static content. Once you confirm your changes are in place commit and push your changes to gh-pages branch at github ```git push origin master``` to update the mshanken site at github.~~
 
 
-Do changes accordingly, any help contact [Edison](mailto:eleon@mshanken.com)
+~~Do changes accordingly, any help contact [Edison](mailto:eleon@mshanken.com)~~
