@@ -30,7 +30,7 @@ module.exports = function(grunt) {
 			ghpages: {
 				expand: true,
 				cwd: 'www',
-				src: '**/{,*/}*.*',
+				src: '{,*/}*.*',
 				dest: './'
 			}
 		}
