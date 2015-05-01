@@ -1,0 +1,25 @@
+{
+  "name": "testharp",
+  "version": "1.0.0",
+  "description": "harp sample",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "server": "grunt server",
+    "compile": "grunt compile",
+    "gh-pages": "grunt gh-pages",
+    "static": "grunt harp:staticserver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "elwebdeveloper"
+  },
+  "author": "Edison A. Leon",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-harp": "^0.1.5",
+    "matchdep": "^0.3.0",
+    "time-grunt": "^1.1.0"
+  }
+}
