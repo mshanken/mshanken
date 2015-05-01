@@ -39,7 +39,6 @@ publish
 build/buildinfo.properties
 build/config/buildinfo.properties
 
-web/
-web-php/
-node_modules/
-_site/www
+web
+www
+node_modules
