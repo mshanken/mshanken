@@ -24,13 +24,13 @@ module.exports = function(grunt) {
 			web: {
 				expand: true,
 				cwd: 'www/',
-				src: '*',
+				src: '**/*.*',
 				dest: 'web/'
 			},
 			ghpages: {
 				expand: true,
 				cwd: 'www/',
-				src: '*',
+				src: '**/*.*',
 				dest: './'
 			}
 		}
