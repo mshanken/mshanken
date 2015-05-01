@@ -40,5 +40,5 @@ build/buildinfo.properties
 build/config/buildinfo.properties
 
 web
-node_modules/
 www
+node_modules
