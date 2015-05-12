@@ -23,14 +23,14 @@ module.exports = function(grunt) {
 		copy: {
 			web: {
 				expand: true,
-				cwd: 'www',
-				src: '*',
-				dest: 'web'
+				cwd: 'www/',
+				src: '**/*.*',
+				dest: 'web/'
 			},
 			ghpages: {
 				expand: true,
-				cwd: 'www',
-				src: '{,*/}*.*',
+				cwd: 'www/',
+				src: '**/*.*',
 				dest: './'
 			}
 		}
