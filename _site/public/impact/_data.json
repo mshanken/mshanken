@@ -1,0 +1,176 @@
+{
+    "index": {
+      	"title": "Impact Magazine| ",
+        "url": "/",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "imm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "imm-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            },
+            "customercare": {
+                "title": "customer care",
+                "url": "https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999",
+                "target": "_blank"
+            },
+            "impactdatabank": {
+                "title": "impact databank",
+                "url": "http://www.impactdatabank.com/",
+                "target": "_blank"
+            }
+        }
+    },
+    "imm-adspecs": {
+        "title": "Impact Magazine Advertising Spects | ",
+        "url": "imm-adspecs",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "imm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "imm-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            },
+            "customercare": {
+                "title": "customer care",
+                "url": "https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999",
+                "target": "_blank"
+            },
+            "impactdatabank": {
+                "title": "impact databank",
+                "url": "http://www.impactdatabank.com/",
+                "target": "_blank"
+            }
+        }
+    },
+    "imm-calendar": {
+    	"title": "Impact Magazine Closing Dates Calendar | ",
+        "url": "imm-calendar",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "imm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "imm-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            },
+            "customercare": {
+                "title": "customer care",
+                "url": "https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999",
+                "target": "_blank"
+            },
+            "impactdatabank": {
+                "title": "impact databank",
+                "url": "http://www.impactdatabank.com/",
+                "target": "_blank"
+            }
+        }
+    },
+    "imm-prodspec": {
+      	"title": "Impact Magazine Production Spects | ",
+        "url": "imm-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "imm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "imm-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            },
+            "customercare": {
+                "title": "customer care",
+                "url": "https://www.sunbeltfs.com/forms/ii/login.asp?sid=&eid=E99999",
+                "target": "_blank"
+            },
+            "impactdatabank": {
+                "title": "impact databank",
+                "url": "http://www.impactdatabank.com/",
+                "target": "_blank"
+            }
+        }
+    },
+    "im-events": {
+        "title": "Impact Overview | ",
+        "url": "im-events",
+        "target": "",
+        "menu": {}
+    }
+}

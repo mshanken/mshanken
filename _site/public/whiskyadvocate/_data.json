@@ -1,0 +1,154 @@
+{
+  	"index": {
+	  	"title": "Whisky Advocate Magazine | ",
+	  	"url": "/",
+	    "target": "",
+	    "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+            ,
+            "customercare": {
+                "title": "customer care",
+                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
+                "target": "_blank"
+            }
+        }
+  	},
+  	"wam-prodspec": {
+        "title": "Whisky Advocate Magazine Production Spects | ",
+        "url": "wam-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+            ,
+            "customercare": {
+                "title": "customer care",
+                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
+                "target": "_blank"
+            }
+        }
+    },
+    "wam-calendar": {
+        "title": "Whisky Advocate Magazine Editorial Calendar | ",
+        "url": "wam-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+            ,
+            "customercare": {
+                "title": "customer care",
+                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
+                "target": "_blank"
+            }
+        }
+    },
+    "wao-overview": {
+        "title": "Whisky Advocate Online | ",
+        "url": "wam-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+            ,
+            "customercare": {
+                "title": "customer care",
+                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
+                "target": "_blank"
+            }
+        }
+    }
+}
