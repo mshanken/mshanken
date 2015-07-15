@@ -3,6 +3,12 @@
 	  	"title": "Shanken News Daily | ",
 	  	"url": "/",
 	    "target": "",
-	    "menu": {}
+	    "menu": {
+	    	"overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            }
+	    }
 	}
 }

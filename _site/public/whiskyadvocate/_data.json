@@ -11,7 +11,7 @@
             },
             "custommedia": {
                 "title": "custom media",
-                "url": "http://mshankencustompublishing.com/",
+                "url": "http://cargocollective.com/shankencreative",
                 "target": "_blank"
             },
             "productionspecs": {
@@ -49,7 +49,7 @@
             },
             "custommedia": {
                 "title": "custom media",
-                "url": "http://mshankencustompublishing.com/",
+                "url": "http://cargocollective.com/shankencreative",
                 "target": "_blank"
             },
             "productionspecs": {
@@ -87,7 +87,7 @@
             },
             "custommedia": {
                 "title": "custom media",
-                "url": "http://mshankencustompublishing.com/",
+                "url": "http://cargocollective.com/shankencreative",
                 "target": "_blank"
             },
             "productionspecs": {
@@ -115,27 +115,27 @@
     },
     "wao-overview": {
         "title": "Whisky Advocate Online | ",
-        "url": "wam-prodspec",
+        "url": "wam-overview",
         "target": "",
         "menu": {
             "overview": {
                 "title": "overview",
-                "url": "index",
+                "url": "wao-overview",
                 "target": ""
             },
-            "custommedia": {
-                "title": "custom media",
-                "url": "http://mshankencustompublishing.com/",
-                "target": "_blank"
-            },
-            "productionspecs": {
-                "title": "production specs",
-                "url": "wam-prodspec",
+            "audience": {
+                "title": "audience",
+                "url": "wao-audience",
                 "target": ""
             },
-            "closingdates": {
-                "title": "closing dates",
-                "url": "wam-calendar",
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wao-adspecs",
                 "target": ""
             },
             "contactus": {
@@ -143,12 +143,108 @@
                 "url": "/contact",
                 "target": ""
             }
-            ,
-            "customercare": {
-                "title": "customer care",
-                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
-                "target": "_blank"
+        }
+    },
+    "wao-audience": {
+        "title": "Whisky Advocate Online Aundience | ",
+        "url": "wam-audience",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wao-adspecs",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
             }
         }
+    },
+    "wao-adplace": {
+        "title": "Whisky Advocate Online Advertising Placements | ",
+        "url": "wao-adplace",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wao-adspecs",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wao-adspecs": {
+        "title": "Whisky Advocate Online Advertising Spects | ",
+        "url": "wao-adspecs",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wao-adspecs",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wa-events": {
+        "title": "Whisky Advocate Events | ",
+        "url": "wa-events",
+        "target": "",
+        "menu":{}
     }
 }

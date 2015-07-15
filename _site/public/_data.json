@@ -109,13 +109,7 @@
 		"url": "/shankennewsdaily",
 		"target": "",
 		"imagebg": "snd/SND_Header_736x165.jpg",
-	  	"menu": {
-			"sndm": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			}
-		}
+	  	"menu": {}
 	},
 	"contact": {
 		"title": "/Contac us | ",
