@@ -29,12 +29,6 @@
                 "url": "/contact",
                 "target": ""
             }
-            ,
-            "customercare": {
-                "title": "customer care",
-                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
-                "target": "_blank"
-            }
         }
   	},
   	"wam-prodspec": {
@@ -67,12 +61,6 @@
                 "url": "/contact",
                 "target": ""
             }
-            ,
-            "customercare": {
-                "title": "customer care",
-                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
-                "target": "_blank"
-            }
         }
     },
     "wam-calendar": {
@@ -104,12 +92,6 @@
                 "title": "contact us",
                 "url": "/contact",
                 "target": ""
-            }
-            ,
-            "customercare": {
-                "title": "customer care",
-                "url": "http://www.sunbeltfs.com/forms/select.asp?pid=MW&arq=customer%20care&addurl=eid=E99999",
-                "target": "_blank"
             }
         }
     },
