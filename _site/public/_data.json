@@ -113,12 +113,12 @@
 	},
 	"contact": {
 		"title": "/Contac us | ",
-		"url": "contact",
+		"url": "contact.html",
 		"target": ""
 	},
 	"privatepolicy": {
 		"title": "/Private Policy | ",
-		"url": "privatepolicy",
+		"url": "privatepolicy.html",
 		"target": ""
 	}
 }
