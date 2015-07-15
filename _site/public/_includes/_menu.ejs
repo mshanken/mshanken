@@ -1,12 +1,17 @@
 
 <% var cur = public._data[current.path[0]] %>
-<% var curClass %>
-
+<% var curData = {} %>
+<% var i = 0 %>
 <% var tmp = current.source %>
 <% var type = tmp.split(/[-]+/) %>
 
+<% for(var menu in cur){ %>
+	<% curData[i] = cur[menu] %>
+	<% i++ %>
+<% }; %>
+
 <tr>
-	<td id="menu" valign="bottom" background="/images/<%=cur.imagebg %>" height="164">
+	<td id="menu" valign="bottom" background="/images/<%= curData[3] %>" height="164">
 		<% switch (current.path[0]) { 
 			case "winespectator": %>
 				<p class="wsmsm">
@@ -30,13 +35,13 @@
 				<p>
 				<% break
 		} %>
-		<% for(var menu in cur.menu){ %>
-			<% if( menu === type[0] || cur.menu[menu].url === current.path[1] ){ 
+		<% for(var menu in curData[4]){ %>
+			<% if( menu === type[0] || curData[4][menu].url === current.path[1] ){ 
 			  	curClass = "current"
 			} else {
 			  	curClass = ""
 			} %>
-			<a href="<%= cur.menu[menu].url %>.html" class="<%= curClass %>" target="<%= cur.menu[menu].target %>"><%= cur.menu[menu].title %></a>
+			<a href="<%= curData[4][menu].url %>.html" class="<%= curClass %>" target="<%= curData[4][menu].target %>"><%= curData[4][menu].title %></a>
 		<% }; %>
 		</p>
 	</td>
