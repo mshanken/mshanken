@@ -4,7 +4,9 @@
 
 Dear Advertiser,
 
-Many thanks for your interest in *Impact*. Enclosed please find a media kit with complete advertising information.
+Many thanks for your interest in *Impact*.
+
+Please see the media kit with the complete advertising information.
 
 Published 16 times per year, *Impact* is written for the top decision-makers, who turn to this publication as the number one source for all the information they need to manage their business.
 
