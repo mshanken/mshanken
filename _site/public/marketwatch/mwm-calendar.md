@@ -1,10 +1,12 @@
 
 #CALENDARS
 ---
+
 <br />
 
 ##2015 Issue Dates and Deadlines
 ---
+
 <br />
 
 Please contact us for the most up-to-date version.
@@ -24,6 +26,7 @@ Please contact us for the most up-to-date version.
 |December|Nov 6, 2015|Nov 11, 2015|
 
 <br />
+
 ##Not to be missed...
 ---
 
@@ -47,7 +50,6 @@ Please contact us for the most up-to-date version.
             <li>Craft Brewer Profile: Alaskan Brewers</li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3>March:</h3></td>
     <td><h3>On Premise Player of the Year</h3>
@@ -101,7 +103,6 @@ Please contact us for the most up-to-date version.
             <li><strong><em>Special Bonus Distribution: National Alcohol Beverage Control Association and National Restaurant Association</em></strong></li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3>June:</h3></td>
     <td><h3></h3>
@@ -120,7 +121,6 @@ Please contact us for the most up-to-date version.
             <li><strong><em>Special Bonus Distribution: Tales of The Cocktail</em></strong></li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3>July/August:</h3></td>
     <td><!-- <h3>Summer Cocktails</h3> -->
@@ -141,7 +141,6 @@ Please contact us for the most up-to-date version.
             <li><strong><em>Special Advertorial Section: Summer Cocktails</em></strong></li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3>September:</h3></td>
     <td><h3>Whiskey/Beer Hot Brands</h3>
@@ -160,7 +159,6 @@ Please contact us for the most up-to-date version.
             <li><strong><em>Special Bonus Distribution: National Beer Wholesalers Association</em></strong></li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3>Leaders:</h3></td>
     <td><h3><em>Annual Retail Awards Publication</em></h3>
@@ -174,7 +172,6 @@ Please contact us for the most up-to-date version.
         </dl>                
     </td>
 </tr>
-
 <tr>
     <td valign="top"><h3>October:</h3></td>
         <td><h3>Hot Prospect Brand Awards</h3>
@@ -194,7 +191,6 @@ Please contact us for the most up-to-date version.
             <li><strong><em>Special Bonus Distribution: Wine Spectator Wine Experience</em></strong></li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3><b>November:</h3></td>
     <td><h3>Sparkling Wine, Prosecco &amp; Champagne</h3></p>
@@ -211,7 +207,6 @@ Please contact us for the most up-to-date version.
             <li>NBWA Hot Brands Party Roundup</li>
         </ul></td>
 </tr>
-
 <tr>
     <td valign="top"><h3><b>December:</h3></td>
     <td><h3>Blue Chip Brand Awards</h3>
@@ -229,8 +224,10 @@ Please contact us for the most up-to-date version.
 </tr>
 </table>
 
-<br /><br /><h2>Hot Themes for 2015...</h2>
-<hr />
+<br /><br />
+
+##Hot Themes for 2015...
+---
 
 <p><big style="color:#00538a;">On-Premise Player of the Year</big><br />
 The best restaurateur or bar owner is showcased in a feature story. Learn what has made them a success.</p>
@@ -242,8 +239,8 @@ These are the industry's most exciting and valued brands, quantified each year b
 A look at what your customers are doing with their stores and operations to maintain and enhance the customers' experience.</p>
 
 <br />
-<h2>Appearing in every issue...</h2>
-<hr />
+##Appearing in every issue...
+---
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="no-border">
 <tr>
