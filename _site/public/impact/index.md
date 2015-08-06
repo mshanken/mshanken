@@ -27,5 +27,3 @@ No other publication has such reach and influence. *Impact* puts you in touch wi
 
 For more information, or to place advertisements, call me Stephen Senatore (Advertising Director), at (212) 684-4224 ext. 668; or email 
 <a href="mailto:ssenatore@mshanken.com">**ssenatore@mshanken.com**</a>
-
-Also, please visit <a href="http://www.marketwatchmag.com" target="_blank"><em><strong>MarketWatchmag.com</strong></em></a> for the latest information.

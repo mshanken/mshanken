@@ -32,3 +32,5 @@ NRA, ABL, Nightclub & Bar, NBWA and the Wine & Spirits Guild).
 - *Market Watch* readers offer enormous purchasing power: on-premise beverage sales average $1.6 million
 per outlet annually; off-premise average is $1.8 million!
 - ***Market Watch* is the industry's number one source for business information!**
+
+Also, please visit [***MarketWatchmag.com***](http://www.marketwatchmag.com) for the latest information.
