@@ -37,7 +37,7 @@
 	  	} else {
 	  		curClass = ""
 	  	} %>
-		<span><a href="<%= cur[submenu].url %><% if( cur[submenu].title != "custom media" ){%>.html<%}%>" class="<%= curClass %>" target="<%= cur[submenu].target %>"><%= cur[submenu].title %></a></span> |
+		<span><a href="<%= cur[submenu].url %><% if( cur[submenu].title !== "custom media" ){%>.html<%}%>" class="<%= curClass %>" target="<%= cur[submenu].target %>"><%= cur[submenu].title %></a></span> |
 	<% }; %>
 		</p>
 	</td>
