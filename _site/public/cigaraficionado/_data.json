@@ -1,0 +1,321 @@
+{
+    "index": {
+      	"title": "Cigar aficionado Magazine | ",
+        "url": "/",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "cam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "cam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cam-adspecs": {
+        "title": "Cigar aficionado Magazine Advertising Spects | ",
+        "url": "cam-adspecs",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "cam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "cam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cam-calendar": {
+    	"title": "Cigar aficionado Magazine Closing Dates Calendar | ",
+        "url": "cam-calendar",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "cam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "cam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cam-prodspec": {
+        "title": "Cigar aficionado Magazine Production Spects | ",
+        "url": "cam-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "cam-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "cam-calendar",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cao-adplace": {
+      	"title": "Cigar aficionado Online Advertising Placements | ",
+        "url": "cao-adplace",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "cao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "cao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "cao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "cao-adspecs",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "cao-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cao-adspecs": {
+      	"title": "Cigar aficionado Online Advertising Spects | ",
+        "url": "cao-adspecs",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "cao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "cao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "cao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "cao-adspecs",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "cao-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cao-audience": {
+      	"title": "Cigar aficionado Online Audience | ",
+        "url": "cao-audience",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "cao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "cao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "cao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "cao-adspecs",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "cao-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cao-glossary": {
+      	"title": "Cigar aficionado Online Glossary | ",
+        "url": "cao-glossary",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "cao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "cao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "cao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "cao-adspecs",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "cao-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "cao-overview": {
+      	"title": "Cigar aficionado Online Overview | ",
+        "url": "cao-overview",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "cao-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "cao-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "cao-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "cao-adspecs",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "cao-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "ca-events": {
+        "title": "Cigar aficionado Events | ",
+        "url": "ca-events",
+        "target": "",
+        "menu":{}
+    }
+}

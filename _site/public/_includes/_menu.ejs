@@ -1,65 +1,48 @@
 
 <% var cur = public._data[current.path[0]] %>
-<% var curClass %>
+<% var curData = {} %>
+<% var i = 0 %>
+<% var tmp = current.source %>
+<% var type = tmp.split(/[-]+/) %>
 
+<% for(var menu in cur){ %>
+	<% curData[i] = cur[menu] %>
+	<% i++ %>
+<% }; %>
+<tr><td>&nbsp;</td></tr>
 <tr>
-<% switch (current.path[0]) { 
-	case "winespectator": %>
-	<td id="menu" valign="bottom" background="/images/<%=cur.imagebg %>" height="164">
-		<p class="wsmsm">
-			<% for(var menu in cur.menu){ %>
-				<% if( cur.menu[menu].url == current.source ){ 
-			  		curClass = "current"
-			  	} else {
-			  		curClass = ""
-			  	} %>
-			  	<a href="/winespectator/<%= cur.menu[menu].url %>.html" class="<%= curClass %>" target="<%= cur.menu[menu].target %>"><%= menu %></a>
-			<% }; %>
+	<td id="menu" valign="bottom" background="/images/<%= curData[3] %>" height="164">
+		<% switch (current.path[0]) { 
+			case "winespectator": %>
+				<p class="wsmsm">
+				<% break
+			case "cigaraficionado": %>
+				<p class="camsm">
+				<% break
+			case "whiskyadvocate": %>
+				<p class="wamsm">
+				<% break
+			case "marketwatch": %>
+				<p class="mwmsm">
+				<% break
+			case "impact": %>
+				<p class="immsm">
+				<% break
+			case "shankennewsdaily": %>
+				<p class="sndmsm">
+				<% break
+			default: %>
+				<p>
+				<% break
+		} %>
+		<% for(var menu in curData[4]){ %>
+			<% if( menu === type[0] || curData[4][menu].url === current.path[1] ){ 
+			  	curClass = "current"
+			} else {
+			  	curClass = ""
+			} %>
+			<a href="<%= curData[4][menu].url %>.html" class="<%= curClass %>" target="<%= curData[4][menu].target %>"><%= curData[4][menu].title %></a>
+		<% }; %>
 		</p>
-		<% break
-	case "cigaraficionado": %>
-	<td id="menu" valign="bottom" background="/images/<%=cur.imagebg %>" height="164">
-		<p class="camsm">
-			<% for(var menu in cur.menu){ %>
-				<% if( cur.menu[menu].url == current.source ){ 
-			  		curClass = "current"
-			  	} else {
-			  		curClass = ""
-			  	} %>
-			 	<a href="/cigaraficionado/<%= cur.menu[menu].url %>.html" class="<%= curClass %>" target="<%= cur.menu[menu].target %>"><%= menu %></a>
-			<% }; %>
-		</p>
-		<% break
-	case "marketwatch": %>
-	<td id="menu" valign="bottom" background="/images/<%=cur.imagebg %>" height="164">
-		<p class="mwmsm">
-			<% for(var menu in cur.menu){ %>
-				<% if( cur.menu[menu].url == current.source ){ 
-			  		curClass = "current"
-			  	} else {
-			  		curClass = ""
-			  	} %>
-			  	<a href="/marketwatch/<%= cur.menu[menu].url %>.html" class="<%= curClass %>" target="<%= cur.menu[menu].target %>"><%= menu %></a>
-			<% }; %>
-		</p>
-		<% break
-	case "impact": %>
-	<td id="menu" valign="bottom" background="/images/<%=cur.imagebg %>" height="164">
-		<p class="immsm">
-			<% for(var menu in cur.menu){ %>
-				<% if( cur.menu[menu].url == current.source ){ 
-			  		curClass = "current"
-			  	} else {
-			  		curClass = ""
-			  	} %>
-			  	<a href="/impact/<%= cur.menu[menu].url %>.html" class="<%= curClass %>" target="<%= cur.menu[menu].target %>"><%= menu %></a>
-			<% }; %>
-		</p>
-		<% break
-	default: %>
-	<td id="menu" valign="bottom" height="164">
-		<% break
-} %>
 	</td>
 </tr>
-

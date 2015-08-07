@@ -1,7 +1,499 @@
 {
-  "index": {
-  	"title": "Wine Spectator",
-  	"url": "",
-	"target": ""
-  }
+    "index": {
+      	"title": "Wine Spectator Magazine| ",
+        "url": "/",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wsm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wsm-calendar",
+                "target": ""
+            },
+            "classified": {
+                "title": "classified",
+                "url": "wsm-classified",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wsm-calendar": {
+    	"title": "Wine Spectator Magazine Closing Dates Calendar | ",
+        "url": "wsm-calendar",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": ""
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wsm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wsm-calendar",
+                "target": ""
+            },
+            "classified": {
+                "title": "classified",
+                "url": "wsm-classified",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wsm-classified": {
+      	"title": "Wine Spectator Magazine Classified Advertising | ",
+        "url": "wsm-classified",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": ""
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wsm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wsm-calendar",
+                "target": ""
+            },
+            "classified": {
+                "title": "classified",
+                "url": "wsm-classified",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wsm-prodspec": {
+      	"title": "Wine Spectator Magazine Production Spects | ",
+        "url": "wsm-prodspec",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "index",
+                "target": ""
+            },
+            "custommedia": {
+                "title": "custom media",
+                "url": "http://mshankencustompublishing.com/",
+                "target": "_blank"
+            },
+            "productionspecs": {
+                "title": "production specs",
+                "url": "wsm-prodspec",
+                "target": ""
+            },
+            "closingdates": {
+                "title": "closing dates",
+                "url": "wsm-calendar",
+                "target": ""
+            },
+            "classified": {
+                "title": "classified",
+                "url": "wsm-classified",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": "_blank"
+            }
+        }
+    },
+    "wso-adplace": {
+      	"title": "Wine Spectator Online Advertising Placements | ",
+        "url": "wso-adplace",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-adspecs": {
+      	"title": "Wine Spectator Online Advertising Spects | ",
+        "url": "wso-adspecs",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-audience": {
+      	"title": "Wine Spectator Online Audience | ",
+        "url": "wso-audience",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-classifieds": {
+      	"title": "Wine Spectator Online Classifieds Advertising | ",
+        "url": "wso-classifieds",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-glossary": {
+      	"title": "Wine Spectator Online Glossary | ",
+        "url": "wso-glossary",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-mobile": {
+      	"title": "Wine Spectator Mobile | ",
+        "url": "wso-mobile",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "wso-overview": {
+      	"title": "Wine Spectator Online Overview | ",
+        "url": "wso-overview",
+        "target": "",
+        "menu": {
+            "overview": {
+                "title": "overview",
+                "url": "wso-overview",
+                "target": ""
+            },
+            "audience": {
+                "title": "audience",
+                "url": "wso-audience",
+                "target": ""
+            },
+            "adplacement": {
+                "title": "ad placement",
+                "url": "wso-adplace",
+                "target": ""
+            },
+            "adspecs": {
+                "title": "ad specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+
+            "mobile": {
+                "title": "mobile",
+                "url": "wso-mobile",
+                "target": ""
+            },
+
+            "classifieds": {
+                "title": "classifieds",
+                "url": "wso-classifieds",
+                "target": ""
+            },
+            "glossary": {
+                "title": "glossary",
+                "url": "wso-glossary",
+                "target": ""
+            },
+            "contactus": {
+                "title": "contact us",
+                "url": "/contact",
+                "target": ""
+            }
+        }
+    },
+    "ws-events": {
+        "title": "Wine Spectator Events | ",
+        "url": "ws-events",
+        "target": "",
+        "menu":{}
+    }
 }

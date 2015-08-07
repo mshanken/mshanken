@@ -1,0 +1,121 @@
+
+#CALENDARS
+---
+
+<br />
+
+##2015 Issue Dates and Deadlines
+---
+
+Please contact us for the most up-to-date version.
+
+<table>
+	<tr>
+		<th>Issue Date</th>
+		<th>Editorial Focus</th>
+		<th>Space Close</th>
+		<th>Material Due</th>
+	</tr>
+    <tr>
+        <td><em>January 1 &amp; 15</em></td>
+        <td><em>&bull; Top 25 U.S. Spirits</em></td>
+        <td><em>December 31</em></td>
+        <td><em>January 2</em></td>
+    </tr>
+    <tr>
+        <td><em>February 1 &amp; 15</em></td>
+        <td><em>&bull; Top 100 Spirit Brands Worldwide</em></td>
+        <td><em>February 4</em></td>
+        <td><em>February 6</em></td>
+    </tr>
+    <tr>
+        <td><em><strong>March 1 &amp; 15<br /><span>(IM Seminar–3/19)</span></strong></em></td>
+        <td><em><strong>&bull; Hot Brands<br />&bull; Top 100 By Value</strong></em></td>
+        <td><em><strong>February 27</strong></em></td>
+        <td><em><strong>March 3</strong></em></td>
+    </tr>
+    <tr>
+        <td><em><strong>April 1 &amp;15<br /><span>(WSWA – 4/12-15)</span></strong></em></td>
+        <td><em><strong>&bull; Top 10 Spirits &amp; Wine Distributors<br />&bull; Imported vodka</strong></em></td>
+        <td><em><strong>March 20</strong></em></td>
+        <td><em><strong>March 24</strong></em></td>
+    </tr>
+    <tr>
+        <td><strong>May 1</strong></td>
+        <td><strong>&bull; Imported wine report<br />&bull; U.S. on-premise overview</strong></td>
+        <td><strong>April 8</strong></td>
+        <td><strong>April 10</strong></td>
+    </tr>
+    <tr>
+        <td><strong>May 15<br /><span>(NABCA–5/18-21)</span></strong></td>
+        <td><strong>&bull; Tequila report<br />&bull; Control State update</strong></td>
+        <td><strong>April 28</strong></td>
+        <td><strong>May 1</strong></td>
+    </tr>
+    <tr>
+        <td>June 1 &amp; 15<br />(Vinexpo–6/14-18)</td>
+        <td>&bull; Champagne<br />&bull; Sparkling wine<br />&bull; New product update</td>
+        <td>May 19</td>
+        <td>May 22</td>
+    </tr>
+    <tr>
+        <td>July 1</td>
+        <td>&bull; Rum<br/>&bull; U.S. Beer</td>
+        <td>June 15</td>
+        <td>June 18</td>
+    </tr>
+    <tr>
+        <td>July 15</td>
+        <td>&bull; Global vodka market<br />&bull; Brazil overview</td>
+        <td>July 1</td>
+        <td>July 3</td>
+    </tr>
+    <tr>
+        <td><em>August 1 &amp; 15</em></td>
+        <td><em>&bull; China overview<br />&bull; Top 20 premium wines in U.S. market</em></td>
+        <td><em>July 27</em></td>
+        <td><em>July 30</em></td>
+    </tr>
+    <tr>
+        <td><em>September 1 &amp; 15</em></td>
+        <td><em>&bull; Top Spirits Companies<br />&bull; Hot Prospects</em></td>
+        <td><em>August 17</em></td>
+        <td><em>August 19</em></td>
+    </tr>
+    <tr>
+        <td>October 1</td>
+        <td>&bull; Bourbon<br />&bull; Irish whiskey<br />&bull; Russia overview</td>
+        <td>September 1</td>
+        <td>September 4</td>
+    </tr>
+
+
+    <tr>
+        <td><strong>October 15<br /><span>(NBWA-10/11-14)</span></strong></td>
+        <td><strong>&bull; World Beer Report&bull; Beer Wholesaler Update<br />&bull; Blue Chip Brands</strong></td>
+        <td><strong>September 14</strong></td>
+        <td><strong>September 17</strong></td>
+    </tr>
+    <tr>
+        <td><strong>November 1<br /><span>(TFWA-10/19-23)</span></strong></td>
+        <td><strong>&bull; Travel Retail report<br />&bull; Scotch/Single Malt<br />&bull; Cognac update</strong></td>
+        <td><strong>September 25</strong></td>
+        <td><strong>September 29</strong></td>
+    </tr>
+    <tr>
+        <td>November 15</td>
+        <td>&bull; Gin<br />&bull; Japan overview</td>
+        <td>October 26</td>
+        <td>October 28</td>
+    </tr>
+
+    <tr>
+        <td><em>December 1 &amp; 15</em></td>
+        <td><em>&bull; Liqueurs Market<br />&bull; India overview</em></td>
+        <td><em>November 20</em></td>
+        <td><em>November 25</em></td>
+    </tr>
+</table>
+
+- Issues in italics are double-issues
+- Issues in bold feature bonus distribution at trade shows
