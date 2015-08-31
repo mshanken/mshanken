@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<%- partial("_includes/_head") %>
+	<%- partial("_themes/default/_head") %>
 </head>
 	
 <body>
@@ -11,11 +11,11 @@
 		<div id="heading">
 
 			<table id="header" width="736" border="0" cellspacing="0" cellpadding="0">
-			<%- partial("_includes/_header") %>
-			<%- partial("_includes/_navbar") %>
+			<%- partial("_themes/default/_header") %>
+			<%- partial("_themes/default/_navbar") %>
 			<% if ( current.path[0] !== "index"  && current.source !== "contact"  && current.source !== "privatepolicy" ) { %>
-				<%- partial("_includes/_menu") %>
-				<%- partial("_includes/_subnavbar") %>
+				<%- partial("_themes/default/_menu") %>
+				<%- partial("_themes/default/_subnavbar") %>
 			<% } %>
 			</table>
 
@@ -31,7 +31,7 @@
       		<% } %>
       	</div>
 
-      	<%- partial("_includes/_footer") %>
+      	<%- partial("_themes/default/_footer") %>
     &nbsp;
 	</div>
 
