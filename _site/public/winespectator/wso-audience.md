@@ -27,6 +27,6 @@
 * 728 x 90
 * 234 x 60
 
-We will tailor the proposal based on advertiser goals and objectives. Our minimum buy is $5,000 net per month.
+We will tailor the proposal based on advertiser goals and objectives. Our minimum buy is $6,500 net per month.
 
 WineSpectator.com is open to "out of the box" ideas and will create packages that suit the needs of our clients.
