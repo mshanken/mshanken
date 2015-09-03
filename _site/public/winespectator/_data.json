@@ -173,12 +173,6 @@
                 "target": ""
             },
 
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
@@ -219,12 +213,6 @@
             "adspecs": {
                 "title": "ad specs",
                 "url": "wso-adspecs",
-                "target": ""
-            },
-
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
                 "target": ""
             },
 
@@ -271,12 +259,6 @@
                 "target": ""
             },
 
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
@@ -317,12 +299,6 @@
             "adspecs": {
                 "title": "ad specs",
                 "url": "wso-adspecs",
-                "target": ""
-            },
-
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
                 "target": ""
             },
 
@@ -369,12 +345,6 @@
                 "target": ""
             },
 
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
@@ -418,12 +388,6 @@
                 "target": ""
             },
 
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
@@ -464,12 +428,6 @@
             "adspecs": {
                 "title": "ad specs",
                 "url": "wso-adspecs",
-                "target": ""
-            },
-
-            "mobile": {
-                "title": "mobile",
-                "url": "wso-mobile",
                 "target": ""
             },
 
