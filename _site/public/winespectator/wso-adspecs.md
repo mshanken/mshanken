@@ -2,11 +2,12 @@
 #ADVERTISING SPECS
 ----
 
-|Ad Type|Dimensions|Max File Size|Animation|Loops|Notes|
+|Ad Type|Dimensions|Max File Size|Animation|Loops|
 |-------|----------|-------------|---------|-----|-----|
-|Rectangle|300x250|40K|Up to<br />15 sec.|3 loops<br />max|Additional requirements for Flash or Pre - Approved Rich Media|
-|Tile|234x60|40K|Up to<br /> 15 sec.|3 loops<br />max|Additional requirements for Flash or Pre - Approved Rich Media|
-|Leader-<br />board|728x90|40K|Up to<br /> 15 sec.|3 loops<br />max|Additional requirements for Flash or Pre - Approved Rich Media|
-|Half<br />Page|300x600|40K|Up to<br /> 15 sec.|3 loops<br />max|Additional requirements for Flash or Pre - Approved Rich Media|
-|Road-<br />block|300x250<br />and<br />728x90<br />(<i>run concurrently</i>)|40K|Up to<br /> 15 sec.|3 loops<br />max|Additional requirements for Flash or Pre - Approved Rich Media|
-|E-Mail Newsletter Sponsorship|728x90,<br />120x90 &amp; 50 words of text|40K|Up to<br /> 15 sec.|3 loops<br />max|GIF or JPEG Only. Text max<br />of 50 words.|
+|Rectangle|300x250|40K|Up to<br />15 sec.|3 loops<br />max|
+|Tile|234x60|40K|Up to<br />15 sec.|3 loops<br />max|
+|Leader-<br />board|728x90|40K|Up to<br />15 sec.|3 loops<br />max|
+|Half<br />Page|300x600|40K|Up to<br />15 sec.|3 loops<br />max|
+|Road-<br />block|300x250,<br /> 234x60 and<br />728x90<br />(<i>run concurrently</i>)|40K|Up to<br />15 sec.|3 loops<br />max|
+|E-Mail Newsletter Sponsorship: **Banners only**|300x50px and 300x250px|40k|Up to<br />15 sec.|Unlimited only|
+|E-Mail Newsletter Sponsorship: **Sponsored Post**|540 x 304px GIF or JPG, 72 DPI image<br /><br />Short photo caption / photo credit<br /><br />URL<br /><br />Headline: Up to about 5 words or 42 characters<<br /><br />Text: Up to about 70 words or 400 characters<br /><br />Suggested tweet text (up to 118 characters, plus the shortened link)<br /><br />Suggested Pinterest caption (Facebook and Google Plus will pick up the metatitle of the page we're linking to.)|40K|Up to<br />15 sec.|Unlimited only|

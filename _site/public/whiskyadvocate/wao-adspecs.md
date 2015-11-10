@@ -1,7 +1,6 @@
 #TECHNICAL AD SPECS
 ---
 
-* Format: We accept GIF, JPG, and Flash<br /><span class="small">(No expanding Flash files, SWF format only)</span>
 * Creative must be accompanied by a URL.
 * Due date: 5 business days prior to launch.
 * All ads must have a border.

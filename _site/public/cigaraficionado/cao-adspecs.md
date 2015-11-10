@@ -17,7 +17,6 @@
 	<th>**Max File Size**</th>
 	<th>**Animation**</th>
 	<th>**Loops**</th>
-	<th>**Notes**</th>
 </tr>
 <tr>
 	<td align="center"><p>Rectangle</p></td>
@@ -25,7 +24,6 @@
 	<td align="center"><p>40K</p></td>
 	<td align="center"><p>Up to<br />15 sec.</p></td>
 	<td align="center"><p>3 loops<br />max</p></td>
-	<td align="center"><p>Additional requirements for Flash or Pre-Approved Rich Media.</p></td>
 </tr>
 <tr>
 	<td align="center"><p>Leader-<br />board</p></td>
@@ -33,7 +31,6 @@
 	<td align="center"><p>40K</p></td>
 	<td align="center"><p>Up to<br />15 sec.</p></td>
 	<td align="center"><p>3 loops<br />max</p></td>
-	<td align="center"><p>Additional requirements for Flash or Pre-Approved Rich Media.</p></td>
 </tr>
 <tr>
 	<td align="center"><p>Road-<br />block</p></td>
@@ -41,7 +38,6 @@
 	<td align="center"><p>40K</p></td>
 	<td align="center"><p>Up to<br />15 sec.</p></td>
 	<td align="center"><p>3 loops<br />max</p></td>
-	<td align="center"><p>Additional requirements for Flash or Pre-Approved Rich Media.</p></td>
 </tr>
 <tr>
 	<td align="center"><p>E-Mail Newsletter Sponsorship</p></td>
@@ -49,6 +45,5 @@
 	<td align="center"><p>40K</p></td>
 	<td align="center"><p>Up to<br />15 sec.</p></td>
 	<td align="center"><p>3 loops<br />max</p></td>
-	<td align="center"><p>GIF or JPEG Only. Text max of 50 words.</p></td>
 </tr>
 </table>
