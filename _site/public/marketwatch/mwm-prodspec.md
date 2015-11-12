@@ -16,9 +16,11 @@ Publication Trim Size: 8 1/4" x 11"
 ##Delivery of Material
 ---
 
-<p>Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading information available on site)</p><br />
+Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading information available on site)
 
-<p>Advertising material will be retained for one year, unless return is specifically requested. M. Shanken Communications is not responsible for keeping material beyond one year.</p>
+<br />
+
+Advertising material will be retained for one year, unless return is specifically requested. M. Shanken Communications is not responsible for keeping material beyond one year.
 
 <table align="center" width="88%" cellpadding="1" cellspacing="1" border="0" bgcolor="#d3b253" id="Table01">
   <caption align="bottom"><em>* All live matter must be 1/8" from trim on all sides</em></caption>
