@@ -12,7 +12,7 @@ function noimages(){
 	nb = document.getElementById("menu7").style
 	nc = document.getElementById("menu8").style
 	nd = document.getElementById("menu9").style
-	nu = document.getElementById("menu10").style
+	ne = document.getElementById("menu10").style
 	
 	a.display = "block"
 	b.display = "none"
@@ -24,7 +24,7 @@ function noimages(){
 	nb.display = "none"
 	nc.display = "none"
 	nd.display = "none"
-	nu.display = "none"
+	ne.display = "none"
 }
 function rect(currMenu) {
 	b = document.getElementById("menu2").style
@@ -170,7 +170,7 @@ function sips(currMenu) {
 	nb = document.getElementById("menu7").style
 	nc = document.getElementById("menu8").style
 	nd = document.getElementById("menu9").style
-	nu = document.getElementById("menu10").style
+	ne = document.getElementById("menu10").style
 	
 	if(document.getElementById){
 	thisMenu = document.getElementById(currMenu).style
@@ -179,14 +179,14 @@ function sips(currMenu) {
 	nb.display = "none"
 	nc.display = "none"
 	nd.display = "none"
-	nu.display = "none"
+	ne.display = "none"
 	}
 	else{
 		thisMenu.display = "block"
 		nb.display = "none"
 		nc.display = "none"
 		nd.display = "none"
-		nu.display = "none"
+		ne.display = "none"
 		}
 		return false
 	}
@@ -198,7 +198,7 @@ function video(currMenu) {
 	na = document.getElementById("menu6").style
 	nc = document.getElementById("menu8").style
 	nd = document.getElementById("menu9").style
-	nu = document.getElementById("menu10").style
+	ne = document.getElementById("menu10").style
 	
 	if(document.getElementById){
 	thisMenu = document.getElementById(currMenu).style
@@ -207,14 +207,14 @@ function video(currMenu) {
 	na.display = "none"
 	nc.display = "none"
 	nd.display = "none"
-	nu.display = "none"
+	ne.display = "none"
 	}
 	else{
 		thisMenu.display = "block"
 		na.display = "none"
 		nc.display = "none"
 		nd.display = "none"
-		nu.display = "none"
+		ne.display = "none"
 		}
 		return false
 	}
@@ -226,7 +226,7 @@ function health(currMenu) {
 	na = document.getElementById("menu6").style
 	nb = document.getElementById("menu7").style
 	nd = document.getElementById("menu9").style
-	nu = document.getElementById("menu10").style
+	ne = document.getElementById("menu10").style
 	
 	if(document.getElementById){
 	thisMenu = document.getElementById(currMenu).style
@@ -235,14 +235,14 @@ function health(currMenu) {
 	na.display = "none"
 	nb.display = "none"
 	nd.display = "none"
-	nu.display = "none"
+	ne.display = "none"
 	}
 	else{
 		thisMenu.display = "block"
 		na.display = "none"
 		nb.display = "none"
 		nd.display = "none"
-		nu.display = "none"
+		ne.display = "none"
 		}
 		return false
 	}
@@ -254,7 +254,7 @@ function auction(currMenu) {
 	na = document.getElementById("menu6").style
 	nb = document.getElementById("menu7").style
 	nc = document.getElementById("menu8").style
-	nu = document.getElementById("menu10").style
+	ne = document.getElementById("menu10").style
 	
 	if(document.getElementById){
 	thisMenu = document.getElementById(currMenu).style
@@ -262,14 +262,15 @@ function auction(currMenu) {
 	thisMenu.display = "none"
 	na.display = "none"
 	nb.display = "none"
-	nu.display = "none"
+	nc.display = "none"
+	ne.display = "none"
 	}
 	else{
 		thisMenu.display = "block"
 		na.display = "none"
 		nb.display = "none"
 		nc.display = "none"
-		nu.display = "none"
+		ne.display = "none"
 		}
 		return false
 	}
@@ -282,6 +283,7 @@ function unfilter(currMenu) {
 	na = document.getElementById("menu6").style
 	nb = document.getElementById("menu7").style
 	nc = document.getElementById("menu8").style
+	nd = document.getElementById("menu9").style
 	
 	if(document.getElementById){
 	thisMenu = document.getElementById(currMenu).style
@@ -290,12 +292,14 @@ function unfilter(currMenu) {
 	na.display = "none"
 	nb.display = "none"
 	nc.display = "none"
+	nd.display = "none"
 	}
 	else{
 		thisMenu.display = "block"
 		na.display = "none"
 		nb.display = "none"
 		nc.display = "none"
+		nd.display = "none"
 		}
 		return false
 	}
