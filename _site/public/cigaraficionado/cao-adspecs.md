@@ -5,7 +5,7 @@
 
 <br />
 
-<h2 class="ca">Ad Specs</h2>
+##Ad Specs
 ---
 
 <br />

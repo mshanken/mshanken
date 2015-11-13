@@ -11,8 +11,10 @@
     "name": "Edison A. Leon",
     "email": "eleon@mshanken.com",
 
+    "layout": "false",
+
     "typekit": false,
-    "analytics": false,
+    "analytics": "UA-23484466-4",
     "disqus": false
   }
 }
