@@ -1,0 +1,48 @@
+
+<% var cur = public._data[current.path[0]] %>
+<% var curData = {} %>
+<% var i = 0 %>
+<% var tmp = current.source %>
+<% var type = tmp.split(/[-]+/) %>
+
+<% for(var menu in cur){ %>
+	<% curData[i] = cur[menu] %>
+	<% i++ %>
+<% }; %>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td id="menu" valign="bottom" background="/images/<%= curData[3] %>" height="164">
+		<% switch (current.path[0]) { 
+			case "winespectator": %>
+				<p class="wsmsm">
+				<% break
+			case "cigaraficionado": %>
+				<p class="camsm">
+				<% break
+			case "whiskyadvocate": %>
+				<p class="wamsm">
+				<% break
+			case "marketwatch": %>
+				<p class="mwmsm">
+				<% break
+			case "impact": %>
+				<p class="immsm">
+				<% break
+			case "shankennewsdaily": %>
+				<p class="sndmsm">
+				<% break
+			default: %>
+				<p>
+				<% break
+		} %>
+		<% for(var menu in curData[4]){ %>
+			<% if( menu === type[0] || curData[4][menu].url === current.path[1] ){ 
+			  	curClass = "current"
+			} else {
+			  	curClass = ""
+			} %>
+			<a href="<%= curData[4][menu].url %>.html" class="<%= curClass %>" target="<%= curData[4][menu].target %>"><%= curData[4][menu].title %></a>
+		<% }; %>
+		</p>
+	</td>
+</tr>

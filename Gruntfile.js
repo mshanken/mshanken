@@ -32,8 +32,32 @@ module.exports = function(grunt) {
 				cwd: 'www/',
 				src: '**/*.*',
 				dest: './'
+			},
+			assets: {
+				files: [
+					{expand: true, cwd: 'node_modules/bootstrap/js/', src: ['**'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'node_modules/jquery/dist/', src: ['**'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'bower_components/html5shiv/dist/', src: ['**'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'bower_components/jquery-cycle2/build/', src: ['**'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'bower_components/matchMedia/build/', src: ['*.js'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'bower_components/requirejs/', src: ['*.js'], dest: '_site/public/js/vendor/', filter: 'isFile'},
+					{expand: true, cwd: 'bower_components/respond/dest/', src: ['**'], dest: '_site/public/js/vendor/', filter: 'isFile'}
+				]
 			}
-		}
+		},
+		less: {
+            development: {
+                options: {
+                    compress: true,
+                    yuicompress: true,
+                    optimization: 2
+                },
+                files: {
+                    "_site/public/css/bootstrap.css":"node_modules/bootstrap/less/bootstrap.less",
+                    "_site/public/css/theme.css":"node_modules/bootstrap/less/theme.less"
+                }
+            }
+        }
 	});
 
 	grunt.registerTask('server', [

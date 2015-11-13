@@ -20,7 +20,8 @@
 			  	"url": "ws-events",
 			  	"target": ""
 			}
-		}
+		},
+	  	"layout": "_default-layout"
   	},
 	"cigaraficionado": {
 		"title": "Cigar aficionado",

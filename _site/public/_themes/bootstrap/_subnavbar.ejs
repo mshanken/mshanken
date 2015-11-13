@@ -1,0 +1,44 @@
+
+<% var tmp = current.source %>
+<% var type = tmp.split(/[-]+/) %>
+<% var cur = menu %>
+<% var elClass %>
+<% var curClass %>
+
+<tr>
+	<td id="submenu">
+	<% switch (current.path[0]) { 
+		case "winespectator": %>
+			<p class="wsmsm">
+			<% break
+		case "cigaraficionado": %>
+			<p class="camsm">
+			<% break
+		case "whiskyadvocate": %>
+			<p class="wamsm">
+			<% break
+		case "marketwatch": %>
+			<p class="mwmsm">
+			<% break
+		case "impact": %>
+			<p class="immsm">
+			<% break
+		case "shankennewsdaily": %>
+			<p class="sndmsm">
+			<% break
+		default: %>
+			<p>
+			<% break
+	} %>
+
+	<% for(var submenu in cur ){ %>
+		<% if( cur[submenu].url == current.source ){ 
+	  		curClass = "current"
+	  	} else {
+	  		curClass = ""
+	  	} %>
+		<span><a href="<%= cur[submenu].url %><% if( cur[submenu].title !== "custom media" ){%>.html<%}%>" class="<%= curClass %>" target="<%= cur[submenu].target %>"><%= cur[submenu].title %></a></span> |
+	<% }; %>
+		</p>
+	</td>
+</tr>

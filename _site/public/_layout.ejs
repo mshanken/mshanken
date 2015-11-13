@@ -1,41 +1,52 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<%- partial("_themes/default/_head") %>
-</head>
-	
-<body>
-	
-	<div id="wrapperBox" class="addclear">
-	&nbsp;
-		<div id="heading">
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <%- partial("_themes/bootstrap/_heading") %>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
 
-			<table id="header" width="736" border="0" cellspacing="0" cellpadding="0">
-			<%- partial("_themes/default/_header") %>
-			<%- partial("_themes/default/_navbar") %>
-			<% if ( current.path[0] !== "index"  && current.source !== "contact"  && current.source !== "privatepolicy"  && current.source !== "404" ) { %>
-				<%- partial("_themes/default/_menu") %>
-				<%- partial("_themes/default/_subnavbar") %>
-			<% } %>
-			</table>
+        <header class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <%- partial("_themes/bootstrap/_header") %>
+                    </div>
+                </div>
+                 <div class="row">
+                    <div class="col-xs-12">
+                        <%- partial("_themes/bootstrap/_navbar") %>
+                    </div>
+                </div>
+                 <div class="row">
+                    <div class="col-xs-12">
+                        <% if ( current.path[0] !== "index"  && current.source !== "contact"  && current.source !== "privatepolicy"  && current.source !== "404" ) { %>
+                            <%- partial("_themes/bootstrap/_menu") %>
+                            <%- partial("_themes/bootstrap/_subnavbar") %>
+                        <% } %>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-		</div>
+        <div class="container main">
+            <div class="row">
+                <% if ( current.path[0] === "index"  || current.source === "contact"  || current.source === "privatepolicy" || current.source === "404" ) { %>
+                        <%- yield %>
+                <% } else  { %>
+                    <%- partial(current.path[0] + "/_contentbody", { yield: yield }) %>
+                <% } %>
+            </div>
+        </div>
 
-		<div id="contentWrapper">
-			<% if ( current.path[0] === "index"  || current.source === "contact"  || current.source === "privatepolicy" || current.source === "404" ) { %>
-	      		<div class="oneColumnContent">
-	      			<%- yield %>
-	      		</div>
-      		<% } else  { %>
-      			<%- partial(current.path[0] + "/_contentbody", { yield: yield }) %>
-      		<% } %>
-      	</div>
+        <footer class="footer">
+            <div class="container">
+                <%- partial("_themes/bootstrap/_footer") %>
+            </div>
+        </footer>
 
-      	<%- partial("_themes/default/_footer") %>
-    &nbsp;
-	</div>
-	<script language="javascript" type="text/javascript" src="/js/rollovers.js"></script>
-	<script language="javascript" type="text/javascript" src="/js/ws-adplace.js"></script>
-</body>
+        <%- partial("_themes/bootstrap/_scripts") %>
+    </body>
 </html>
-    	
