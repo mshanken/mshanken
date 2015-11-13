@@ -1,9 +1,9 @@
 <!-- Start: Main Menu -->
-<p class="text-center">
+<ul class="nav navbar-nav">
 <% for(var menu in public._data){ %>
 	<% if (menu !== "contact" && menu !== "privatepolicy") { %>
-  		<a href="<%= public._data[menu].url %>" class="<%= menu %>"><%= public._data[menu].title %></a>
+  		<li><a href="<%= public._data[menu].url %>" class="<%= menu %>"><%= public._data[menu].title %></a></li>
   	<% }; %>
 <% }; %>
-</p>
+</ul>
 <!-- End: Main Menu -->
