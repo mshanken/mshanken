@@ -1,0 +1,61 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <%- partial("../_themes/bootstrap/_heading") %>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <header class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <%- partial("../_themes/bootstrap/_header") %>
+                    </div>
+                </div>
+        </header>
+        <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                  <!-- <a class="navbar-brand" href="#">Brand</a> -->
+                </div>
+                
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <%- partial("../_themes/bootstrap/_navbar") %>
+                </div>
+                <% if ( current.path[0] !== "index"  && current.source !== "contact"  && current.source !== "privatepolicy"  && current.source !== "404" ) { %>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                        <%- partial("../_themes/bootstrap/_menu") %>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-3">
+                        <%- partial("../_themes/bootstrap/_subnavbar") %>
+                    </div>
+                <% } %>
+            </div>
+        </nav>
+
+        
+        <div class="container main">
+        	<div class="row">
+                <%- partial("_contentbody", { yield: yield }) %>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div class="container">
+                <%- partial("../_themes/bootstrap/_footer") %>
+            </div>
+        </footer>
+
+        <%- partial("../_themes/bootstrap/_scripts") %>
+    </body>
+</html>
