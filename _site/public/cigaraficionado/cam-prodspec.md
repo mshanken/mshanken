@@ -102,16 +102,16 @@ Advertising material will be retained for one year, unless return is specificall
 &nbsp;&nbsp;&nbsp;<a href="mailto:cmcgilvray@mshanken.com" target="_blank"><strong>cmcgilvray@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-481-8610 x344
     
-&nbsp;&nbsp;&nbsp;Carolyn Plouff&eacute;<br />
-&nbsp;&nbsp;&nbsp;<a href="mailto:cplouffe@mshanken.com" target="_blank"><strong>cplouffe@mshanken.com</strong></a><br />
-&nbsp;&nbsp;&nbsp;tel: 212-481-8610 x365
+&nbsp;&nbsp;&nbsp;Christina Chiaffitella<br />
+&nbsp;&nbsp;&nbsp;<a href="mailto:cchiaffitella@mshanken.com" target="_blank"><strong>cchiaffitella@mshanken.com</strong></a><br />
+&nbsp;&nbsp;&nbsp;tel: 212-684-4224 x321
 
 Or mail to:
 
-&nbsp;&nbsp;&nbsp;Carolyn Plouff&eacute;<br />
+&nbsp;&nbsp;&nbsp;Christina Chiaffitella<br />
 &nbsp;&nbsp;&nbsp;Cigar Aficionado<br />
-&nbsp;&nbsp;&nbsp;387 Park Avenue South<br />
-&nbsp;&nbsp;&nbsp;New York, NY 10016
+&nbsp;&nbsp;&nbsp;825 Eighth Ave., 33rd Fl<br />
+&nbsp;&nbsp;&nbsp;New York, NY 10019‑7475
 
 <br />
 
