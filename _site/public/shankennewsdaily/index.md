@@ -56,15 +56,6 @@ makers.
 ##ADVERTISING RATES (NET)
 ---
 
-###June through December 1, 2015:
----
-
-**Frequency:**
-
-|1x |6x |12x |24x|
-|---|---|---|---|
-|$5,500 |$4,500 |$4,000 |$3,750|
-
 ###After December 1, 2015:
 ---
 
