@@ -10,40 +10,12 @@
 
 <br />
 
-<table align="center" width="99%" cellspacing="1" cellpadding="1" border="0" id="Table01">
-<tr>
-	<th>**Ad Type**</th>
-	<th>**Dimensions**</th>
-	<th>**Max File Size**</th>
-	<th>**Animation**</th>
-	<th>**Loops**</th>
-</tr>
-<tr>
-	<td align="center"><p>Rectangle</p></td>
-	<td align="center"><p>300x250</td>
-	<td align="center"><p>40K</p></td>
-	<td align="center"><p>Up to<br />15 sec.</p></td>
-	<td align="center"><p>3 loops<br />max</p></td>
-</tr>
-<tr>
-	<td align="center"><p>Leader-<br />board</p></td>
-	<td align="center"><p>728x90</p></td>
-	<td align="center"><p>40K</p></td>
-	<td align="center"><p>Up to<br />15 sec.</p></td>
-	<td align="center"><p>3 loops<br />max</p></td>
-</tr>
-<tr>
-	<td align="center"><p>Road-<br />block</p></td>
-	<td align="center"><p>728x90<br />and<br />300x250<br />(<i>run concurrently</i>)</p></td>
-	<td align="center"><p>40K</p></td>
-	<td align="center"><p>Up to<br />15 sec.</p></td>
-	<td align="center"><p>3 loops<br />max</p></td>
-</tr>
-<tr>
-	<td align="center"><p>E-Mail Newsletter Sponsorship</p></td>
-	<td align="center"><p>728x90,<br />120x90 and<br />50 words of text</p></td>
-	<td align="center"><p>40K</p></td>
-	<td align="center"><p>Up to<br />15 sec.</p></td>
-	<td align="center"><p>3 loops<br />max</p></td>
-</tr>
-</table>
+|Ad Type|Dimensions|Max File Size|Animation|Loops|
+|-------|----------|-------------|---------|-----|
+|Rectangle|300x250|40K|Up to<br />15 sec.|3 loops<br />max|
+|Leader-<br />board|728x90|40K|Up to<br />15 sec.|3 loops<br />max|
+|Road-<br />block|728x90<br />and<br />300x250<br />(<i>run concurrently</i>)|40K|Up to<br />15 sec.|3 loops<br />max|
+|E-Mail Newsletter Sponsorship|728x90,<br />120x90 and<br />50 words of text|40K|Up to<br />15 sec.|3 loops<br />max|
+|Interstitial|300x250 and<br />640x480 |40K|Up to<br />15 sec.|Unlimited<br />only|
+
+
