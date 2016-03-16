@@ -2,15 +2,15 @@
 #CALENDARS
 ---
 
-##2015 Issue Dates and Deadlines
+##2015|Issue Dates and Deadlines|
 ---
 
 |Cover<br />Date|Space<br />Close|Material<br />Due|Subscriber Mail Date|Newsstand<br />On-Sale Date|
 |---|---|---|---|---|
-|Jan/Feb 2015|Nov. 24, 2014|Nov. 28, 2014|Dec. 19, 2014|Jan. 13, 2015|
-|March/April 2015|Jan. 13, 2015|Jan 16, 2015|Feb. 10, 2015|March 3, 2015|
-|May/June 2015|March 3, 2015|March 6, 2015|March 31, 2015|April 21, 2015|
-|July/August 2015|May 5, 2015|May 8, 2015|June 2, 2015|June 23, 2015|
-|Sept/Oct 2015|July 7, 2015|July 10, 2015|August 4, 2015|August 25, 2015|
-|Nov/Dec 2015|Sept. 8, 2015|Sept. 11, 2015|Oct. 6, 2015|Oct. 27, 2015|
-|Jan/Feb 2016|Nov. 24, 2015|Nov. 27, 2015|Dec. 18, 2015|Jan. 12, 2016|
+|Jan/Feb 2016|Nov. 24, 2015|Nov. 28, 2015|Dec. 22, 2015|Jan. 12, 2016|
+|March/April 2016|Jan. 25, 2016|Jan 29, 2016|Feb. 19, 2016|March 7, 2016|
+|May/June 2016|March 2, 2016|March 4, 2016|April 6, 2016|April 26, 2016|
+|July/August 2016|May 3, 2016|May 6, 2016|June 1, 2016|June 21, 2016|
+|Sept/Oct 2016|July 5, 2016|July 8, 2016|August 3, 2016|August 23, 2016|
+|Nov/Dec 2016|Sept. 6, 2016|Sept. 9, 2016|Oct. 5, 2016|Oct. 25, 2016|
+|Jan/Feb 2017|Nov. 22, 2016|Nov. 28, 2016|Dec. 21, 2016|Jan. 10, 2017|

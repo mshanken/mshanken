@@ -2,7 +2,7 @@
 #OVERVIEW
 ---
 
-Launched in 1997, CigarAficionado.com targets affluent, upwardly mobile men who have a passion for all of the good things life has to offer. 
+CigarAficionado.com targets affluent, upwardly mobile men who have a passion for all of the good things life has to offer. 
 We capture an audience that travels to tropical islands, eats at the best restaurants, drives the finest automobile and wears the latest fashions. 
 Whether it's cigars or sports, we cover the lifestyle that young, wealthy men aspire to.
 
