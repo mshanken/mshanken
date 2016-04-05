@@ -5,7 +5,9 @@
 *Wine Spectator* is the very best place for your classified ad. Here are a few reasons why:
 
 - Total Audience 2,822,000*
-- Male: 62% Female: 38%   &bull; Median HHI $164,667  &bull; Median Age: 51**
+- Male: 62% Female: 38%
+- Median HHI $164,667
+- Median Age: 51**
 - 94% took a recent trip
 - 91% have a valid passport
 - 72% enjoys cooking for family and friends

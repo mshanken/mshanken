@@ -5,7 +5,7 @@
 ----
 
 
-| Cover Date | Space Close | Material Due | Newsstand/On Sale |
+| Cover Date | Space Close | Material Due | *Newsstand On Sale Date |
 | ---------- | ----------- | ------------ | -------------------- |
 |Jan/Feb 2016|December 15, 2015|December 18, 2015|January 28|
 |March 2016|January 12|January 15|February 23|
@@ -23,6 +23,12 @@
 |December 15, 2016|October 4|October 7|November 15|
 |December 31, 2016|October 18|October 21|November 29|
 
+<br /><br />
 
+##*Subscribers receive issues on estimate three weeks prior to cover date.
+Please contact advertising department with any questions (212) 684-4224.
 
+**Please note we can offer extensions:**<br />
+Space extension: [hchalson@mshanken.com](mailto:hchalson@mshanken.com)<br />
+Material extension: [cchiaffitella@mshanken.com](mailto:cchiaffitella@mshanken.com)
 

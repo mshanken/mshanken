@@ -5,7 +5,7 @@ Thank you for your interest in *Wine Spectator* magazine.
 
 Published 15 times per year, ***Wine Spectator*** offers an exciting, insider's view of the good life, including fine dining, wine travel, and entertainment. With more than **2.8 million readers** (MRI), *Wine Spectator* reaches business leaders, trendsetters, epicureans and connoisseurs. Our readership also comprises the billion-dollar trade – the key buyers in the wine and spirits industry.
 
-Consumer readers who participated in a **Luxury Brand Status Index Survey*** had this to say about *Wine Spectator*:
+Consumer readers who participated in a **Luxury Brand Status Index Survey** had this to say about *Wine Spectator*:
 
 >“It is the industry benchmark.”
 
@@ -18,7 +18,8 @@ Consumer readers who participated in a **Luxury Brand Status Index Survey*** had
 ---
 
 * <span>***Wine Spectator* is #1 in dining and affluence**</span>
-* <span>**Median HHI $299,430* 94% took a recent trip**</span>
+* <span>**Median HHI $299,430**</span>
+* <span>**94% took a recent trip**</span>
 * <span>**91% have a valid passport **</span>
 * <span>**72% enjoys cooking for family and friends**</span>
 * <span>**52% visit food and wine festivals **</span>
