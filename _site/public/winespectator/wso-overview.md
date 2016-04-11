@@ -12,10 +12,9 @@ America's most popular wine Web site, WineSpectator.com provides wine ratings an
 <!-- **Online Subscribers have access to:** -->
 ##WineSpectator.com Content Includes:
 ---
-- More than <span>**200,000 wine ratings**</span>, searchable by score, variety, vintage and price
+- More than <span>**300,000 wine ratings**</span>, searchable by score, variety, vintage and price
 - More than <span>**1,000 new wine ratings**</span> each month
 - Wine Spectator School Courses
-- <span>**Detailed Vintage Charts**</span> for all the major growing regions
 - Advance wine ratings through our two newsletters, <span>**the Insider**</span> (hot new wines) and 
 <span>**the Advance**</span> (a preview of new ratings from *Wine Spectator* magazine), exclusive to 
 *Wine Spectator* Online 

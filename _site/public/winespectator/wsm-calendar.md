@@ -1,7 +1,7 @@
 #CLOSING DATES
 ----
                 
-##2015 Issue Dates and Deadlines
+##2016 Issue Dates and Deadlines
 ----
 
 
@@ -25,7 +25,7 @@
 
 <br /><br />
 
-##*Subscribers receive issues on estimate three weeks prior to cover date.
+***Subscribers receive issues on estimate three weeks prior to cover date.**<br />
 Please contact advertising department with any questions (212) 684-4224.
 
 **Please note we can offer extensions:**<br />

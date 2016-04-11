@@ -1,20 +1,24 @@
 <!-- cam-calendar cam-adspec cam-prodspec ca -->
-<% if (current.source === "cam-calendar" || current.source === "cam-adspec" || current.source === "cam-prodspec" || current.source === "index") { %>
+<% if (current.source === "index") { %>
     <div class="toaPDFfile"><p><a href="/images/ca/CAMediaKit_2016.pdf" target="_blank"><em>Cigar Aficionado</em> Magazine<br />Readership at Glance</a></a></p></div>
 <% } %>
 
 <!-- cao-adspecs cao-audience cao-overview cao-glossary -->
-<% if (current.source === "cao-adspecs" || current.source === "cao-audience" || current.source === "cao-overview" || current.source === "cao-glossary") { %>
+<% if (current.source === "cao-adspecs" || current.source === "cao-overview" || current.source === "cao-glossary") { %>
     <div class="toaPDFfile"><p><a href="/images/ca/CAOnlinemediakit2016.pdf" target="_blank"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>
 <% } %>
 
 
 <!-- cam-calendar cam-adspec cam-prodspec  -->
-<% if (current.source === "cam-calendar" || current.source === "cam-adspec" || current.source === "cam-prodspec") { %>
-    <!-- <div class="toaPDFfile"><p><a href="/images/ca/CA_Insertion_Order.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Insertion Order</a></p></div>
-    <div class="toaPDFfile"><p><a href="/images/ca/CA_Specs10.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Production Specs</a></p></div> -->
+<% if (current.source === "cam-adspec" || current.source === "cam-prodspec") { %>
+    <!-- <div class="toaPDFfile"><p><a href="/images/ca/CA_Insertion_Order.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Insertion Order</a></p></div> -->
+    <div class="toaPDFfile"><p><a href="/images/ca/CA_Specs16.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Production Specs</a></p></div>
 <% } %>
 
+<!-- cam-calendar cam-adspec cam-prodspec  -->
+<% if (current.source === "cam-calendar") { %>
+    <div class="toaPDFfile"><p><a href="/images/ca/CA_Specs16.pdf" target="_blank">Download <em>Cigar Aficionado</em><br />Closing dates</a></p></div>
+<% } %>
 
 <!-- cam-adspec cam-prodspec -->
 <% if (current.source === "cam-adspec" || current.source === "cam-prodspec") { %>

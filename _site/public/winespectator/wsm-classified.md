@@ -6,7 +6,7 @@
 
 - Total Audience 2,822,000*
 - Male: 62% Female: 38%
-- Median HHI $164,667
+- Average HHI $299,438
 - Median Age: 51**
 - 94% took a recent trip
 - 91% have a valid passport
@@ -46,35 +46,35 @@ Ads received after deadline will appear in the following issue.
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Jan./Feb.</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Dec. 15</p></td>
+			<td><p>&nbsp;&nbsp; Dec. 18</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; March 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 12</p></td>
+			<td><p>&nbsp;&nbsp; Jan. 15</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; April 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Feb. 9</p></td>
+			<td><p>&nbsp;&nbsp; Feb. 12</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; May 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; March 8</p></td>
+			<td><p>&nbsp;&nbsp; March 11</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; June 15</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 5</p></td>
+			<td><p>&nbsp;&nbsp; April 8</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; June 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 19</p></td>
+			<td><p>&nbsp;&nbsp; April 22</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; July 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; May 17</p></td>
+			<td><p>&nbsp;&nbsp; May 20</p></td>
             </tr>
             <tr>
                 <td><p>&nbsp;&nbsp; Aug. 31</p></td>
-                <td><p>&nbsp;&nbsp;&nbsp;&nbsp; June 7</p></td>
+                <td><p>&nbsp;&nbsp; June 10</p></td>
             </tr>
 		</table>
 	</td>
@@ -86,31 +86,31 @@ Ads received after deadline will appear in the following issue.
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Sept. 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; July 15</p></td>
+			<td><p>&nbsp;&nbsp; July 8</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Oct. 15</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 2</p></td>
+			<td><p>&nbsp;&nbsp; Aug. 5</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Oct. 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 18</p></td>
+			<td><p>&nbsp;&nbsp; Aug. 19</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Nov. 15 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 6</p></td>
+			<td><p>&nbsp;&nbsp; Sept. 9</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Nov. 30 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 20</p></td>
+			<td><p>&nbsp;&nbsp; Sept. 23</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Dec. 15 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 4</p></td>
+			<td><p>&nbsp;&nbsp; Oct. 7</p></td>
 		</tr>
 		<tr>
 			<td><p>&nbsp;&nbsp; Dec. 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 18</p></td>
+			<td><p>&nbsp;&nbsp; Oct. 28</p></td>
 		</tr>
 		</table>
 	</td>

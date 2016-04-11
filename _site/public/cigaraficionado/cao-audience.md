@@ -14,7 +14,6 @@
 
 - Male/Female: 72% / 28%
 - Median Age: 37
-- Average HHI: $456,196
 - College Degree/Post Graduate: 79%
 - Executive, Managerial, Professional: 93%
 
