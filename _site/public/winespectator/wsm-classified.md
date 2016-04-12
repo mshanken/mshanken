@@ -45,36 +45,36 @@ Ads received after deadline will appear in the following issue.
 			<th width="50%"><p class="title">**Deadline**</p></th>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Jan./Feb.</p></td>
-			<td><p>&nbsp;&nbsp; Dec. 18</p></td>
+			<td><p>Jan./Feb.</p></td>
+			<td><p>Dec. 18</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; March 31</p></td>
-			<td><p>&nbsp;&nbsp; Jan. 15</p></td>
+			<td><p>March 31</p></td>
+			<td><p>Jan. 15</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; April 30</p></td>
-			<td><p>&nbsp;&nbsp; Feb. 12</p></td>
+			<td><p>April 30</p></td>
+			<td><p>Feb. 12</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; May 31</p></td>
-			<td><p>&nbsp;&nbsp; March 11</p></td>
+			<td><p>May 31</p></td>
+			<td><p>March 11</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; June 15</p></td>
-			<td><p>&nbsp;&nbsp; April 8</p></td>
+			<td><p>June 15</p></td>
+			<td><p>April 8</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; June 30</p></td>
-			<td><p>&nbsp;&nbsp; April 22</p></td>
+			<td><p>June 30</p></td>
+			<td><p>April 22</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; July 31</p></td>
-			<td><p>&nbsp;&nbsp; May 20</p></td>
+			<td><p>July 31</p></td>
+			<td><p>May 20</p></td>
             </tr>
             <tr>
-                <td><p>&nbsp;&nbsp; Aug. 31</p></td>
-                <td><p>&nbsp;&nbsp; June 10</p></td>
+                <td><p>Aug. 31</p></td>
+                <td><p>June 10</p></td>
             </tr>
 		</table>
 	</td>
@@ -85,32 +85,32 @@ Ads received after deadline will appear in the following issue.
 			<th width="50%"><p class="title">**Deadline**</p></th>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Sept. 30</p></td>
-			<td><p>&nbsp;&nbsp; July 8</p></td>
+			<td><p>Sept. 30</p></td>
+			<td><p>July 8</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Oct. 15</p></td>
-			<td><p>&nbsp;&nbsp; Aug. 5</p></td>
+			<td><p>Oct. 15</p></td>
+			<td><p>Aug. 5</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Oct. 31</p></td>
-			<td><p>&nbsp;&nbsp; Aug. 19</p></td>
+			<td><p>Oct. 31</p></td>
+			<td><p>Aug. 19</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Nov. 15 </p></td>
-			<td><p>&nbsp;&nbsp; Sept. 9</p></td>
+			<td><p>Nov. 15 </p></td>
+			<td><p>Sept. 9</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Nov. 30 </p></td>
-			<td><p>&nbsp;&nbsp; Sept. 23</p></td>
+			<td><p>Nov. 30 </p></td>
+			<td><p>Sept. 23</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Dec. 15 </p></td>
-			<td><p>&nbsp;&nbsp; Oct. 7</p></td>
+			<td><p>Dec. 15 </p></td>
+			<td><p>Oct. 7</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Dec. 31</p></td>
-			<td><p>&nbsp;&nbsp; Oct. 28</p></td>
+			<td><p>Dec. 31</p></td>
+			<td><p>Oct. 28</p></td>
 		</tr>
 		</table>
 	</td>
