@@ -112,6 +112,6 @@ Senior Vice President<br />
 Whisky Advocate<br />
 167 Main Street<br />
 Emmaus, PA 18049-2705<br />
-Email: [amy@whiksyadvocate.com](mailto:amy@whiksyadvocate.com)
+Email: [amy@whiskyadvocate.com](mailto:amy@whiskyadvocate.com)
 
 
