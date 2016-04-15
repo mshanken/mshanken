@@ -1,16 +1,15 @@
-
-#AUDIENCE
+# AUDIENCE
 ---
 
 <br />
 
-##Traffic
+## Traffic
 
 - 1.2 million+ monthly page views
 - 325,000+ monthly visits
 - 180,000+ monthly unique visitors
 
-##Demographics
+## Demographics
 
 - Male/Female: 72% / 28%
 - Median Age: 37

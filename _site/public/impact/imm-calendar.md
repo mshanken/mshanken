@@ -1,10 +1,9 @@
-
-#CALENDARS
+# CALENDARS
 ---
 
 <br />
 
-##2015 Issue Dates and Deadlines
+## 2015 Issue Dates and Deadlines
 ---
 
 Please contact us for the most up-to-date version.

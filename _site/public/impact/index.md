@@ -1,5 +1,4 @@
-
-#OVERVIEW
+# OVERVIEW
 ---
 
 Dear Advertiser,

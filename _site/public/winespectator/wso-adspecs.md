@@ -1,6 +1,6 @@
 
 
-#ADVERTISING SPECS
+# ADVERTISING SPECS
 ----
 
 |Ad Type|Dimensions|Max File Size|Animation|Loops|

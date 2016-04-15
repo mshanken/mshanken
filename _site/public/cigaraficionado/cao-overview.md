@@ -1,5 +1,4 @@
-
-#OVERVIEW
+# OVERVIEW
 ---
 
 CigarAficionado.com targets affluent, upwardly mobile men who have a passion for all of the good things life has to offer. 

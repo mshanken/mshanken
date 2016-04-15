@@ -1,10 +1,9 @@
-
-#CALENDARS
+# CALENDARS
 ---
 
 <br />
 
-##2015 Issue Dates and Deadlines
+## 2015 Issue Dates and Deadlines
 ---
 
 <br />
@@ -27,7 +26,7 @@ Please contact us for the most up-to-date version.
 
 <br />
 
-##Not to be missed...
+## Not to be missed...
 ---
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" class="no-border">
@@ -226,7 +225,7 @@ Please contact us for the most up-to-date version.
 
 <br /><br />
 
-##Hot Themes for 2015...
+## Hot Themes for 2015...
 ---
 
 <p><big style="color:#00538a;">On-Premise Player of the Year</big><br />
@@ -239,7 +238,7 @@ These are the industry's most exciting and valued brands, quantified each year b
 A look at what your customers are doing with their stores and operations to maintain and enhance the customers' experience.</p>
 
 <br />
-##Appearing in every issue...
+## Appearing in every issue...
 ---
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="no-border">

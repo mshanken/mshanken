@@ -1,12 +1,12 @@
 
-#PRODUCTION SPECIFICATIONS
+# PRODUCTION SPECIFICATIONS
 ---
 
 <p>Web Offset (SWOP)<br />
     Binding: Saddle Stitched<br />
     Publication Trim Size: 8 1/2" x 11"</p><br />
 
-##Delivery of Ad Material
+## Delivery of Ad Material
 ---
 
 Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading tutorial available on site)
@@ -84,7 +84,7 @@ discretion of the Production Department.</em></caption>
 
 <br />
 
-##For Further Information
+## For Further Information
 ---
 
 <!--Go to mshanken.com, or c -->Contact:
@@ -106,7 +106,7 @@ Or mail to:
 
 <br />
 
-##Copy and Contract Requirements
+## Copy and Contract Requirements
 ---
 
 - The acceptance or execution of an order is subject to Publisher's approval of copy, text, display and illustration.

@@ -1,9 +1,7 @@
-
-
-#SOME OF OUR EVENTS
+# SOME OF OUR EVENTS
 ---
 
-##Marketing Seminar
+## Marketing Seminar
 ---
 
 The IMPACT ANNUAL MARKETING SEMINAR, in its 38th year, is the preeminent conference for the global spirits, wine and beer business. It brings together key 

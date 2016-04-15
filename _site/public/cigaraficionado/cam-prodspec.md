@@ -1,5 +1,4 @@
-
-#PRODUCTION SPECIFICATIONS
+# PRODUCTION SPECIFICATIONS
 ---
 
 Web Offset (SWOP)<br />
@@ -8,7 +7,7 @@ Web Offset (SWOP)<br />
 
 <br />
 
-##Delivery of Ad Material
+## Delivery of Ad Material
 ---
 
 Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading tutorial available on site)
@@ -17,7 +16,7 @@ Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" t
 
 Advertising material will be retained for one year, unless return is specifically requested. M. Shanken Communications is not responsible for keeping material beyond one year.
 
-##ADVERTI SING SIZE SPECI FICATIONS
+## ADVERTI SING SIZE SPECI FICATIONS
 ---
 
 <table>
@@ -93,7 +92,7 @@ Advertising material will be retained for one year, unless return is specificall
 
 <br />
 
-##For Further Information
+## For Further Information
 ---
 
 <!--Go to mshanken.com, or c -->Contact:
@@ -111,7 +110,7 @@ Or mail to:
 
 <br />
 
-##Copy and Contract Requirements
+## Copy and Contract Requirements
 ---
 
 - The acceptance or execution of an order is subject to Publisher's approval of copy, text, display and illustration.
