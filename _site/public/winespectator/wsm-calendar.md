@@ -1,24 +1,34 @@
 #CLOSING DATES
 ----
                 
-##2015 Issue Dates and Deadlines
+##2016 Issue Dates and Deadlines
 ----
 
 
-| Cover Date | Space Close | Material Due | Newsstand/On Sale |
+| Cover Date | Space Close | Material Due | *Newsstand On Sale Date |
 | ---------- | ----------- | ------------ | -------------------- |
-| Jan/Feb 2015 | December 16, 2014 | December 19, 2014 | January 27 |
-| March 31, 2015 | January 13 | January 16 | February 24 |
-| April 30, 2015 | February 10 | February 13 | March 24 |
-| May 31, 2015 | March 10 | March 13 | April 21 |
-| June 15, 2015 | April 7 | April 10 | May 19 |
-| June 30, 2015 | April 21 | April 24 | June 2 |
-| July 31, 2015 | May 19 | May 22 | June 30 |
-| August 31, 2015 | June 9 | June 12 | July 21 |
-| September 30, 2015 | July 7 | July 10 | August 18 |
-| October 15, 2015 | August 4 | August 7 | September 15 |
-| October 31, 2015 | August 18 | August 21 | September 29 |
-| November 15, 2015 | September 8 | September 11 | October 20 |
-| November 30, 2015 | September 22 | September 25 | November 3 |
-| December 15, 2015 | October 6 | October 9 | November 17 |
-| December 31, 2015 | October 20 | October 23 | December 1 |
+|Jan/Feb 2016|December 15, 2015|December 18, 2015|January 28|
+|March 2016|January 12|January 15|February 23|
+|April 2016|February 9|February 12|March 22|
+|May 2016|March 8|March 11|April 19|
+|June 15, 2016|April 5|April 8|May 17|
+|June 30, 2016|April 19|April 22|May 31|
+|July 2016|May 17|May 20|June 28|
+|August 2016|June 7|June 10|July 19|
+|September 2016|July 5|July 8|August 16|
+|October 15, 2016|August 2|August 5|September 13|
+|October 31, 2016|August 16|August 19|September 27|
+|November 15, 2016|September 6|September 9|October 18|
+|November 30, 2016|September 20|September 23|November 1|
+|December 15, 2016|October 4|October 7|November 15|
+|December 31, 2016|October 18|October 21|November 29|
+
+<br /><br />
+
+***Subscribers receive issues on estimate three weeks prior to cover date.**<br />
+Please contact advertising department with any questions (212) 684-4224.
+
+**Please note we can offer extensions:**<br />
+Space extension: [hchalson@mshanken.com](mailto:hchalson@mshanken.com)<br />
+Material extension: [cchiaffitella@mshanken.com](mailto:cchiaffitella@mshanken.com)
+

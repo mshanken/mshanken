@@ -14,7 +14,6 @@
 * 40%: 25-34; 20% are 35-44.
 * Average HHI: $175,000
 * College Degree/Post Graduate: 92%
-* 45% access via mobile device
 
 ##AD SIZES (width x height)
 ---

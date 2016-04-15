@@ -6,25 +6,22 @@
 
 ##Traffic
 
-- 1.5 million+ monthly page views
-- 220,000+ monthly visits
-- 160,000+ monthly unique visitors
-- Time on site: 8:40
-
+- 1.2 million+ monthly page views
+- 325,000+ monthly visits
+- 180,000+ monthly unique visitors
 
 ##Demographics
 
-- Male/Female: 97% / 3%
-- Median Age: 35&ndash;39
-- Average HHI: $150,000&ndash;$200,000
-- College Degree/Post Graduate: 56%
-- Executive, Managerial, Professional: 59%
+- Male/Female: 72% / 28%
+- Median Age: 37
+- College Degree/Post Graduate: 79%
+- Executive, Managerial, Professional: 93%
 
-##Ad Sizes
+<!-- ##Ad Sizes
 
-<!--120 x 600 -->
+120 x 600
 - 300 x 250	
-- 728 x 90
+- 728 x 90 -->
 
 We will tailor the proposal based on advertiser goals and objectives. Our minimum buy is $5,000 net per month.
 

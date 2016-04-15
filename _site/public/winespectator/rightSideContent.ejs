@@ -3,19 +3,23 @@
 <% } %>
 
 <% if (current.source === "wso-classifieds") { %>
-    <div class="toaPDFfile"><p><a href="/images/ws/WSO_Classified_Specs.pdf" target="_blank"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>
+    <div class="toaPDFfile"><p><a href="/images/ws/OnlineCLASSIFIEDS_WS_2016.pdf" target="_blank"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>
 <% } %>
 
 <% if (current.source === "wsm-classified") { %>
-    <div class="toaPDFfile"><p><a href="/images/ws/WSM_Classified_Specs.pdf" target="_blank"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>
+    <div class="toaPDFfile"><p><a href="/images/ws/PrintCLASSIFIEDS_WS_2016.pdf" target="_blank"><br /><em>Wine Spectator</em> Classifieds Media Kit</a></p></div>
 <% } %>
 
-<% if (current.source === "wsm-calendar" || current.source === "wsm-adspec" || current.source === "wsm-prodspec" || current.source === "index") { %>
-    <div class="toaPDFfile"><p><a href="https://s3.amazonaws.com/assets.mshanken.com/wso/pdf/WS_MediaKit2015_Web.pdf" target="_blank"><em>Wine Spectator</em> Magazine Readership<br />at Glance</a></p></div>
+<% if (current.source === "wsm-adspec" || current.source === "index") { %>
+    <div class="toaPDFfile"><p><a href="/images/ws/WSMediaKit_2016.pdf" target="_blank"><em>Wine Spectator</em> Magazine Readership<br />at Glance</a></p></div>
 <% } %>
 
-<% if (current.source === "wsm-calendar" || current.source === "wsm-adspec" || current.source === "wsm-prodspec" || current.source === "index") { %>
-    <div class="toaPDFfile"><p><a href="/images/ws/WS_Specs10.pdf" target="_blank">Download <em>Wine Spectator</em><br />Production Specs</a></p></div>
+<% if (current.source === "wsm-adspec" || current.source === "wsm-prodspec") { %>
+    <div class="toaPDFfile"><p><a href="/images/ws/WS_Specs16.pdf" target="_blank">Download <em>Wine Spectator</em><br />Production Specs</a></p></div>
+<% } %>
+
+<% if (current.source === "wsm-calendar") { %>
+    <div class="toaPDFfile"><p><a href="/images/ws/WS_2016_CLOSING-DATES-SPACE-AND-MATERIAL.pdf" target="_blank">Download <em>Wine Spectator</em><br />Closing Dates</a></p></div>
 <% } %>
 
 <% if (current.source === "wso-adspecs") { %>
@@ -126,7 +130,6 @@
             <p>Black &amp; White ads only.  Please convert your ad to grayscale. CMYK or RGB formats are not acceptable. </p>
             <p><b>Please include a proof</b>. We are not responsible for print quality if a proof is not included.</p>
             <p>All ads must have a border; we reserve the right to add a border if necessary.</p>
-            <p>120 maximum line screen, 300 dpi minimum.</p>
             <p>Please measure your ad precisely and according to our column width requirement and to your space reservation in depth. 
             We will not resize ads</p> 
             <p>E-mail your ad to: <a href="mailto:cchiaffitella@mshanken.com"><b>cchiaffitella@mshanken.com</b></a>. If your file is larger than 1MB, please 

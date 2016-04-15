@@ -4,16 +4,18 @@
 
 *Wine Spectator* is the very best place for your classified ad. Here are a few reasons why:
 
-- Total Audience 3,077,000*
-- Male: 57% Female: 43%   &bull; Median HHI $164,667  &bull; Median Age: 50*
-- 96% took a recent trip
-- 90% have a valid passport
-- 77% enjoys cooking for family and friends
-- 66% visit food and wine festivals
-- 65% feel comfort and service are worth paying for when traveling
+- Total Audience 2,822,000*
+- Male: 62% Female: 38%
+- Average HHI $299,438
+- Median Age: 51**
+- 94% took a recent trip
+- 91% have a valid passport
+- 72% enjoys cooking for family and friends
+- 52% visit food and wine festivals
+- 81% feel comfort and service are worth paying for when traveling
 - 58% have a wine cellar
-<!-- Fully paid circulation, audited by ABC, has grown steadily, increasing by 30% since 2000***
-- 93% subscriber renewal rate** -->
+<!-- Fully paid circulation, audited by ABC, has grown steadily, increasing by 30% since 2000*** -->
+- 93% subscriber renewal rate
 
 
 <!-- <small>* MRI Fall 2013 Survey HHI $100k+</small><br />
@@ -43,36 +45,36 @@ Ads received after deadline will appear in the following issue.
 			<th width="50%"><p class="title">**Deadline**</p></th>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Jan./Feb.</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Dec. 20</p></td>
+			<td><p>Jan./Feb.</p></td>
+			<td><p>Dec. 18</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; March 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 17</p></td>
+			<td><p>March 31</p></td>
+			<td><p>Jan. 15</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; April 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Feb. 14</p></td>
+			<td><p>April 30</p></td>
+			<td><p>Feb. 12</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; May 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; March 14</p></td>
+			<td><p>May 31</p></td>
+			<td><p>March 11</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; June 15</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 11</p></td>
+			<td><p>June 15</p></td>
+			<td><p>April 8</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; June 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; April 25</p></td>
+			<td><p>June 30</p></td>
+			<td><p>April 22</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; July 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; May 23</p></td>
+			<td><p>July 31</p></td>
+			<td><p>May 20</p></td>
             </tr>
             <tr>
-                <td><p>&nbsp;&nbsp; Aug. 31</p></td>
-                <td><p>&nbsp;&nbsp;&nbsp;&nbsp; June 13</p></td>
+                <td><p>Aug. 31</p></td>
+                <td><p>June 10</p></td>
             </tr>
 		</table>
 	</td>
@@ -83,32 +85,32 @@ Ads received after deadline will appear in the following issue.
 			<th width="50%"><p class="title">**Deadline**</p></th>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Sept. 30</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; July 11</p></td>
+			<td><p>Sept. 30</p></td>
+			<td><p>July 8</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Oct. 15</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 8</p></td>
+			<td><p>Oct. 15</p></td>
+			<td><p>Aug. 5</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Oct. 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Aug. 22</p></td>
+			<td><p>Oct. 31</p></td>
+			<td><p>Aug. 19</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Nov. 15 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 12</p></td>
+			<td><p>Nov. 15 </p></td>
+			<td><p>Sept. 9</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Nov. 30 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 26</p></td>
+			<td><p>Nov. 30 </p></td>
+			<td><p>Sept. 23</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Dec. 15 </p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 10</p></td>
+			<td><p>Dec. 15 </p></td>
+			<td><p>Oct. 7</p></td>
 		</tr>
 		<tr>
-			<td><p>&nbsp;&nbsp; Dec. 31</p></td>
-			<td><p>&nbsp;&nbsp;&nbsp;&nbsp; Oct. 24</p></td>
+			<td><p>Dec. 31</p></td>
+			<td><p>Oct. 28</p></td>
 		</tr>
 		</table>
 	</td>
@@ -149,10 +151,10 @@ All advertisements must be accompanied by background information on the company 
 
 <br />
 
-##Display Classified Rates
+<!-- ##Display Classified Rates -->
 ---
 
-Effective with the January/February 2014 Issue<br />First page premium: 10%
+<!-- Effective with the January/February 2014 Issue<br />First page premium: 10%
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -197,12 +199,12 @@ Effective with the January/February 2014 Issue<br />First page premium: 10%
 </tr>
 </table>
 
-<br />
+<br /> -->
 
-##Non-Display Classified Rates
+<!-- ##Non-Display Classified Rates -->
 ---
 
-Effective with the January/February 2013 Issue<
+<!-- Effective with the January/February 2013 Issue<
 
 **Single Insertion**<br />
 $460 up to and including 30 words. Each word over 30 add $5 (Abbreviations, phone numbers, box numbers, zip codes, e-mail addresses, 
@@ -212,11 +214,11 @@ web addresses each count as one word)
 4 Insertions: $1,680 / first 30 words ($420 each)<br />			
 10 Insertions: $3,750 / first 30 words ($375 each)<br />			
 One Year (15 Insertions): $5,325/ first 30 words ($355 each)<br />
-For multiple orders, each word over 30 is an additional $5 per word, per insertion.<br />	
+For multiple orders, each word over 30 is an additional $5 per word, per insertion.<br />	 -->
 
-##Categories for Non-Display Classified
+<!-- ##Categories for Non-Display Classified -->
 ---
 
-Announcements, Auctions, Business Opportunities, Fine Dining, For Sale, Gourmet Products, Help Wanted, Organizations, Positions Wanted, 
+<!-- Announcements, Auctions, Business Opportunities, Fine Dining, For Sale, Gourmet Products, Help Wanted, Organizations, Positions Wanted, 
 Real Estate, Special Events, Wanted, Wine Accessories, Wine Appraisers, Wine Art, Wine Books, Wine Cellar Transportation, Wine Country Lodging, 
-Wine Newsletters, Wine Packaging, Wine Schools, Wine Software, Wine Storage Facilities, Wine Storage Systems, Wine Tours, Wine Videos
+Wine Newsletters, Wine Packaging, Wine Schools, Wine Software, Wine Storage Facilities, Wine Storage Systems, Wine Tours, Wine Videos -->

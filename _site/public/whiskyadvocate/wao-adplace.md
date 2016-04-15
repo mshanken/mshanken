@@ -5,7 +5,7 @@
 ---
 
 We can tailor a digital program that meets your marketing
-goals and budget. Our minimum buy is $2,000 net per program.
+goals and budget.
 
 ##PREVIOUS ADVERTISERS
 ---
@@ -32,6 +32,4 @@ December)
 Advertise in our bi-weekly newsletter WhiskyNotes and reach
 our targeted opt-in audience of more than 15,000 enthusiasts.
 The newsletter features current whisky news and other targeted
-content. Open rates exceed 45%.
-
-* Exclusive sponsorship: $2,500 net per edition
+content.
