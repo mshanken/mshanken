@@ -1,13 +1,13 @@
-#Advertising Placements
+# Advertising Placements
 ---
 
-##PRICING OPTIONS
+## PRICING OPTIONS
 ---
 
 We can tailor a digital program that meets your marketing
 goals and budget.
 
-##PREVIOUS ADVERTISERS
+## PREVIOUS ADVERTISERS
 ---
 
 * Distillers 
@@ -15,7 +15,7 @@ goals and budget.
 * Publishers 
 * Auction houses
 
-##SPONSORSHIP OPPORTUNITIES
+## SPONSORSHIP OPPORTUNITIES
 ---
 
 Throughout the year, WhiskyAdvocate.com offers
@@ -27,7 +27,7 @@ sponsorship opportunities may include:
 December)
 * WhiskyFest tickets on sale date (November)
 
-##EMAIL NEWSLETTER SPONSORSHIP
+## EMAIL NEWSLETTER SPONSORSHIP
 ---
 Advertise in our bi-weekly newsletter WhiskyNotes and reach
 our targeted opt-in audience of more than 15,000 enthusiasts.

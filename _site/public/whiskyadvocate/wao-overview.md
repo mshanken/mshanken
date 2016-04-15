@@ -1,6 +1,6 @@
-#Online Media Kit
+# Online Media Kit
 ---
-##WhiskyAdvocate.com
+## WhiskyAdvocate.com
 ---
 
 Whisky Advocate’s online audience attracts a wide range of
@@ -8,7 +8,7 @@ engaged readers from the novice to experienced enthusiasts.
 Connect with this audience through our website and targeted
 email newsletter opportunities.
 
-##Advertising Information Contact
+## Advertising Information Contact
 ---
 
 Amy Westlake<br />

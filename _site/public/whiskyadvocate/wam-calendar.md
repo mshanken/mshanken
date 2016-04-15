@@ -1,8 +1,7 @@
-
-#Editorial Calendar
+# Editorial Calendar
 ---
 
-##2016 Closing Dates
+## 2016 Closing Dates
 ---
 
 |Issue|Space Close|Material Due|On Sale Date|

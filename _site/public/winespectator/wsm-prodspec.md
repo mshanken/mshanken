@@ -1,5 +1,5 @@
 
-#PRODUCTION SPECIFICATIONS
+# PRODUCTION SPECIFICATIONS
 ---			
 
 Web Offset (SWOP)<br />
@@ -8,7 +8,7 @@ Publication Trim Size: 9.875" x 13"
 
 <br />
 
-##Delivery of Ad Material
+## Delivery of Ad Material
 ---
 
 Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading tutorial available on site)
@@ -19,7 +19,7 @@ Advertising material will be retained for one year, unless return is specificall
       
 
       
-##For Further Information
+## For Further Information
 ---
       
 <!--Go to mshanken.com, or c -->Contact:
@@ -36,7 +36,7 @@ Or mail to:
 &nbsp;&nbsp;&nbsp;New York, NY 10019‑7475<br />
 
 
-##Copy and Contract Requirements
+## Copy and Contract Requirements
 ---
       
 - The acceptance or execution of an order is subject to Publisher's approval of copy, text, display and illustration.    

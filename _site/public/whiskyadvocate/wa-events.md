@@ -1,4 +1,4 @@
-#WhiskyFest&trade;
+# WhiskyFest&trade;
 ---
 
 WhiskyFest is the longest-running and best-attended whisky
@@ -9,7 +9,7 @@ Advocate magazine and continues to improve and benefit
 through the extensive knowledge and industry savvy of the
 magazine’s editors and writers.
 
-##Your Audience
+## Your Audience
 ---
 
 WhiskyFest attracts a wide range of affluent attendees, from
@@ -21,14 +21,14 @@ importers, and mixologists. WhiskyFest is also well-attended
 by journalists representing the most influential print and
 online media.
 
-##Top Whisky Markets
+## Top Whisky Markets
 ---
 These events offer unsurpassed opportunities to reach top,
 targeted audiences with a significant echo effect in America’s
 most influential cities: Chicago, San Francisco and New York.
 As we like to say: WhiskyFest — The First, The Best!
 
-##How Will You Connect?
+## How Will You Connect?
 ---
 
 WhiskyFest has two sides, two opportunities to connect
@@ -41,7 +41,7 @@ become ambassadors.
 
 >“It was first class all the way and definitely an event that I’m going to continue to partake in.”
 
-#RESERVATION PROCEDURES
+# RESERVATION PROCEDURES
 ---
 
 To reserve space at WhiskyFest,

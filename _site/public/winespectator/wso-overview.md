@@ -1,5 +1,4 @@
-
-#OVERVIEW
+# OVERVIEW
 ---
 
 Launched in October 1996, WineSpectator.com is the most authoritative source of wine information in the world. This definitive Web site is 
@@ -10,7 +9,7 @@ America's most popular wine Web site, WineSpectator.com provides wine ratings an
 <br />
 
 <!-- **Online Subscribers have access to:** -->
-##WineSpectator.com Content Includes:
+## WineSpectator.com Content Includes:
 ---
 - More than <span>**300,000 wine ratings**</span>, searchable by score, variety, vintage and price
 - More than <span>**1,000 new wine ratings**</span> each month

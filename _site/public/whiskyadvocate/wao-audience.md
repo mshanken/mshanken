@@ -1,21 +1,21 @@
-#AUDIENCE
+# AUDIENCE
 ---
 
-##Traffic
+## Traffic
 ---
 
 * 500,000+ monthly page views
 * 200,000+ monthly visits
 * 150,000+ monthly unique visitors
 
-##DEMOGRAPHICS
+## DEMOGRAPHICS
 ---
 * Male/Female: 78%/22%
 * 40%: 25-34; 20% are 35-44.
 * Average HHI: $175,000
 * College Degree/Post Graduate: 92%
 
-##AD SIZES (width x height)
+## AD SIZES (width x height)
 ---
 * 300 x 250
 * 728 x 90

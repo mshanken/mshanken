@@ -1,10 +1,9 @@
-
-#OVERVIEW
+# OVERVIEW
 ---
 
 <br />
 
-##Mission Statement
+## Mission Statement
 ---
 
 *Market Watch* is the primary resource for business information for the drinks industry, providing extensive analysis of industry trends, data, statistics, 
@@ -20,7 +19,7 @@ The time to establish effective and continuing rapport with the trade is now!
 
 <br />
 
-##What Does *Market Watch* Offer Me?
+## What Does *Market Watch* Offer Me?
 ---
 
 - *Market Watch* is the voice of the industry, providing crucial trend and market information to your customers

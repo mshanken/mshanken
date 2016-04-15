@@ -1,8 +1,7 @@
-
-#Overview
+# Overview
 ---
 
-##Welcome to the world of Whisky!
+## Welcome to the world of Whisky!
 ---
 
 Whisky has made a huge comeback over the past fifteen years, and Whisky Advocate has been there to cover it all. Published quarterly in a lovingly luxurious style, we’re the world’s top source for whisky information, education, and entertainment. This is where the world’s foremost whisky writers send their best work to cover the entire category: Scotch, Irish, Bourbon, Rye, Canadian, Japanese, and the exploding Craft niche.

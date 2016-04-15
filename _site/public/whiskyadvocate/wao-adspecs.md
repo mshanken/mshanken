@@ -1,4 +1,4 @@
-#TECHNICAL AD SPECS
+# TECHNICAL AD SPECS
 ---
 
 * Creative must be accompanied by a URL.

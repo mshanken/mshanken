@@ -1,5 +1,5 @@
 
-#Classified Advertising
+# Classified Advertising
 ---
 
 *Wine Spectator* is the very best place for your classified ad. Here are a few reasons why:
@@ -23,7 +23,7 @@
 
 <br />
 
-##Publication Dates
+## Publication Dates
 ---
 
 Published 15 times a year: twice monthly in June, October, November, December; once monthly in January/February, March, April, May, 
@@ -31,7 +31,7 @@ July, August and September. On sale approximately 2 to 4 weeks before the cover 
 
 <br />
 
-##Deadlines
+## Deadlines
 ---
 
 Ads received after deadline will appear in the following issue.
@@ -119,7 +119,7 @@ Ads received after deadline will appear in the following issue.
 
 <br />
 
-##Insertion Orders
+## Insertion Orders
 ---
 
 Insertion orders, ad materials and payment are ALL DUE BY NOON E.S.T. ON THE DEADLINE. Ad materials and payments received after the 
@@ -127,7 +127,7 @@ deadline will appear in the following issue.
 
 <br />
 
-##Pre-payments Required
+## Pre-payments Required
 ---
 
 All ads must be prepaid by check or money order in U.S. funds, Visa, Master Card or American Express. *Wine Spectator* is not 
@@ -135,7 +135,7 @@ responsible for ads submitted without payment.
 
 <br />
 
-##Agency Discount
+## Agency Discount
 ---
 
 There is no agency discount on classified advertising.
@@ -144,7 +144,7 @@ There is no agency discount on classified advertising.
 
 <!-- <img src="/images/ws/ws-text75.gif" width="96" height="17" border="0" class="h2"> --- Available at a per-insertion charge of $25. Responses will be forwarded unopened weekly.<br /> -->
 
-##Background Information
+## Background Information
 ---
 
 All advertisements must be accompanied by background information on the company or product.

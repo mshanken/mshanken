@@ -1,5 +1,5 @@
 
-#OVERVIEW
+# OVERVIEW
 ---
 Thank you for your interest in *Wine Spectator* magazine.
 
@@ -14,7 +14,7 @@ Consumer readers who participated in a **Luxury Brand Status Index Survey** had 
 >“… great recommendations for wines at all price levels, and great travel recommendations too …”
 
 
-##About our subscribers **:
+## About our subscribers **:
 ---
 
 * <span>***Wine Spectator* is #1 in dining and affluence**</span>

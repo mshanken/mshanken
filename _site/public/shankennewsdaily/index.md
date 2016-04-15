@@ -1,7 +1,7 @@
-#Shanken News Daily OVERVIEW
+# Shanken News Daily OVERVIEW
 ---
 
-##Trust the Experts:
+## Trust the Experts:
 ---
 
 Shanken News Daily is a mobile-friendly, daily
@@ -14,7 +14,7 @@ up-to-the-minute global news, essential data and
 trend information, interviews with key executives,
 in-depth new stories, and much more…
 
-##Targeted, Engaged Audience:
+## Targeted, Engaged Audience:
 ---
 
 **Targeted Audience:** Shanken News Daily is read
@@ -28,7 +28,7 @@ allied fields.
 subscribers who rely on Shanken News Daily each
 morning to keep current with industry news.
 
-###In a recent survey, here's what our readers had to say:
+### In a recent survey, here's what our readers had to say:
 ---
 
 * Cutting-edge information, keep up the good news!
@@ -36,7 +36,7 @@ morning to keep current with industry news.
 is the main reason I read Shanken News Daily.
 * Continue the great job, very informative. I read it daily.
 
-##Reach & Influence:
+## Reach & Influence:
 ---
 
 Advertising in Shanken News Daily puts your
@@ -53,10 +53,10 @@ makers.
 * Industry News
 * Retailer/Restaurant
 
-##ADVERTISING RATES (NET)
+## ADVERTISING RATES (NET)
 ---
 
-###After December 1, 2015:
+### After December 1, 2015:
 ---
 
 **Frequency:**
@@ -66,7 +66,7 @@ makers.
 |$6,000 |$5,000 |$4,500 |$4,000|
 
 
-#RESERVE EARLY. LIMITED AVAILABILITY.
+# RESERVE EARLY. LIMITED AVAILABILITY.
 ---
 Don't Miss the Opportunity to Advertise to 40,000+ Opt-in Subscribers.
 Stephen Senatore • 212-684-4847 • [ssenatore@mshanken.com](mailto:ssenatore@mshanken.com)

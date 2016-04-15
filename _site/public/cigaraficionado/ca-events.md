@@ -1,5 +1,4 @@
-
-#THE BIG SMOKE
+# THE BIG SMOKE
 ---
 
 <div class="oneColumnContent ca">
@@ -18,7 +17,7 @@ The BIG SMOKE provides you with an exceptional opportunity to have a one-on-one 
 	</tr>
 	<tr>
 		<td>
-##For More Information Contact
+## For More Information Contact
 ---
 				
 <span><b>Barry Abrams</b></span><br />

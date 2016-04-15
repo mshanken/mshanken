@@ -1,28 +1,28 @@
-#Production Specifications
+# Production Specifications
 ---
 
-##Printing
+## Printing
 ---
 
 Binding: Perfect Bound
 Publication Trim Size: 9.875” x 11.5”
-##Digital File Specifications
+## Digital File Specifications
 ---
 
 Media Accepted: PDF/X1a file (only one ad per file)
 Images must be CMYK or Grayscale TIFF or EPS prepared
 for the SWOP3 color environment
 Total Area Coverage for CMYK color builds should not exceed 300%
-##Delivery of Material
+## Delivery of Material
 ---
 
 Digital files uploaded to our ad portal
 http://mshanken.SendMyAd.com
 (uploading information available on site)
-##Mechanical Specifications
+## Mechanical Specifications
 ---
 
-##ADVERTISING SIZE SPECI FICATIONS
+## ADVERTISING SIZE SPECI FICATIONS
 ---
 
 
@@ -95,14 +95,14 @@ http://mshanken.SendMyAd.com
 </table>
 
 
-##Issuance and Closing Dates
+## Issuance and Closing Dates
 ---
 
 Published 4 times a year, in March, June, September, and December.
 Closing for insertion orders is approximately 6 weeks prior to cover
 date. Material is due approximately 5 weeks prior to cover date.
 
-##Reserve Your Ad Space Now
+## Reserve Your Ad Space Now
 ---
 
 Send space reservations to:

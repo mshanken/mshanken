@@ -1,11 +1,11 @@
 
 <!--Start: left side body-->
-#ADVERTISING SPECS
+# ADVERTISING SPECS
 ---
 
 <br />
 
-##Ad Specs
+## Ad Specs
 ---
 
 <br />
