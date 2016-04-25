@@ -148,7 +148,7 @@
         }
     },
     "wso-adplace": {
-      	"title": "Wine Spectator Online Advertising Placements | ",
+      	"title": "Wine Spectator Online Ad Placements | ",
         "url": "wso-adplace",
         "target": "",
         "menu": {
@@ -160,6 +160,16 @@
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
+                "target": ""
+            },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -184,6 +194,16 @@
                 "url": "wso-classifieds",
                 "target": ""
             },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
+                "target": ""
+            },
             "contactus": {
                 "title": "contact us",
                 "url": "/contact",
@@ -204,6 +224,16 @@
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
+                "target": ""
+            },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -228,6 +258,16 @@
                 "url": "wso-classifieds",
                 "target": ""
             },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
+                "target": ""
+            },
             "contactus": {
                 "title": "contact us",
                 "url": "/contact",
@@ -248,6 +288,16 @@
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
+                "target": ""
+            },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -272,6 +322,16 @@
                 "url": "wso-classifieds",
                 "target": ""
             },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
+                "target": ""
+            },
             "contactus": {
                 "title": "contact us",
                 "url": "/contact",
@@ -292,6 +352,16 @@
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
+                "target": ""
+            },
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {

@@ -3,11 +3,16 @@
     <div class="toaPDFfile"><p><a href="/images/ca/CAMediaKit_2016.pdf" target="_blank"><em>Cigar Aficionado</em> Magazine<br />Readership at Glance</a></a></p></div>
 <% } %>
 
+
 <!-- cao-adspecs cao-audience cao-overview cao-glossary -->
 <% if (current.source === "cao-adspecs" || current.source === "cao-overview" || current.source === "cao-glossary") { %>
     <div class="toaPDFfile"><p><a href="/images/ca/CAOnlinemediakit2016.pdf" target="_blank"><br /><em>Cigar Aficionado</em> Online Media Kit</a></a></p></div>
 <% } %>
 
+<!-- Ad Specs Sheet -->
+<% if (current.source === "cao-adspecs") { %>
+    <div class="toaPDFfile"><p><a href="/images/ca/CAO-spec_sheet.pdf" target="_blank"><br /><em>Cigar Aficionado</em> Online Ad Specs</a></a></p></div>
+<% } %>
 
 <!-- cam-calendar cam-adspec cam-prodspec  -->
 <% if (current.source === "cam-adspec" || current.source === "cam-prodspec") { %>
