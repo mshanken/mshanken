@@ -1,5 +1,4 @@
-		
-#SOME OF OUR EVENTS
+# SOME OF OUR EVENTS
 ---
 
 <!--entire body-->

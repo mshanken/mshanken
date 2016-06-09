@@ -148,7 +148,7 @@
         }
     },
     "wso-adplace": {
-      	"title": "Wine Spectator Online Advertising Placements | ",
+      	"title": "Wine Spectator Online Ad Placements | ",
         "url": "wso-adplace",
         "target": "",
         "menu": {
@@ -157,30 +157,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -200,30 +189,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -243,30 +221,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -286,30 +253,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -329,30 +285,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -372,30 +317,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {
@@ -415,30 +349,19 @@
                 "url": "wso-overview",
                 "target": ""
             },
-            "audience": {
-                "title": "audience",
-                "url": "wso-audience",
-                "target": ""
-            },
-            "adplacement": {
-                "title": "ad placement",
-                "url": "wso-adplace",
-                "target": ""
-            },
-            "adspecs": {
-                "title": "ad specs",
-                "url": "wso-adspecs",
-                "target": ""
-            },
-
             "classifieds": {
                 "title": "classifieds",
                 "url": "wso-classifieds",
                 "target": ""
             },
-            "glossary": {
-                "title": "glossary",
-                "url": "wso-glossary",
+            "Ad Specs": {
+                "title": "Ad Specs",
+                "url": "wso-adspecs",
+                "target": ""
+            },
+            "Ad Placements": {
+                "title": "Ad Placements",
+                "url": "wso-adplace",
                 "target": ""
             },
             "contactus": {

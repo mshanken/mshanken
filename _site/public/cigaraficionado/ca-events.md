@@ -1,5 +1,4 @@
-
-#THE BIG SMOKE
+# THE BIG SMOKE
 ---
 
 <div class="oneColumnContent ca">
@@ -18,11 +17,11 @@ The BIG SMOKE provides you with an exceptional opportunity to have a one-on-one 
 	</tr>
 	<tr>
 		<td>
-##For More Information Contact
+## For More Information Contact
 ---
 				
 <span><b>Barry Abrams</b></span><br />
-VP, Associate publisher<br />
+VP, Associate Publisher<br />
 <a href="mailto:babrams@mshanken.com" target="_blank">babrams@mshanken.com</a><br />
 212.684.4224 ext. 388
 		</td>

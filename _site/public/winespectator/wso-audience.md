@@ -1,9 +1,9 @@
 
-#AUDIENCE
+# AUDIENCE
 ---
 <br />
 
-##Traffic
+## Traffic
 
 * 6 million+ monthly page views
 * 800,000+ monthly visits
@@ -11,7 +11,7 @@
 * Time on site: 8:00
 
 
-##Demographics
+## Demographics
 
 * Male/Female: 81% / 19%
 * Median Age Range: 40-44
@@ -20,7 +20,7 @@
 * Executive, Managerial, Professional: 77%
 
 
-##Ad Sizes
+## Ad Sizes
 
 * 300 x 600
 * 300 x 250

@@ -1,10 +1,9 @@
-
-#PRODUCTION SPECIFICATIONS
+# PRODUCTION SPECIFICATIONS
 ---
 
 <br />
 
-##Printing
+## Printing
 ---
 
 Web Offset (SWOP)<br />
@@ -13,7 +12,7 @@ Publication Trim Size: 8 1/4" x 11"
 
 <br />
 
-##Delivery of Material
+## Delivery of Material
 ---
 
 Digital files uploaded to our ad portal <a href="http://mshanken.SendMyAd.com" target="_blank">http://mshanken.SendMyAd.com</a> (uploading information available on site)
@@ -142,7 +141,7 @@ Or mail to:
 
 <br />
 
-##Copy and Contract Requirements
+## Copy and Contract Requirements
 ---
 
 <br />

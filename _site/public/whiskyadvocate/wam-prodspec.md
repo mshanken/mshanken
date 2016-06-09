@@ -1,28 +1,28 @@
-#Production Specifications
+# Production Specifications
 ---
 
-##Printing
+## Printing
 ---
 
 Binding: Perfect Bound
 Publication Trim Size: 9.875” x 11.5”
-##Digital File Specifications
+## Digital File Specifications
 ---
 
 Media Accepted: PDF/X1a file (only one ad per file)
 Images must be CMYK or Grayscale TIFF or EPS prepared
 for the SWOP3 color environment
 Total Area Coverage for CMYK color builds should not exceed 300%
-##Delivery of Material
+## Delivery of Material
 ---
 
 Digital files uploaded to our ad portal
 http://mshanken.SendMyAd.com
 (uploading information available on site)
-##Mechanical Specifications
+## Mechanical Specifications
 ---
 
-##ADVERTISING SIZE SPECI FICATIONS
+## ADVERTISING SIZE SPECI FICATIONS
 ---
 
 
@@ -59,7 +59,7 @@ http://mshanken.SendMyAd.com
 	</tr>
 	<tr>
 		<td>1/2 Non-Bleed </td>
-		<td><8.625” x 5.1875“/td>
+		<td>8.625” x 5.1875“</td>
 	</tr>
 	<tr>
 		<td>1/3 (1 column) Bleed</td>
@@ -94,48 +94,24 @@ http://mshanken.SendMyAd.com
 	</tr>
 </table>
 
-#AD VERTISING RATES
----
 
-##Four Color
----
-
-|Frequency|1x|4x|12x|
-|---|---|---|---|
-|Full page|$10,460|$9,645|$9,320|
-|2/3 page|$7,830|$7,235|$6,990|
-|1/2 page|$6,795|$6,270|$6,060|
-|1/3 page|$5,235|$4,820|$4,665|
-|1/6 page|$3,660|$3,375|$3,260|
-
-
-##Special Positioning Premiums
----
-
-
-|2nd Cover Gatefold| On Request|
-|---|---|
-|Inside Back Cover|$11,265|
-|Back Cover|$13,800|
-|Opposite Table of Contents|$10,340
-
-##Issuance and Closing Dates
+## Issuance and Closing Dates
 ---
 
 Published 4 times a year, in March, June, September, and December.
 Closing for insertion orders is approximately 6 weeks prior to cover
 date. Material is due approximately 5 weeks prior to cover date.
 
-##Reserve Your Ad Space Now
+## Reserve Your Ad Space Now
 ---
 
 Send space reservations to:
 
-Amy Westlake,<br />
-Senior Vice President, Advertising<br />
-Whisky Advocate Magazine<br />
-167 Main Street, Emmaus PA 18049-2705<br />
-Telephone: (610) 967-1083<br />
-Email: [my@whiskyadvocate.com](mailto:my@whiskyadvocate.com)
+Amy Westlake<br />
+Senior Vice President<br />
+Whisky Advocate<br />
+167 Main Street<br />
+Emmaus, PA 18049-2705<br />
+Email: [amy@whiskyadvocate.com](mailto:amy@whiskyadvocate.com)
 
 
