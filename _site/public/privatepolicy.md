@@ -3,7 +3,7 @@
 # Privacy Policy for M. Shanken Communications, Inc.
 ----
 
-Publisher of Wine Spectator magazine, WineSpectator.com, Cigar Aficionado magazine, CigarAficionado.com, Cigar Insider, Whisky Advocate magazine, WhiskyAdvocate.com,  Market Watch magazine, MarketWatchmagazine.com, Shanken’s Impact Newsletter, and all corresponding newsletters, apps, and digital editions.
+Publisher of Wine Spectator magazine, WineSpectator.com, Cigar Aficionado magazine, CigarAficionado.com, Cigar Insider, Whisky Advocate magazine, WhiskyAdvocate.com,  Market Watch magazine, MarketWatchmag.com, Shanken’s Impact Newsletter, and all corresponding newsletters, apps, and digital editions.
 
 Our postal address is:<br />
 M. Shanken Communications, Inc.<br />
