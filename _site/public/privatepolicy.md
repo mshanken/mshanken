@@ -1,17 +1,16 @@
 
 
-#Privacy Policy for M. Shanken Communications, Inc.
+# Privacy Policy for M. Shanken Communications, Inc.
 ----
 
-
-Publisher of Wine Spectator magazine, WineSpectator.com, Cigar Aficionado magazine, CigarAficionado.com, Cigar Insider, Whisky Advocate magazine, WhiskyAdvocate.com, Food Arts magazine, FoodArts.com, Market Watch magazine, Shanken’s Impact Newsletter, and all corresponding newsletters, apps, and digital editions.
-
+Publisher of Wine Spectator magazine, WineSpectator.com, Cigar Aficionado magazine, CigarAficionado.com, Cigar Insider, Whisky Advocate magazine, WhiskyAdvocate.com,  Market Watch magazine, MarketWatchmagazine.com, Shanken’s Impact Newsletter, and all corresponding newsletters, apps, and digital editions.
 
 Our postal address is:<br />
 M. Shanken Communications, Inc.<br />
-387 Park Avenue South<br />
-New York, N.Y. 10016<br />
-We can be reached via e-mail at <a href="mailt:privacypolicy@mshanken.com" target="_blank">privacypolicy@mshanken.com</a><br /> 
+825 Eighth Avenue<br />
+33rd Floor<br />
+New York, N.Y. 10019<br />
+We can be reached via e-mail at <a href="mailt:privacypolicy@mshanken.com" target="_blank">privacypolicy@mshanken.com</a><br />
 Or you can reach us by telephone at (212) 684-4224.
 
 How We Use Your Contact Information:
