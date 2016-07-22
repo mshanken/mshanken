@@ -33,7 +33,7 @@ The *Wine Spectator* team looks forward to working with you on a cross platform 
 
 <br /><br />
 
-<p><big>**Best Regards,**</big></p><br />
+<p><big>**Best Regards,**</big></p>
 
 <p><big>**Miriam Morgenstern<br />
 Vice President, Associate Publisher<br />
