@@ -39,5 +39,3 @@ The *Wine Spectator* team looks forward to working with you on a cross platform 
 Vice President, Associate Publisher<br />
 Tel: 212-684-4224**</big></p><br />
 
-<small>*The Luxury survey, conducted online, consists of a national sample of wealthy American consumers with an average income of $293,000 and an average net worth of $2.9 million.</small>
-
