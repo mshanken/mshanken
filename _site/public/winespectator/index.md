@@ -37,5 +37,6 @@ The *Wine Spectator* team looks forward to working with you on a cross platform 
 
 <p><big>**Miriam Morgenstern<br />
 Vice President, Associate Publisher<br />
-Tel: 212-684-4224**</big></p><br />
+Tel: 212-684-4224<br />
+Email: <a href="mailto:mmorgenstern@mshanken.com" target="_blank">mmorgenstern@mshanken.com</a>**</big></p><br />
 
