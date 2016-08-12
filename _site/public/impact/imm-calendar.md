@@ -3,7 +3,7 @@
 
 <br />
 
-## 2015 Issue Dates and Deadlines
+## 2016 Issue Dates and Deadlines
 ---
 
 Please contact us for the most up-to-date version.
@@ -28,31 +28,31 @@ Please contact us for the most up-to-date version.
         <td><em>February 9</em></td>
     </tr>
     <tr>
-        <td><em><strong>March 1 &amp; 15<br /><span>(IM Seminar–3/19)</span></strong></em></td>
+        <td><em><strong>March 1 &amp; 15<br /><span>(IM Seminar–3/10)</span></strong></em></td>
         <td><em><strong>&bull; “Hot Brands”: Spirits and Wine<br />&bull; Top 100 Spirits Brands Worldwide</strong></em></td>
         <td><em><strong>February 22</strong></em></td>
         <td><em><strong>February 25</strong></em></td>
     </tr>
     <tr>
-        <td><em><strong>April 1 &amp;15<br /><span>(WSWA – 4/12-15)</span></strong></em></td>
+        <td><em><strong>April 1 &amp;15<br /><span>(WSWA – 4/18-21)</span></strong></em></td>
         <td><em><strong>&bull; Global vodka update<br/>*Top 25 Vodka Brands In U.S.<br/>*Fastest-Growing Vodka Brands<br />&bull; Top 10 Spirits &amp; Wine Distributors</strong></em></td>
         <td><em><strong>March 25</strong></em></td>
         <td><em><strong>March 30</strong></em></td>
     </tr>
     <tr>
-        <td><strong>May 1</strong></td>
-        <td><em><strong>&bull; Imported wine report<br/>*Top 20 Imported Wine Brands<br/>*Top 10 Premium-Plus Imports<br />&bull; Top 100 Brands Worldwide By Value<br/>&bull; U.S. off-premise update</strong></em></td>
-        <td><strong>April 13</strong></td>
-        <td><strong>April 15</strong></td>
+        <td>May 1</td>
+        <td><em>&bull; Imported wine report<br/>*Top 20 Imported Wine Brands<br/>*Top 10 Premium-Plus Imports<br />&bull; Top 100 Brands Worldwide By Value<br/>&bull; U.S. off-premise update</em></td>
+        <td>April 13</td>
+        <td>April 15</td>
     </tr>
     <tr>
-        <td><strong>May 15<br /><span>(NABCA–5/18-21)</span></strong></td>
+        <td><strong>May 15<br /><span>(NABCA–5/20-23)</span></strong></td>
         <td><strong>&bull; Tequila report<br />&bull; *Top 25 Tequila Brands In U.S.<br />&bull; * Leading Luxury Tequilas<br />&bull; *Leading Super-Premium Tequilas<br/> *Leading Premium Tequilas<br/>Control State update<br/>Beer “Hot Brands”</strong></td>
         <td><strong>April 29</strong></td>
         <td><strong>May 2</strong></td>
     </tr>
     <tr>
-        <td>June 1 &amp; 15<br />(Vinexpo–6/14-18)</td>
+        <td>June 1 &amp; 15</td>
         <td>&bull; Champagne<br />&bull; Sparkling wine<br />&bull; Flavored whiskey in U.S.<br/>*Top 10 flavored whiskey brands</td>
         <td>May 20</td>
         <td>May 24</td>
@@ -82,22 +82,22 @@ Please contact us for the most up-to-date version.
         <td><em>August 18</em></td>
     </tr>
     <tr>
-        <td>October 1</td>
-        <td>&bull; World Beer Report<br />&bull; Beer Wholesaler Update <br />&bull; Blue Chip Brands</td>
+        <td><strong>October 1<br/><span>(NBWA-9/25-8)</span></strong></td>
+        <td><strong>&bull; World Beer Report<br />&bull; Beer Wholesaler Update <br />&bull; Blue Chip Brands</strong></td>
         <td>September 1</td>
         <td>September 6</td>
     </tr>
     <tr>
-        <td><strong>October 15<br /><span>(NBWA-10/11-14)</span></strong></td>
+        <td><strong>October 15<br /><span>(TFWA-10/3-7)</span></strong></td>
         <td><strong>&bull; Travel Retail report<br/>Scotch/Single Malt <br/>Cognac update </strong></td>
         <td><strong>September 13</strong></td>
         <td><strong>September 15</strong></td>
     </tr>
     <tr>
-        <td><strong>November 1<br /><span>(TFWA-10/19-23)</span></strong></td>
-        <td><strong>&bull; Irish Whiskey<br/>&bull; Canadian Whiskey</strong></td>
-        <td><strong>October 11</strong></td>
-        <td><strong>October 14</strong></td>
+        <td>November 1<br /></td>
+        <td>&bull; Irish Whiskey<br/>&bull; Canadian Whiskey</td>
+        <td>October 11</td>
+        <td>October 14</td>
     </tr>
     <tr>
         <td>November 15</td>
