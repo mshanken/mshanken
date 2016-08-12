@@ -93,7 +93,7 @@ discretion of the Production Department.</em></caption>
 &nbsp;&nbsp;&nbsp;<a href="mailto:cmcgilvray@mshanken.com" target="_blank"><strong>cmcgilvray@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-481-8610 x344
  
-&nbsp;&nbsp;&nbsp;Jennifer Arcella &eacute;<br />
+&nbsp;&nbsp;&nbsp;Jennifer Arcella<br />
 &nbsp;&nbsp;&nbsp;<a href="mailto:jarcella@mshanken.com" target="_blank"><strong>jarcella@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-684-4224X315
 

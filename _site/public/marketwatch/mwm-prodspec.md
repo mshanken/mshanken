@@ -126,16 +126,16 @@ of the Production Department.</em></caption>
 &nbsp;&nbsp;&nbsp;<a href="mailto:cmcgilvray@mshanken.com" target="_blank"><strong>cmcgilvray@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-481-8610 x344
 
-&nbsp;&nbsp;&nbsp;Carolyn Plouff&eacute;<br />
-&nbsp;&nbsp;&nbsp;<a href="mailto:cplouffe@mshanken.com" target="_blank"><strong>cplouffe@mshanken.com</strong></a><br />
-&nbsp;&nbsp;&nbsp;tel: 212-481-8610 x365
+&nbsp;&nbsp;&nbsp;Jennifer Arcella<br />
+&nbsp;&nbsp;&nbsp;<a href="mailto:jarcella@mshanken.com" target="_blank"><strong>jarcella@mshanken.com</strong></a><br />
+&nbsp;&nbsp;&nbsp;tel: 212-684-4224X315
 
 Or mail to:
 
-&nbsp;&nbsp;&nbsp;Carolyn Plouff&eacute;<br />
-&nbsp;&nbsp;&nbsp;Market Watch<br />
-&nbsp;&nbsp;&nbsp;387 Park Avenue South<br />
-&nbsp;&nbsp;&nbsp;New York, NY 10016
+&nbsp;&nbsp;&nbsp;Jennifer Arcella<br />
+&nbsp;&nbsp;&nbsp;Impact<br />
+&nbsp;&nbsp;&nbsp;825 Eighth Ave., 33rd Fl.
+&nbsp;&nbsp;&nbsp;New York, NY 10019‑7475
 
 <br />
 
