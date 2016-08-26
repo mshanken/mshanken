@@ -11,7 +11,5 @@ Our 200,000+ readers are male (96%), highly educated (96% college educated, 41% 
 As the interest in whisky has blazed alive across the globe, Whisky Advocate has fanned the flames with the in-depth information astute drinkers crave. For people who plan their vacations on the Bourbon Trail, who fly-fish in the River Spey in the morning and tour Scotch distilleries in the afternoon, who spend tens of thousands investing in rare whiskies, no other magazine will do.
 
 Sincerely,<br />
-Amy Westlake<br />
-Senior Vice President Advertising
-
-
+Michael McGoldrick,<br />
+Director of Advertising

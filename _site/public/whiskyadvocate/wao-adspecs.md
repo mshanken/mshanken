@@ -7,7 +7,7 @@
 
 |Ad Type|Dimensions|Max File Size|Animation|
 |---|---|---|---|
-|Rectangle| 300x250 |30K |up to 15 sec.|
-|Leaderboard| 728x90 |30K |up to 15 sec.|
-|Roadblock| 728x90 & 300x250 |30K |up to 15 sec.|
-|Newsletter| 728x90 & 300x250 |30K |up to 15 sec.|
+|Rectangle| 300x250 |40K |Animated ads must be set to endlessly loop|
+|Leaderboard| 728x90 |40K |Animated ads must be set to endlessly loop|
+|Roadblock| 728x90 & 300x250 |40K |Animated ads must be set to endlessly loop|
+|Newsletter| 728x90 & 300x250 |40K |Animated ads must be set to endlessly loop|
