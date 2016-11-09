@@ -83,9 +83,9 @@ Please contact us for the most up-to-date version.
     </tr>
     <tr>
         <td><strong>October 1<br/><span>(TFWA-10/1-6)</span></strong></td>
-        <td><strong>&bull; World Beer Report<br />&bull; Scotch/Single Malt<br />&bull; Cognac update</strong></td>
-        <td>September 1</td>
-        <td>September 7</td>
+        <td><strong>&bull; Travel Retail Report<br />&bull; Scotch/Single Malt<br />&bull; Cognac update</strong></td>
+        <td><strong>September 1</strong></td>
+        <td><strong>September 7</strong></td>
     </tr>
     <tr>
         <td><strong>October 15<br /><span>(TFWA-10/3-7)</span></strong></td>
