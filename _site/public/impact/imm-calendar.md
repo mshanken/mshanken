@@ -3,7 +3,7 @@
 
 <br />
 
-## 2016 Issue Dates and Deadlines
+## 2017 Issue Dates and Deadlines
 ---
 
 Please contact us for the most up-to-date version.
@@ -88,7 +88,7 @@ Please contact us for the most up-to-date version.
         <td><strong>September 7</strong></td>
     </tr>
     <tr>
-        <td><strong>October 15<br /><span>(TFWA-10/3-7)</span></strong></td>
+        <td><strong>October 15<br /><span>(NBWA-10/8-11)</span></strong></td>
         <td><strong>&bull; World Beer Report<br/>&bull; Beer Wholesaler Update<br/>&bull; Blue Chip Brands</strong></td>
         <td><strong>September 19</strong></td>
         <td><strong>September 22</strong></td>
