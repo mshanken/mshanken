@@ -9,4 +9,21 @@
 
 Check [http://localhost:9000](http://localhost:9000) in your browser. That's all, start working in your project now.
 
-Site was built using [harp-boilerplate, check site](https://github.com/mshanken/harp-boilerplate) for how to use this tool
+##list of commads
+This is a list of commads at your dispose to create a simple static web-site. Enjoy it!
+
+###```grunt server```
+Runs harp server from your harpjs working directory ```_site/```, after you run this command open your browser with this location http://localhost:9000 to preview it. Type ```ctrl+c``` to turn off the server.
+
+###```grunt compile```
+Runs harp compile to generate the static HTML of your dinamic website.
+
+###```grunt static```
+Like ```grunt server``` it runs another server but this one serves the generated HTML (compiled), this can help to review the generated HTML site. Open your browser with this url http://localhost:8800.
+
+###```grunt gh-pages```
+This command will copy the generated HTML (compiled) version of your site at rooted level so it can be render at github gh-pages.
+
+**NOTE:** this command should run once you are in the **_gh-pages_** branch only.
+
+Site was built using [harp-boilerplate, check site](https://github.com/mshanken/harp-boilerplate) for how to use this tool info
