@@ -1,0 +1,26 @@
+{
+  "name": "mshankenstartkit",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "A project start kit",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Edison A. Leon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.3",
+    "respond": "~1.4.2",
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

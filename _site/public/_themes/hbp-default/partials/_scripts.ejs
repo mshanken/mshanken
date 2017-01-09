@@ -1,0 +1,8 @@
+	<% if(environment == "development") { %>
+		<script src="/js/vendor/jquery.js"></script>
+		<script src="/js/vendor/tether.js"></script>
+		<script src="/js/vendor/bootstrap.js"></script>
+		<script src="/js/app.js"></script>
+	<% } else { %>
+  		<script src="/js/build.min.js"></script>
+	<% } %>

@@ -1,0 +1,12 @@
+'use strict';
+
+module.exports = {
+  options: {
+    config: '.jscsrc',
+    esnext: true, // If you use ES6 http://jscs.info/overview.html#esnext
+    verbose: true, // If you need output with rule names http://jscs.info/overview.html#verbose
+    fix: true, // Autofix code style violations when possible.
+    // requireCurlyBraces: [ "if" ]
+  },
+  src: ['<%= config.prod.script %>/app.js']
+}
