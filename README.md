@@ -26,4 +26,4 @@ This command will copy the generated HTML (compiled) version of your site at roo
 
 **NOTE:** this command should run once you are in the **_gh-pages_** branch only.
 
-Site was built using [harp-boilerplate, check site](https://github.com/mshanken/harp-boilerplate) for how to use this tool info
+Site was built using harp-boilerplate, [check repo](https://github.com/mshanken/harp-boilerplate) for how to use this tool info.
