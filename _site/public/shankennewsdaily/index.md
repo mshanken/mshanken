@@ -55,18 +55,9 @@ makers.
 
 ## ADVERTISING RATES (NET)
 ---
-
 <br />
-### After August 1, 2016:
----
+<img src="http://assets.mshanken.com/promo/images/SND-MediaKit-2016-1.jpg" alt="Ad pricing" width="400">
 
-**Frequency:**
-
-|1x |6x |12x |24x|
-|---|---|---|---|
-|$6,500 |$5,500 |$5,000 |$4,500|
-
-<br />
 # RESERVE EARLY. LIMITED AVAILABILITY.
 ---
 Don't Miss the Opportunity to Advertise to 47,000+ Opt-in Subscribers.

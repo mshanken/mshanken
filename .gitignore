@@ -1,44 +1,50 @@
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.vi
-*~
-*.sass-cache
-
-# OS or Editor folders
-.DS_Store
-.cache
+# Eclipse
+.classpath
 .project
-.settings
-.tmproj
-nbproject
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# Dreamweaver added files
-_notes
-dwsync.xml
+# Maven
+log/
+target/
 
-# Komodo
-*.komodoproject
-.komodotools
+# Node
+node_modules/
+bower_components/
 
-# Folders to ignore
-.hg
-.svn
-.CVS
-intermediate
-publish
-.idea
+# Vagrant Puppet Chef
+.vagrant
+.kitchen
+Berksfile.lock
 
-# build script local files
-build/buildinfo.properties
-build/config/buildinfo.properties
+# Project ignored files by git
+cache/
+log/
+content-cache/
+content_cache.lock
+Gemfile.lock
+.buildpath
+lib/SysConfig.config.php
+web/webgrind/
+web/phpinfo.php
 
-web
-www
-node_modules
+# For harp
+www/
+_site/public/js/vendor
+_site/public/css/vendor
+_site/public/fonts/vendor
+_site/public/images/vendor
+_site/public/_css
