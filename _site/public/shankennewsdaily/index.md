@@ -24,7 +24,7 @@ Restaurateurs, Distributors and Sales
 Representatives, Suppliers, Media and other
 allied fields.
 
-**Engaged Audience:** 47,000+ 100% opt-in
+**Engaged Audience:** 40,000+ 100% opt-in
 subscribers who rely on Shanken News Daily each
 morning to keep current with industry news.
 
@@ -60,5 +60,5 @@ makers.
 
 # RESERVE EARLY. LIMITED AVAILABILITY.
 ---
-Don't Miss the Opportunity to Advertise to 47,000+ Opt-in Subscribers.
+Don't Miss the Opportunity to Advertise to 40,000+ Opt-in Subscribers.
 Stephen Senatore • 212-684-4847 • [ssenatore@mshanken.com](mailto:ssenatore@mshanken.com)
