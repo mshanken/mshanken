@@ -20,7 +20,7 @@
 |November 15, 2017 | September 8 | September 12|
 |November 30, 2017 | September 21 | September 25|
 |December 15, 2017 | October 5 | October 10|
-|ecember 31, 2017 | November 1 | November 6|
+|December 31, 2017 | November 1 | November 6|
 
 <br /><br />
 
