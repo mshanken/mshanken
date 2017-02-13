@@ -36,7 +36,7 @@ willing to invest in their passions.
 
 Visit WineSpectator.com to learn more and subscribe to any of our six popular (and FREE) e-newsletters.
 
-**Our Wine Spectator readers are influencers and brand ambassadors not only for wine, but for the luxury products they
+**Our *Wine Spectator* readers are influencers and brand ambassadors not only for wine, but for the luxury products they
 enjoy and consume. To put it simply, those who enjoy wine and spirits, food, travel and the “good life” read Wine
 Spectator.**
 
