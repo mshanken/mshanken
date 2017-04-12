@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "npm run jquery && npm run modernizr && grunt start && npm run server",
-    "browsersync":"browser-sync start --proxy 'localhost:9000' --files '_site/public/**/*.ejs, _site/public/_**/_*.ejs _site/public/**/*.md, _site/public/**/*.scss, _site/public/_data.json' --no-open",
+    "browsersync":"browser-sync start --proxy 'localhost:9000' --files '_site/public/**/*.ejs, _site/public/_**/_*.ejs, _site/public/**/*.md, _site/public/**/*.scss, _site/public/**/*.less, _site/public/_data.json' --no-open",
     "modernizr": "node_modules/modernizr/bin/modernizr -c config-all.json && mv modernizr.js _site/public/js/vendor/modernizr.js",
     "jquery": "cp bower_components/jquery/dist/jquery.js _site/public/js/vendor/",
     "jquery-1": "jquery-builder > _site/public/js/vendor/jquery-1.11.1.js",

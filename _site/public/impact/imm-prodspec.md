@@ -95,7 +95,7 @@ discretion of the Production Department.</em></caption>
  
 &nbsp;&nbsp;&nbsp;Jenny Jaikaran<br />
 &nbsp;&nbsp;&nbsp;<a href="mailto:jjaikaran@mshanken.com" target="_blank"><strong>jjaikaran@mshanken.com</strong></a><br />
-&nbsp;&nbsp;&nbsp;tel: 212-684-4224X315
+&nbsp;&nbsp;&nbsp;tel: 212-684-4224X335
 
 Or mail to:
 
