@@ -30,7 +30,7 @@
     "jquery-2": "jquery-builder --version 2.1.1 > _site/public/js/vendor/jquery-2.1.1.js",
     "server": "harp server _site",
     "compile": "harp compile _site www",
-    "gh-pages": "harp compile _site && grunt copy",
+    "gh-pages": "harp compile _site www && grunt copy:ghpages",
     "static": "grunt harp:staticserver",
     "test": ""
   },
