@@ -1,12 +1,12 @@
 module.exports = {
-	less: [
+	scss: [
 	    {
-	      pattern: /(@import ")(\w*|\w*-\w*|mixins\/\w*|mixins\/\w*-\w*)(.less");/g,
-	      replacement: '$1bower_components/bootstrap/less/$2";'
+	      pattern: /(@import ")(\w*|\w*-\w*|mixins\/\w*|mixins\/\w*-\w*)(";)/g,
+	      replacement: '$1bower_components/bootstrap/scss/$2";'
 	    },
 	    {
-	      pattern: /(@import ")(bower_components\/bootstrap\/less\/)(variables)";/g,
-	      replacement: '@import "../$3";'
+	      pattern: /(@import "bower_components\/bootstrap\/scss\/)(custom)";/g,
+	      replacement: '@import "../$2";'
 	    }
 	]
 };

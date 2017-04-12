@@ -1,25 +1,75 @@
 {
-  "name": "testharp",
-  "version": "1.0.0",
-  "description": "harp sample",
+  "name": "mshankenstartkit",
+  "version": "2.0.0",
+  "description": "A project start kit",
+  "author": "M. Shanken Communications, Inc. <dev@mshanken.com>",
+  "contributors": [
+    {
+      "name": "Edison A. Leon",
+      "email": "eleon@mshanken.com"
+    },
+    {
+      "name": "Your Name",
+      "email": "your@email.com"
+    }
+  ],
   "main": "Gruntfile.js",
-  "scripts": {
-    "server": "grunt server",
-    "compile": "grunt compile",
-    "gh-pages": "grunt gh-pages",
-    "static": "grunt harp:staticserver"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mshanken/mshanken"
+    "url": "https://github.com/mshanken/mshankenstartkit/"
   },
-  "author": "Edison A. Leon",
-  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mshanken/mshankenstartkit/issues"
+  },
+  "scripts": {
+    "start": "npm run jquery && npm run modernizr && grunt start && npm run server",
+    "browsersync":"browser-sync start --proxy 'localhost:9000' --files '_site/public/**/*.ejs, _site/public/_**/_*.ejs _site/public/**/*.md, _site/public/**/*.scss, _site/public/_data.json' --no-open",
+    "modernizr": "node_modules/modernizr/bin/modernizr -c config-all.json && mv modernizr.js _site/public/js/vendor/modernizr.js",
+    "jquery": "cp bower_components/jquery/dist/jquery.js _site/public/js/vendor/",
+    "jquery-1": "jquery-builder > _site/public/js/vendor/jquery-1.11.1.js",
+    "jquery-2": "jquery-builder --version 2.1.1 > _site/public/js/vendor/jquery-2.1.1.js",
+    "server": "harp server _site",
+    "compile": "harp compile _site www",
+    "gh-pages": "harp compile _site && grunt copy",
+    "static": "grunt harp:staticserver",
+    "test": ""
+  },
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jquery-builder": "^0.7.0",
+    "modernizr": "^3.2.0"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-copy": "^0.8.0",
-    "grunt-harp": "^0.1.5",
-    "matchdep": "^0.3.0",
-    "time-grunt": "^1.1.0"
+    "grunt-bower": "^0.20.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-csslint": "^0.2.0",
+    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-htmlmin": "^0.2.0",
+    "grunt-contrib-imagemin": "^0.7.2",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-rename": "0.0.3",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-frep": "^0.1.2",
+    "grunt-jscs": "^2.6.0",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "^3.1.1",
+    "load-grunt-configs": "^0.4.3",
+    "load-grunt-tasks": "^3.2.0",
+    "time-grunt": "^1.2.1"
+  },
+  "keywords": [
+    "build",
+    "compile",
+    "style guide",
+    "compress",
+    "harp"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
   }
 }
