@@ -93,13 +93,13 @@ discretion of the Production Department.</em></caption>
 &nbsp;&nbsp;&nbsp;<a href="mailto:cmcgilvray@mshanken.com" target="_blank"><strong>cmcgilvray@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-481-8610 x344
  
-&nbsp;&nbsp;&nbsp;Jennifer Arcella<br />
-&nbsp;&nbsp;&nbsp;<a href="mailto:jarcella@mshanken.com" target="_blank"><strong>jarcella@mshanken.com</strong></a><br />
+&nbsp;&nbsp;&nbsp;Jenny Jaikaran<br />
+&nbsp;&nbsp;&nbsp;<a href="mailto:jjaikaran@mshanken.com" target="_blank"><strong>jjaikaran@mshanken.com</strong></a><br />
 &nbsp;&nbsp;&nbsp;tel: 212-684-4224X315
 
 Or mail to:
 
-&nbsp;&nbsp;&nbsp;Jennifer Arcella<br />
+&nbsp;&nbsp;&nbsp;Jenny Jaikaran<br />
 &nbsp;&nbsp;&nbsp;Impact<br />
 &nbsp;&nbsp;&nbsp;825 Eighth Ave., 33rd Fl.
 &nbsp;&nbsp;&nbsp;New York, NY 10019‑7475

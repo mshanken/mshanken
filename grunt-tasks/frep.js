@@ -3,15 +3,15 @@
 module.exports = {
   promo: {
     options: {
-      replacements: '<%= config.replacements.less %>'
+      replacements: '<%= config.replacements.scss %>'
     },
     files: [
       {
         expand: true,
-        cwd: '<%= config.dev.style %>/vendor',
-        src: ['bootstrap.less'],
-        dest: '<%= config.dev.style %>/vendor',
-        ext: '.less'
+        cwd: '<%= config.dev.style %>/_vendor',
+        src: ['bootstrap.scss'],
+        dest: '<%= config.dev.style %>/_vendor',
+        ext: '.scss'
       }
     ]
   }

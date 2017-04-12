@@ -1,0 +1,19 @@
+version: "2"
+
+services:
+  web:
+    # image: elwebdeveloper/node-ruby
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    working_dir: /home/node
+    volumes:
+       - .:/home/node
+       - /home/node/node_modules
+       - /home/node/bower_components
+    
+    ports:
+      - "9000:9000"
+      - "3000:3000"
+      
