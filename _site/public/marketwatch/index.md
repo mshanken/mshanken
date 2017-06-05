@@ -6,16 +6,23 @@
 ## Mission Statement
 ---
 
-*Market Watch* is the primary resource for business information for the drinks industry, providing extensive analysis of industry trends, data, statistics, 
-on- and off-premise operations, as well as coverage of business strategies, merchandising promotion and wholesale news.
+*Market Watch* serves the information needs of the on-premise and off-premise markets for spirits, wine and beer. Our readers are America’s most successful on-premise operators and retail stores who look to MARKET WATCH for unique industry trends and information.
 
-As the link between the supplier and trade, *Market Watch* has a major influence on the degree to which the retailer understands, respects and acknowledges product 
-in today's competitive and volatile business environment.
+MARKET WATCH with 30-plus years experience stands alone as the authoritative source of trends and usable information for our readers and your customers.
 
-Open state retailers and control state personnel are more responsive than ever to direct brand communications. The trade tier is openly seeking assertive actions 
-on the part of suppliers. 
+MARKET WATCH is the only trade magazine focusing solely on the interests and needs of on-premise operators and off-premise retailers ten times each year. MARKET WATCH offers a balance of editorial that covers every aspect of the business including:
 
-The time to establish effective and continuing rapport with the trade is now!
+- Detailed industry news coverage of the on-premise and off-premise markets
+- Cutting edge market trends to inform on-premise operators and retailers
+- The latest and hottest restaurant openings coast to coast
+- Nightclub and bar openings
+- Covering retail stores and their expansion
+- New product introductions
+- On-premise and off-premise business profiles
+- The new buzz at the bar
+- Profiles on cities around the country and their alcohol beverage market
+- What’s happening in the wine market today
+- Beer market coverage
 
 <br />
 
