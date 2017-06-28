@@ -21,5 +21,6 @@ We look forward to working with you to get your product exposure
 to this valuable targeted audience.
 
 Sincerely,<br />
-Michael McGoldrick,<br />
-Director of Advertising
+Michael McGoldrick<br />
+Director of Advertising<br />
+<a href="mailto:mmcgoldrick@mshanken.com" target="_blank">mmcgoldrick@mshanken.com</a>
