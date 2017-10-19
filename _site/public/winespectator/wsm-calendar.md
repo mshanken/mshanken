@@ -4,7 +4,7 @@
 ## 2017 Issue Dates and Deadlines
 ----
 
-
+<!-- 
 | Cover Date | Space Close | Material Due |
 | ---------- | ----------- | ------------ |
 |Jan/Feb Double Issue|December 15, 2016|December 19, 2016|
@@ -21,7 +21,7 @@
 |November 30, 2017|September 21|September 25|
 |December 15, 2017|October 5|October 10|
 |December 31, 2017|November 1|November 6|
-
+-->
 <br /><br />
 
 ***Subscribers receive issues on estimate three weeks prior to cover date.**<br />
