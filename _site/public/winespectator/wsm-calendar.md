@@ -4,24 +4,25 @@
 ## 2017 Issue Dates and Deadlines
 ----
 
-<!-- 
+
 | Cover Date | Space Close | Material Due |
 | ---------- | ----------- | ------------ |
-|Jan/Feb Double Issue|December 15, 2016|December 19, 2016|
-|March 2017|January 12|January 17|
-|April 2017|February 9|February 14|
-|May 2017|March 9|March 14|
-|June 15, 2017|April 7|April 11|
-|June 30, 2017|April 21|April 25|
-|July 2017|May 18|May 23|
-|August 2017|June 8|June 13|
-|September 2017|July 7|July 12|
-|October Special Edition|August 4|August 8|
-|November 15, 2017|September 8|September 12|
-|November 30, 2017|September 21|September 25|
-|December 15, 2017|October 5|October 10|
-|December 31, 2017|November 1|November 6|
--->
+|Jan/Feb Double Issue|December 15, 2017|December 19, 2017|
+|March 2018|January 9|January 11|
+|April 2018|February 6|February 8|
+|May 2018|March 6|March 8|
+|June 15, 2018|April 3|April 5|
+|June 30, 2018|April 17|April 19|
+|July 2018|May 15|May 17|
+|August 2018|June 5|June 7|
+|September 2018|July 3|July 5|
+|October 15, 2018|July 31|August 2|
+|October 31, 2018|August 14|August 16|
+|November 15, 2018|September 4|September 6|
+|November 30, 2018|September 18|September 20|
+|December 15, 2018|October 2|October 4|
+|December 31, 2018|October 16|October 18|
+
 <br /><br />
 
 ***Subscribers receive issues on estimate three weeks prior to cover date.**<br />
