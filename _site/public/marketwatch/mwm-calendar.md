@@ -12,17 +12,17 @@ Please contact us for the most up-to-date version.
 |Issue|Space Close|Material Due|
 |---|---|---|
 |December|Nov 1, 2017|Nov 6, 2017|
-|Jan/Feb 2018|8-Jan|12-Jan|
-|Mar-18|1-Feb|5-Feb|
-|Apr-18|9-Mar|14-Mar|
-|May-18|5-Apr|10-Apr|
-|Jun-18|3-May|8-May|
-|July/Aug 18|14-Jun|19-Jun|
-|Sep-18|9-Aug|14-Aug|
-|Leaders 2018|16-Aug|21-Aug|
-|Oct-18|7-Sep|12-Sep|
-|Nov-18|8-Oct|11-Oct|
-|Dec-18|5-Nov|8-Nov|
+|January/Febuary|Jan 8,2018|Jan 12,2018|
+|March|Feb 1,2018|Feb 5, 2018|
+|April|Mar 9, 2018|Mar 14,2018|
+|May|Apr 5, 2018|Apr 10, 2018|
+|June|May 3, 2018|May 8, 2018|
+|July/August|Jun 14, 2018|Jun 19, 2018|
+|September|Aug 9,2018|Aug 14, 2018|
+|Leaders|Aug 16, 2018|Aug 21, 2018|
+|October|Sept 7, 2018|Sept 12,2018|
+|November|Oct 8, 2018|Oct 11, 2018|
+|December|Nov 5, 2018|Nov 8, 2018|
 
 <br />
 ## Not to be missed...
