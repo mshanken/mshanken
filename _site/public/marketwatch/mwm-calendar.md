@@ -2,7 +2,7 @@
 ---
 
 <br />
-## 2017 Issue Dates and Deadlines
+## 2018 Issue Dates and Deadlines
 ---
 
 <br />
@@ -12,7 +12,7 @@ Please contact us for the most up-to-date version.
 |Issue|Space Close|Material Due|
 |---|---|---|
 |December|Nov 1, 2017|Nov 6, 2017|
-|January/Febuary|Jan 8, 2018|Jan 12,2018|
+|January/February|Jan 8, 2018|Jan 12,2018|
 |March|Feb 1, 2018|Feb 5, 2018|
 |April|Mar 9, 2018|Mar 14, 2018|
 |May|Apr 5, 2018|Apr 10, 2018|

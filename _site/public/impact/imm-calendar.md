@@ -3,7 +3,7 @@
 
 <br />
 
-## 2017 Issue Dates and Deadlines
+## 2018 Issue Dates and Deadlines
 ---
 
 Please contact us for the most up-to-date version.
