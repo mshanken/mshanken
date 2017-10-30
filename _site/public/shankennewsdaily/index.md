@@ -56,7 +56,7 @@ makers.
 ## ADVERTISING RATES (NET)
 ---
 <br />
-<img src="http://assets.mshanken.com/promo/images/SND-MediaKit-2016-1.jpg" alt="Ad pricing" width="400">
+<img src="/images/snd/SND-MediaKit-2018-1.gif" alt="Ad pricing" width="400">
 
 # RESERVE EARLY. LIMITED AVAILABILITY.
 ---

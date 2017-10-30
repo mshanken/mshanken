@@ -33,7 +33,7 @@ MARKET WATCH is the only trade magazine focusing solely on the interests and nee
 (on-premise and off-premise) so they can aggressively promote and sell alcoholic beverages.
 - *Market Watch* maintains a constant, active presence at all industry functions (including WSWA, NABCA,
 NRA, ABL, Nightclub & Bar, NBWA and the Wine & Spirits Guild).
-- *Market Watch* gives you 53,000+ buyers (135,000+ with pass along readership, Harvey Research Study)
+- *Market Watch* gives you 50,000+ buyers (135,000+ with pass along readership, Harvey Research Study)
 11 times a year who request and read each issue!
 - *Market Watch* readers offer enormous purchasing power: on-premise beverage sales average $1.6 million
 per outlet annually; off-premise average is $1.8 million!
