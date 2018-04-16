@@ -1,0 +1,32 @@
+<header id="header" class="container-fluid header" role="header">
+	<div class="row">
+		<div class="col-12">
+			<h1><%= public._data.title %></h1>
+			<img src="<%= public._data.imagebg %>" alt="<%= public._data.title %>">
+		</div>
+	</div>
+</header>
+<section id="magazines" class="container">	
+	<div class="row">
+		<div class="col-12">
+			<%- partial("../../../" + current.path[0] +"/_magazines") %>
+		</div>
+	</div>
+</section>
+<main class="container">
+	<div class="row"> 
+		<aside id="aside" class="aside col-sm-4" role="sidebar">
+			<%- partial("../../../" + current.path[0] +"/_access") %>
+		</aside>
+
+		<article id="article" class="article col-sm-8" role="main-article">
+			<%- yield %>
+		</article>           
+	</div>
+</main>
+<section id="contact" class="container">
+	<div class="row">
+		<h2>CONTACT</h2>
+		<%- partial("../../../" + current.path[0] +"/_contact") %>
+	</div>
+</section>

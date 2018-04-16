@@ -1,0 +1,9 @@
+<ul class="nav nav-pills nav-justified">
+<% for(var nav in public._data.menu_nav){ 
+	if (nav !== 'sitemap') { %>
+		<li class="nav-item">
+			<a href="/<%= public._data.menu_nav[nav] %>" class="nav-link<%- current.path[0] == public._data.menu_nav[nav] ? ' active' : '' %> text-white"><%= nav %></a>
+		</li>
+	<% }; %>
+<% }; %>
+</ul>

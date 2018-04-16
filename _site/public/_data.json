@@ -1,124 +1,17 @@
 {
-  	"winespectator": {
-	  	"title": "wine spectator",
-	  	"url": "/winespectator",
-		"target": "",
-	  	"imagebg": "ws/ws-main-image.jpg",
-	  	"menu": {
-			"wsm": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			},
-			"wso": {
-			    "title": "online",
-			    "url": "wso-overview",
-			    "target": ""
-			},
-			"ws": {
-			  	"title": "events",
-			  	"url": "ws-events",
-			  	"target": ""
-			}
-		}
-  	},
-	"cigaraficionado": {
-		"title": "Cigar aficionado",
-		"url": "/cigaraficionado",
-		"target": "",
-		"imagebg": "ca/ca-main-image.jpg",
-	  	"menu": {
-			"cam": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			},
-			"cao": {
-			    "title": "online",
-			    "url": "cao-overview",
-			    "target": ""
-			},
-			"ca": {
-			  	"title": "events",
-			  	"url": "ca-events",
-			  	"target": ""
-			}
-		}
-	},
-	"whiskyadvocate": {
-		"title":"whisky advocate",
-		"url": "/whiskyadvocate",
-		"target": "",
-		"imagebg": "wa/WA_Header_736x165.jpg",
-	  	"menu": {
-			"wam": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			},
-			"wao": {
-			    "title": "online",
-			    "url": "wao-overview",
-			    "target": ""
-			},
-			"wa": {
-			  	"title": "events",
-			  	"url": "wa-events",
-			  	"target": ""
-			}
-		}
-	},
-	"marketwatch": {
-		"title": "market watch",
-		"url": "/marketwatch",
-		"target": "",
-		"imagebg": "mw/mw-main-image.jpg",
-	  	"menu": {
-			"mwm": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			},
-			"mw": {
-			  	"title": "events",
-			  	"url": "mw-events",
-			  	"target": ""
-			}
-		}
-	},
-	"impact": {
-		"title": "impact",
-		"url": "/impact",
-		"target": "",
-		"imagebg": "im/IM_Header_736x165.jpg",
-	  	"menu": {
-			"imm": {
-				"title": "magazine",
-				"url": "index",
-				"target": ""
-			},
-			"im": {
-			  	"title": "events",
-			  	"url": "im-events",
-			  	"target": ""
-			}
-		}
-	},
-	"shankennewsdaily": {
-		"title":"Shanken News Daily",
-		"url": "/shankennewsdaily",
-		"target": "",
-		"imagebg": "snd/SND_Header_736x165.jpg",
-	  	"menu": {}
-	},
-	"contact": {
-		"title": "/Contac us | ",
-		"url": "contact.html",
-		"target": ""
-	},
-	"privatepolicy": {
-		"title": "/Private Policy | ",
-		"url": "privatepolicy.html",
-		"target": ""
+	"title": "wine spectator",
+	"site_tagline": "",
+	"target": "",
+  	"imagebg": "ws/ws-main-image.jpg",
+  	"description": "",
+	"keywords": "",
+	"copyright":"",
+	"menu_nav":{
+		"wine spectator": "winespectator",
+		"whisky advocate": "whiskyadvocate",
+		"cigar aficionado": "cigaraficionado",
+		"market watch": "marketwatch",
+		"impact": "impact",
+		"shanken news daily": "shankennewsdaily"
 	}
 }
