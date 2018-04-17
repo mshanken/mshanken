@@ -1,7 +1,7 @@
 {
 	"title": "wine spectator",
 	"target": "",
-  	"imagebg": "ws-main-image.jpg",
+  	"imagebg": "../images/WSHeaderImage.jpg",
   	"description": "",
 	"keywords": ""
 }

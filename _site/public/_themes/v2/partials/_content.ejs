@@ -1,8 +1,8 @@
 <header id="header" class="container-fluid header" role="header">
 	<div class="row">
 		<div class="col-12">
-			<h1><%= public._data.title %></h1>
-			<img src="<%= public._data.imagebg %>" alt="<%= public._data.title %>">
+			<h1><%= public[current.path[0]]._data.title %></h1>
+			<img src="<%= public[current.path[0]]._data.imagebg %>" alt="<%= public._data.title %>">
 		</div>
 	</div>
 </header>
