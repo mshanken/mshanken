@@ -19,16 +19,9 @@
 	</head>
 	
 <body>
-	
-	<nav id="navbar" class="container bg-primary" role="menu">
-		<div class="row">
-			<div class="col-12">
-				<h1>M. Shanken Communications</h1>
-				<%- partial("_themes/v2/_navbar") %>
-			</div>
-		</div>
-	</nav>
-	
+	<header id="header" class="bg-primary">
+	    <%- partial("_themes/v2/_navbar") %>
+	</header><!-- #header -->
 	
 	<% if ( current.path[0] === "index"  || current.source === "404" ) { %>
 	    <%- yield %>
@@ -37,14 +30,11 @@
       	<%- partial("_themes/v2/partials/_content", { yield: yield }) %>
     <% } %>
 	
-	<footer id="footer" class="container footer" role="footer">
-		<div class="row">
-			<div class="col-12">
-				<%- partial("_themes/v2/_footer") %>
-			</div>
-		</div>
+	<footer id="footer" role="footer">
+		<%- partial("_themes/v2/_footer") %>
 	</footer>
     
+    <%- partial("_themes/v2/partials/_scripts") %>
     
 </body>
 </html>

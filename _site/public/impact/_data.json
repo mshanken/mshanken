@@ -1,7 +1,7 @@
 {
 	"title": "impact",
 	"target": "",
-	"imagebg": "im/IM_Header_736x165.jpg",
+	"imagebg": "../images/ImpactHeaderImage.jpg",
   	"description": "",
 	"keywords": ""
 }

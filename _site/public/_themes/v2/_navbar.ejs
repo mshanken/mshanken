@@ -1,9 +1,23 @@
-<ul class="nav nav-pills nav-justified">
-<% for(var nav in public._data.menu_nav){ 
-	if (nav !== 'sitemap') { %>
-		<li class="nav-item">
-			<a href="/<%= public._data.menu_nav[nav] %>" class="nav-link<%- current.path[0] == public._data.menu_nav[nav] ? ' active' : '' %> text-white"><%= nav %></a>
-		</li>
-	<% }; %>
-<% }; %>
-</ul>
+<div class="container">
+	<a class="d-block p-3 text-center lead" href="/">M. Shanken Communications</a>
+	<nav class="navbar navbar-expand-lg navbar-primary">
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="nav justify-content-center mx-auto">
+		<% for(var nav in public._data.menu_nav){ 
+			if (nav !== 'sitemap') { %>
+				<li class="nav-item">
+					<a href="/<%= public._data.menu_nav[nav] %>" class="text-capitalize nav-link<%- current.path[0] == public._data.menu_nav[nav] ? ' active' : '' %>"><%= nav %><%- current.path[0] == public._data.menu_nav[nav] ? ' <span class="sr-only">(current)</span>' : '' %></a>
+				</li>
+			<% }; %>
+		<% }; %>
+		</ul>
+	  </div>
+	</nav>
+</div>
+
+
+

@@ -1,0 +1,3 @@
+- ![Magazine](/images/IM031518-1.jpg "Magazine")
+- ![alt text](/images/IM031517_cover.jpg "Logo Title Text 1")
+- ![alt text](/images/IM101517_cover.jpg "Logo Title Text 1")

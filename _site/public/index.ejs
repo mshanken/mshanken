@@ -1,82 +1,97 @@
-	<section id="carousel" class="container-fluid">
-		<div class="row">
-			<div class="col-12">
-				<%- partial("_homepage/carousel") %>
+	<section id="carousel">
+		<%- partial("_homepage/carousel") %>
+	</section>
+
+	<section id="brands" class="bg-primary py-3">
+		<div class="container py-3">
+			<div class="row">
+				<div class="col-12 text-white text-center">
+					<%- partial("_homepage/brands") %>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-4 text-center">
+					<img src="images/WSLogo.png" alt="">
+				</div>
+				<div class="col-4 text-center">
+					<img src="images/WALogo.png" alt="">
+				</div>
+				<div class="col-4 text-center">
+					<img src="images/CALogo.png" alt="">
+				</div>
+				<div class="col-4 text-center">
+					<img src="images/MWLogo.png" alt="">
+				</div>
+				<div class="col-4 text-center">
+					<img src="images/IMPLogo.png" alt="">
+				</div>
+				<div class="col-4 text-center">
+					<img src="images/SNDLogo.png" alt="">
+				</div>
 			</div>
 		</div>
 	</section>
 
-	<section id="brands" class="container">
-		<div class="row">
-			<div class="col-12">
-				<%- partial("_homepage/brands") %>
+	<section id="whatwedeliver" class="bg-light">
+		<div class="container">
+			<div class="row mt-7">
+				<div class="col-12 text-center">
+					<h2>WHAT WE DELIVER</h2><!-- UNIQUE OFFERINGS AND CAPABILITIES -->
+				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-4">
-				ws
+			<div class="row">
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-01") %>
+				</div>
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-02") %>
+				</div>
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-03") %>
+				</div>
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-04") %>
+				</div>
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-05") %>
+				</div>
+				<div class="col-md-6">
+					<%- partial("_homepage/wwd-06") %>
+				</div>
 			</div>
-			<div class="col-4">
-				wa
-			</div>
-			<div class="col-4">
-				ca
-			</div>
-			<div class="col-4">
-				mw
-			</div>
-			<div class="col-4">
-				im
-			</div>
-			<div class="col-4">
-				snd
-			</div>
-		</div>
-	</section>
-
-	<section id="whatwedeliver" class="container">
-		<div class="row">
-			<div class="col-12">
-				<h2>WHAT WE DELIVER</h2>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-01") %>
-			</div>
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-02") %>
-			</div>
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-03") %>
-			</div>
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-04") %>
-			</div>
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-05") %>
-			</div>
-			<div class="col-md-6">
-				<%- partial("_homepage/wwd-06") %>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<button class="btn btn-primary">WATCH OUR VIDEO</button>
+			<div class="row py-3">
+				<div class="col-12 text-center py-3">
+					<button class="btn btn-primary">WATCH OUR VIDEO</button>
+				</div>
 			</div>
 		</div>
 	</section>
 
-	<section id="others" class="container">
-		<div class="row">
-			<div class="col-4">
-				Charitable Events
-			</div>
-			<div class="col-4">
-				Shanken Creative Group
-			</div>
-			<div class="col-4">
-				Shanken Social
+	<section id="others" class="py-3">
+		<div class="container py-3">
+			<div class="row">
+				<div class="col-4">
+					<div class="card bg-light m3">
+					  <div class="card-body">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Charitable Events</h5>
+					  </div>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="card bg-light m3">
+					  <div class="card-body">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Shanken Creative Group</h5>
+					  </div>
+					</div>
+					
+				</div>
+				<div class="col-4">
+					<div class="card bg-light m3">
+					  <div class="card-body">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Shanken Social</h5>
+					  </div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>

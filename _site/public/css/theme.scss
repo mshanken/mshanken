@@ -8,9 +8,12 @@
 // Load core variables and mixins
 // --------------------------------------------------
 
+@import "bower_components/bootstrap/scss/functions";
 @import "custom";
-@import "_vendor/bootstrap";
-@import "../../../bower_components/bootstrap/scss/mixins";
+$fa-font-path:   "../fonts";
+@import "bower_components/bootstrap/scss/mixins";
+@import "bower_components/bootstrap/scss/bootstrap";
+@import "bower_components/font-awesome/web-fonts-with-css/scss/fontawesome";
 
 //
 // Custom style starts here

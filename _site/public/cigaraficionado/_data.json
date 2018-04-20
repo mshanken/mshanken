@@ -1,7 +1,7 @@
 {
 	"title": "Cigar aficionado",
 	"target": "",
-	"imagebg": "ca/ca-main-image.jpg",
+	"imagebg": "../images/CAHeaderImage.jpg",
   	"description": "",
 	"keywords": ""
 }
