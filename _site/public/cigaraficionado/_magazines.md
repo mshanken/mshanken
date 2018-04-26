@@ -1,6 +1,0 @@
-- ![Magazine](/images/CA0318_cover5.jpg "Magazine")
-- ![alt text](/images/CA0517_cover5.jpg "Logo Title Text 1")
-- ![alt text](/images/CA1117_cover5.jpg "Logo Title Text 1")
-- ![Magazine](/images/CA0717_cover5.jpg "Magazine")
-- ![alt text](/images/CA200104.jpg "Logo Title Text 1")
-- ![alt text](/images/CA199812.jpg "Logo Title Text 1")

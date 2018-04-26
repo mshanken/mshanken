@@ -1,3 +1,0 @@
-- ![Magazine](/images/SND1.jpg "Magazine")
-- ![alt text](/images/SNDSpecialAlert.jpg "Logo Title Text 1")
-- ![alt text](/images/SND2.jpg "Logo Title Text 1")

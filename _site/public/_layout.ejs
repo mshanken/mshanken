@@ -19,18 +19,16 @@
 	</head>
 	
 <body>
-	<header id="header" class="bg-primary">
-	    <%- partial("_themes/v2/_navbar") %>
-	</header><!-- #header -->
 	
-	<% if ( current.path[0] === "index"  || current.source === "404" ) { %>
+	<%- partial("_themes/v2/_navbar") %><!-- #header -->
+	
+	<% if ( current.path[0] === "index"  || current.path[0] === "events"  || current.source === "404" ) { %>
 	    <%- yield %>
 	<% } else  { %>
-		<%#- yield %>
-      	<%- partial("_themes/v2/partials/_content", { yield: yield }) %>
+		<%- partial("_themes/v2/partials/_content", { yield: yield }) %>
     <% } %>
 	
-	<footer id="footer" role="footer">
+	<footer id="footer" role="footer" class="g-brd-top g-brd-primary">
 		<%- partial("_themes/v2/_footer") %>
 	</footer>
     

@@ -2,6 +2,7 @@
 	"title":"whisky advocate",
 	"target": "",
 	"imagebg": "../images/WAHeaderImage.jpg",
+	"imagelg": "../images/WALogoDropShadow.png",
   	"description": "",
 	"keywords": ""
 }

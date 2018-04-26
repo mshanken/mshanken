@@ -2,6 +2,7 @@
 	"title": "Cigar aficionado",
 	"target": "",
 	"imagebg": "../images/CAHeaderImage.jpg",
+	"imagelg": "../images/CALogoDropShadow.png",
   	"description": "",
 	"keywords": ""
 }

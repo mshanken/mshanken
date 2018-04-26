@@ -1,34 +1,37 @@
-<header id="header" class="container-fluid header" role="header">
-	<div class="row">
-		<div class="col-12">
-			<h1><%= public[current.path[0]]._data.title %></h1>
-			<img src="<%= public[current.path[0]]._data.imagebg %>" alt="<%= public._data.title %>">
-		</div>
-	</div>
-</header>
-<section id="magazines" class="container">	
-	<div class="row">
-		<div class="col-12">
+<section class="dzsparallaxer auto-init height-is-based-on-content use-loading" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
+  <!-- Parallax Image -->
+  <div class="divimage dzsparallaxer--target w-100 u-bg-overlay" style="height: 140%; background-image: url('<%= public[current.path[0]]._data.imagebg %>'"></div>
+  <!-- End Parallax Image -->
+
+  <div class="container text-center g-color-white g-py-200--md g-py-80">
+    <!-- <h1 class="text-hide" style="background-image: url('<%= public[current.path[0]]._data.imagelg %>'); height: 100px;"><%= public[current.path[0]]._data.title %></h1> -->
+    <img src="<%= public[current.path[0]]._data.imagelg %>" alt="" class="img-fluid" style="max-width: 50%;">
+  </div>
+</section>
+<section id="magazines" class="bg-light">	
+	<div class="container g-py-40">
+		<div class="row justify-content-center">
 			<%- partial("../../../" + current.path[0] +"/_magazines") %>
 		</div>
 	</div>
 </section>
-<main class="container">
+<main class="container g-py-40" data-animation="fadeIn" data-animation-delay="0" data-animation-duration="2000">
 	<div class="row"> 
-		<aside id="aside" class="aside col-sm-4" role="sidebar">
-			<%- partial("../../../" + current.path[0] +"/_access") %>
-		</aside>
-
-		<article id="article" class="article col-sm-8" role="main-article">
+		<article id="article" class="article col-md-8 g-pb-40 g-pb-0--md text-center text-md-left g-font-size-20" role="main-article">
 			<%- yield %>
-		</article>           
+		</article>
+
+		<aside id="aside" class="aside col-md-4 order-md-first text-center text-md-left" role="sidebar">
+			<%- partial("../../../" + current.path[0] +"/_access") %>
+		</aside>           
 	</div>
 </main>
-<section id="contact" class="bg-primary py-3">
-	<div class="container text-white">
-		<h2 class="text-center">CONTACT</h2>
+<section id="contact" class="bg-primary py-3" data-animation="fadeInUp" data-animation-delay="0" data-animation-duration="2000">
+	<div class="container text-white g-py-40">
+		<h2 class="text-center g-pb-40">CONTACT</h2>
 		<div class="row">
 			<%- partial("../../../" + current.path[0] +"/_contact") %>
 		</div>
 	</div>
 </section>
+

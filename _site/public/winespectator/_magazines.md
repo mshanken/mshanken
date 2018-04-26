@@ -1,6 +1,0 @@
-- ![Magazine](/images/WS043018_Cover.jpg "Magazine")
-- ![alt text](/images/WS022916_Cover5.jpg "Logo Title Text 1")
-- ![alt text](/images/WS093016_Cover5.jpg "Logo Title Text 1")
-- ![Magazine](/images/WS123117_Cover5.jpg "Magazine")
-- ![alt text](/images/WS083117_Cover.jpg "Logo Title Text 1")
-- ![alt text](/images/WS033118_cover5_P.jpg "Logo Title Text 1")

@@ -2,6 +2,7 @@
 	"title": "wine spectator",
 	"target": "",
   	"imagebg": "../images/WSHeaderImage.jpg",
+  	"imagelg": "../images/WSLogoDropShadow.png",
   	"description": "",
 	"keywords": ""
 }

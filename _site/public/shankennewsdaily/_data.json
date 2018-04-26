@@ -1,7 +1,8 @@
 {
 	"title":"Shanken News Daily",
 	"target": "",
-	"imagebg": "../images/SNDHeaderImage.jpg",
+	"imagebg": "../images/SNDHeaderImagecropped.jpg",
+  	"imagelg": "../images/SNDLogoDropShadow.png",
   	"description": "",
 	"keywords": ""
 }

@@ -10,11 +10,38 @@
 
 @import "bower_components/bootstrap/scss/functions";
 @import "custom";
-$fa-font-path:   "../fonts";
+
 @import "bower_components/bootstrap/scss/mixins";
 @import "bower_components/bootstrap/scss/bootstrap";
-@import "bower_components/font-awesome/web-fonts-with-css/scss/fontawesome";
+@import "_scss/unify";
+@import "_web-fonts-with-css/scss/fontawesome";
 
 //
 // Custom style starts here
 // --------------------------------------------------
+h2{ letter-spacing: 0.1em; line-height: 1.1em; }
+h5{ font-weight: 700; }
+#whatwedeliver p{ letter-spacing: 0.1em; font-weight: 500; font-size: 16px; }
+#article p{ line-height: 1.4em; }
+#brands a.g-brd-primary:hover { border-color: #fff !important; }
+#carousel, .dzsparallaxer{ margin-top: 70px; }
+#contact a{ color: white; }
+.carousel-caption {
+    position: absolute;
+    right: 0%;
+    bottom: 0px;
+    left: 0%;
+    z-index: 10;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    text-align: left;
+}
+.carousel-caption h5, .carousel-caption p { margin-left: 12px; margin-right: 12px; }
+@include media-breakpoint-up(md) {
+	#whatwedeliver p{ }
+	hr {
+    	-webkit-margin-start: 0;
+	}
+	#carousel, .dzsparallaxer{ margin-top: 110px; }
+}
