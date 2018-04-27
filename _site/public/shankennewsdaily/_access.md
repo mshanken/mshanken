@@ -5,6 +5,12 @@
 **[Subscribe](http://newsletters.shankennewsdaily.com/)**
 
 <ul class="u-list-inline">
-    <li class="list-inline-item mr-0">[<i class="fab fa-facebook-f" data-fa-transform="shrink-3.5 down-1.6 right-1.25" data-fa-mask="fas fa-circle"></i>](https://www.facebook.com/Shanken-News-Daily-187376324643407/)</li>
-    <li class="list-inline-item mr-0">[<i class="fab fa-twitter" data-fa-transform="shrink-3.5 down-1.6 right-1.25" data-fa-mask="fas fa-circle"></i>](https://twitter.com/ShankenNews)</li>
+    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+    </span>](https://www.facebook.com/Shanken-News-Daily-187376324643407)</li>
+    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+    </span>](https://twitter.com/ShankenNews)</li>
 </ul>

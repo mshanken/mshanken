@@ -1,6 +1,6 @@
 <section class="dzsparallaxer auto-init height-is-based-on-content use-loading" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
   <!-- Parallax Image -->
-  <div class="divimage dzsparallaxer--target w-100 u-bg-overlay" style="height: 140%; background-image: url('<%= public[current.path[0]]._data.imagebg %>'"></div>
+  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%= public[current.path[0]]._data.imagebg %>'"></div>
   <!-- End Parallax Image -->
 
   <div class="container text-center g-color-white g-py-200--md g-py-80">
@@ -15,7 +15,7 @@
 		</div>
 	</div>
 </section>
-<main class="container g-py-40" data-animation="fadeIn" data-animation-delay="0" data-animation-duration="2000">
+<main class="container g-py-40">
 	<div class="row"> 
 		<article id="article" class="article col-md-8 g-pb-40 g-pb-0--md text-center text-md-left g-font-size-20" role="main-article">
 			<%- yield %>
@@ -26,10 +26,10 @@
 		</aside>           
 	</div>
 </main>
-<section id="contact" class="bg-primary py-3" data-animation="fadeInUp" data-animation-delay="0" data-animation-duration="2000">
+<section id="contact" class="bg-primary py-3">
 	<div class="container text-white g-py-40">
 		<h2 class="text-center g-pb-40">CONTACT</h2>
-		<div class="row">
+		<div class="row" data-animation="fadeInUp" data-animation-delay="0" data-animation-duration="2000">
 			<%- partial("../../../" + current.path[0] +"/_contact") %>
 		</div>
 	</div>

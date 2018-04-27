@@ -8,19 +8,19 @@
 // Load core variables and mixins
 // --------------------------------------------------
 
-@import "bower_components/bootstrap/scss/functions";
+@import "_bootstrap/scss/functions";
 @import "custom";
-
-@import "bower_components/bootstrap/scss/mixins";
-@import "bower_components/bootstrap/scss/bootstrap";
+@import "_bootstrap/scss/bootstrap";
 @import "_scss/unify";
-@import "_web-fonts-with-css/scss/fontawesome";
+// $fa-font-path:   "/fonts";
+// @import "_FontAwesome/web-fonts-with-css/scss/fontawesome";
 
 //
 // Custom style starts here
 // --------------------------------------------------
 h2{ letter-spacing: 0.1em; line-height: 1.1em; }
-h5{ font-weight: 700; }
+header h4{ margin-bottom: 0; font-weight: 700; }
+h5{ font-weight: 700; margin-bottom: 0.2rem; }
 #whatwedeliver p{ letter-spacing: 0.1em; font-weight: 500; font-size: 16px; }
 #article p{ line-height: 1.4em; }
 #brands a.g-brd-primary:hover { border-color: #fff !important; }
@@ -38,6 +38,12 @@ h5{ font-weight: 700; }
     text-align: left;
 }
 .carousel-caption h5, .carousel-caption p { margin-left: 12px; margin-right: 12px; }
+.navbar .u-main-nav-v3 .nav-link {
+    padding: 1rem 2.57143rem;
+}
+.navbar .u-main-nav-v3 .nav-link:hover{
+	border-color: #ffffff !important;
+}
 @include media-breakpoint-up(md) {
 	#whatwedeliver p{ }
 	hr {

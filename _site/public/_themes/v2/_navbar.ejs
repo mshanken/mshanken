@@ -1,13 +1,14 @@
 
 <header id="js-header" class="u-header u-header--sticky-top u-header--toggle-section u-header--change-appearance" data-header-fix-moment="300">
-  <div class="u-header__section u-header__section--dark g-bg-primary g-transition-0_3 g-py-10 text-center" data-header-fix-moment-exclude="g-py-10" data-header-fix-moment-classes="g-py-0">
+  <div class="u-header__section u-header__section--dark g-bg-primary g-transition-0_3 g-pt-10 text-md-center" data-header-fix-moment-exclude="g-pt-10" data-header-fix-moment-classes="g-py-0">
   	<a href="/" class="navbar-brand">
-        M. Shanken Communications
+        <h4 class="d-none d-md-block">M. Shanken Communications</h4>
+        <h5 class="d-md-none">&nbsp;M. Shanken Communications</h5>
     </a>
-    <nav class="navbar navbar-expand-md">
+    <nav class="navbar navbar-expand-md g-pb-0">
       <div class="container">
         <!-- Responsive Toggle Button -->
-        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-3 g-right-0 g-mt-minus-55 g-mt-minus-55--md" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
           <span class="hamburger hamburger--slider">
         <span class="hamburger-box">
           <span class="hamburger-inner"></span>
@@ -24,11 +25,11 @@
 
         <!-- Navigation -->
         <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--md" id="navBar">
-          <ul class="navbar-nav text-uppercase g-font-weight-600 mx-auto">
+          <ul class="navbar-nav text-uppercase g-font-weight-600 mx-auto u-main-nav-v3">
           	<% for(var nav in public._data.menu_nav){ 
 				if (nav !== 'sitemap') { %>
-					<li class="nav-item g-mx-10 g-mx-20--lg">
-						<a href="/<%= public._data.menu_nav[nav] %>" class="text-capitalize nav-link nav-link<%- current.path[0] == public._data.menu_nav[nav] ? ' active' : '' %> px-0"><%= nav %><%- current.path[0] == public._data.menu_nav[nav] ? ' <span class="sr-only">(current)</span>' : '' %></a>
+					<li class="nav-item g-mx-10 g-mx-20--lg<%- current.path[0] == public._data.menu_nav[nav] ? ' active g-brd-white' : '' %>">
+						<a href="/<%= public._data.menu_nav[nav] %>" class="text-capitalize nav-link px-0<%- current.path[0] == public._data.menu_nav[nav] ? ' g-brd-white' : '' %>"><%= nav %><%- current.path[0] == public._data.menu_nav[nav] ? ' <span class="sr-only">(current)</span>' : '' %></a>
 					</li>
 				<% }; %>
 			<% }; %>
