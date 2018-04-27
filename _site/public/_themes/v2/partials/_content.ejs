@@ -1,11 +1,36 @@
+<%# Because for some reason compiler won't render current.path[0] as it does before compiling
+the variable set below will o the work %>
+<% var section; %>
+<% switch (current.path[0]) {
+	case 'winespectator':
+		section = 'winespectator';
+		break;
+	case 'whiskyadvocate':
+		section = 'whiskyadvocate';
+		break;
+	case 'cigaraficionado':
+		section = 'cigaraficionado';
+		break;
+	case 'marketwatch':
+		section = 'marketwatch';
+		break;
+	case 'impact':
+		section = 'impact';
+		break;
+	case 'shankennewsdaily':
+		section = 'shankennewsdaily';
+		break;
+	default:
+		section = 'events';
+}; %>
+
 <section class="dzsparallaxer auto-init height-is-based-on-content use-loading" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
   <!-- Parallax Image -->
-  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%= public[current.path[0]]._data.imagebg %>'"></div>
+  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%- public[section]._data.imagebg %>')"></div>
   <!-- End Parallax Image -->
 
   <div class="container text-center g-color-white g-py-200--md g-py-80">
-    <!-- <h1 class="text-hide" style="background-image: url('<%= public[current.path[0]]._data.imagelg %>'); height: 100px;"><%= public[current.path[0]]._data.title %></h1> -->
-    <img src="<%= public[current.path[0]]._data.imagelg %>" alt="" class="img-fluid" style="max-width: 50%;">
+    <img src="<%- public[section]._data.imagelg %>" alt="" class="img-fluid" style="max-width: 50%;">
   </div>
 </section>
 <section id="magazines" class="bg-light">	
