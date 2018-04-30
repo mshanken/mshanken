@@ -4,4 +4,4 @@ Through every issue, and online, our editors provide unique insights and educate
 
 <hr class="g-width-30x g-brd-primary">
 
-<a href="url" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>
+<a href="/images/pdf/WSMediaKit_2018.pdf" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>
