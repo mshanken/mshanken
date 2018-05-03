@@ -24,9 +24,9 @@ the variable set below will o the work %>
 		section = 'events';
 }; %>
 
-<section class="dzsparallaxer auto-init height-is-based-on-content use-loading" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
+<section class="dzsparallaxer height-is-based-on-content">
   <!-- Parallax Image -->
-  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%- public[section]._data.imagebg %>')"></div>
+  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%- public[section]._data.imagebg %>'); background-position: 0 -100px;"></div>
   <!-- End Parallax Image -->
 
   <div class="container text-center g-color-white g-py-200--md g-py-80">
