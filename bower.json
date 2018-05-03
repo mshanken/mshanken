@@ -21,6 +21,6 @@
   "dependencies": {
     "html5shiv": "~3.7.3",
     "respond": "~1.4.2",
-    "bootstrap": "v4.0.0-alpha.6"
+    "bootstrap": "~v4.1.0"
   }
 }

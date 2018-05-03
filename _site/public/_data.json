@@ -11,6 +11,9 @@
 		"market watch": "marketwatch",
 		"impact": "impact",
 		"shanken news daily": "shankennewsdaily"
+	},
+	"sitemap": {
+		"layout": false
 	}
 
 }
