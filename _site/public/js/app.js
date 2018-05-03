@@ -3,8 +3,6 @@
 
   // initialization of scroll animation
   $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
-  // initialization of popups
-  $.HSCore.components.HSPopup.init('.js-fancybox');
   
 })($);
 

@@ -1,36 +1,38 @@
 <%# Because for some reason compiler won't render current.path[0] as it does before compiling
 the variable set below will o the work %>
-<% var section; %>
+<% var section, newimgwidth; %>
 <% switch (current.path[0]) {
 	case 'winespectator':
 		section = 'winespectator';
+		newimgwidth = '50%';
 		break;
 	case 'whiskyadvocate':
 		section = 'whiskyadvocate';
+		newimgwidth = '40%';
 		break;
 	case 'cigaraficionado':
 		section = 'cigaraficionado';
+		newimgwidth = '50%';
 		break;
 	case 'marketwatch':
 		section = 'marketwatch';
+		newimgwidth = '50%';
 		break;
 	case 'impact':
 		section = 'impact';
+		newimgwidth = '50%';
 		break;
 	case 'shankennewsdaily':
 		section = 'shankennewsdaily';
+		newimgwidth = '40%';
 		break;
 	default:
 		section = 'events';
 }; %>
 
-<section class="dzsparallaxer height-is-based-on-content">
-  <!-- Parallax Image -->
-  <div class="divimage dzsparallaxer--target w-100" style="height: 140%; background-image: url('<%- public[section]._data.imagebg %>'); background-position: 0 -100px;"></div>
-  <!-- End Parallax Image -->
-
-  <div class="container text-center g-color-white g-py-200--md g-py-80">
-    <img src="<%- public[section]._data.imagelg %>" alt="" class="img-fluid" style="max-width: 50%;">
+<section class="height-is-based-on-content g-mt-60 g-mt-100--md">
+  <div class="text-center u-bg-overlay g-bg-black-opacity-0_3--after g-bg-img-hero g-py-200--md g-py-80" style="background-image: url('<%- public[section]._data.imagebg %>');">
+  	<img src="<%- public[section]._data.imagelg %>" alt="" class="img-fluid g-mx-auto" style="max-width: <%- newimgwidth %>;">
   </div>
 </section>
 <section id="magazines" class="bg-light">	
