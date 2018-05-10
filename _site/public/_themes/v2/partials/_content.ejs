@@ -43,9 +43,11 @@ the variable set below will o the work %>
 	</div>
 </section>
 <main class="container g-py-40">
-	<div class="row" data-animation="fadeIn data-animation-delay="0" data-animation-duration="1000"> 
+	<div class="row" data-animation="fadeIn data-animation-delay="0" data-animation-duration="1000">
 		<article id="article" class="article col-md-8 g-pb-40 g-pb-0--md text-center text-md-left g-font-size-20" role="main-article">
-			<%- yield %>
+			<div class="g-ml-40--md">
+				<%- yield %>
+			</div>
 		</article>
 
 		<aside id="aside" class="aside col-md-4 order-md-first text-center text-md-left" role="sidebar">
