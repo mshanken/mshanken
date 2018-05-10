@@ -47,7 +47,28 @@
 				'</div>' +
 				'</div>' +
 				'</div>',
-			animationEffect: 'fade'
+			animationEffect: 'fade',
+			/**
+			 * Added by EL
+			 * @type {Object}
+			 */
+			media: {
+				brightcove : {
+		            params  : {
+		                autoplay : 1,
+		                autohide : 1,
+		                fs  : 1,
+		                rel : 0,
+		                hd  : 1,
+		                wmode : 'transparent',
+		                enablejsapi : 1,
+		                html5 : 1
+		            },
+		            matcher: /^.+brightcove.net\/([\d]+)([\w\.\?\/]+)(=[\d]+)/,
+		            type    : 'iframe',
+		            url     : '//players.brightcove.net/$1$2$3'
+		        }
+		    }
 		},
 
 		/**
