@@ -1,0 +1,66 @@
+<%# Because for some reason compiler won't render current.path[0] as it does before compiling
+the variable set below will o the work %>
+<% var section, newimgwidth; %>
+<% switch (current.path[0]) {
+	case 'winespectator':
+		section = 'winespectator';
+		newimgwidth = '50%';
+		break;
+	case 'whiskyadvocate':
+		section = 'whiskyadvocate';
+		newimgwidth = '40%';
+		break;
+	case 'cigaraficionado':
+		section = 'cigaraficionado';
+		newimgwidth = '50%';
+		break;
+	case 'marketwatch':
+		section = 'marketwatch';
+		newimgwidth = '50%';
+		break;
+	case 'impact':
+		section = 'impact';
+		newimgwidth = '50%';
+		break;
+	case 'shankennewsdaily':
+		section = 'shankennewsdaily';
+		newimgwidth = '40%';
+		break;
+	default:
+		section = 'events';
+}; %>
+
+<section class="height-is-based-on-content g-mt-60 g-mt-100--md">
+  <div class="text-center u-bg-overlay g-bg-black-opacity-0_3--after g-bg-img-hero g-py-200--md g-py-80" style="background-image: url('<%- public[section]._data.imagebg %>');">
+  	<img src="<%- public[section]._data.imagelg %>" alt="" class="img-fluid g-mx-auto" style="max-width: <%- newimgwidth %>;">
+  </div>
+</section>
+<section id="magazines" class="bg-light">	
+	<div class="container g-py-40">
+		<div class="row justify-content-center">
+			<%- partial("../../../" + current.path[0] +"/_magazines") %>
+		</div>
+	</div>
+</section>
+<main class="container g-py-40">
+	<div class="row" data-animation="fadeIn data-animation-delay="0" data-animation-duration="1000">
+		<article id="article" class="article col-md-8 g-pb-40 g-pb-0--md text-center text-md-left g-font-size-20" role="main-article">
+			<div class="g-ml-40--md">
+				<%- yield %>
+			</div>
+		</article>
+
+		<aside id="aside" class="aside col-md-4 order-md-first text-center text-md-left" role="sidebar">
+			<%- partial("../../../" + current.path[0] +"/_access") %>
+		</aside>           
+	</div>
+</main>
+<section id="contact" class="bg-primary py-3">
+	<div class="container text-white g-py-40">
+		<h2 class="text-center g-pb-40">CONTACT</h2>
+		<div class="row">
+			<%- partial("../../../" + current.path[0] +"/_contact") %>
+		</div>
+	</div>
+</section>
+

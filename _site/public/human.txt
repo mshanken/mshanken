@@ -1,0 +1,35 @@
+# http://humanstxt.org/
+/* TEAM */
+
+                            
+Your title: Sr. Web producer
+
+                            
+Site: dev@mshanken.com.
+
+                            
+Twitter: @mshanken.com.
+
+                            
+Location: NY, USA.
+
+							
+/* THANKS */
+
+							
+Name: http://www.mshanken.com/
+
+                            
+/* SITE */
+
+                            
+Last update: 2018/05/10 
+
+                            
+Standards: HTML5, CSS3, JS
+
+                            
+Components: Modernizr, jQuery, Bootstrap, FancyBox, DZParallaxer. FontAwesome, Hamburgers.
+
+                            
+Software: HarpJS, Docker, NodeJS, Grunt, Git

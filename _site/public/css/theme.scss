@@ -1,0 +1,184 @@
+/*!
+ * Bootstrap v3.3.6 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "_bootstrap/scss/functions";
+@import "custom";
+@import "_bootstrap/scss/bootstrap";
+@import "_scss/unify";
+// $fa-font-path:   "/fonts";
+// @import "_FontAwesome/web-fonts-with-css/scss/fontawesome";
+
+//
+// Custom style starts here
+// --------------------------------------------------
+h2{ letter-spacing: 0.1em; line-height: 1.1em; }
+#aside h2{ margin-bottom: 30px; }
+#aside ul{ margin-top: 30px; }
+header h4{ margin-bottom: 0; font-weight: 700; }
+h5{ font-weight: 700; margin-bottom: 0.2rem; }
+#whatwedeliver p{ letter-spacing: 0.1em; font-weight: 500; font-size: 16px; }
+#article p{ line-height: 1.4em; }
+#brands a.g-brd-primary:hover { border-color: #fff !important; }
+#carousel, .dzsparallaxer{ margin-top: 53px; }
+#contact a{ color: white; }
+.carousel-caption {
+    position: absolute;
+    right: 0%;
+    bottom: 0px;
+    left: 0%;
+    z-index: 10;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    text-align: left;
+}
+.carousel-caption h5, .carousel-caption p { margin-left: 12px; margin-right: 12px; }
+.navbar .u-main-nav-v3 .nav-link {
+    padding: 1rem 2.57143rem;
+}
+.navbar .u-main-nav-v3 .nav-link:hover{
+	border-color: #ffffff !important;
+}
+@include media-breakpoint-up(md) {
+	#whatwedeliver p{ }
+	hr {
+    	-webkit-margin-start: 0;
+	}
+	#carousel, .dzsparallaxer{ margin-top: 110px; }
+}
+/* Absolute Center Spinner */
+.loading {
+  position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: show;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+/* Transparent Overlay */
+.loading:before {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255,255,255,0.95);
+}
+
+/* :not(:required) hides these rules from IE9 and below */
+.loading:not(:required) {
+  /* hide "loading..." text */
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+
+.loading:not(:required):after {
+  content: '';
+  display: block;
+  font-size: 10px;
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  -webkit-animation: spinner 1500ms infinite linear;
+  -moz-animation: spinner 1500ms infinite linear;
+  -ms-animation: spinner 1500ms infinite linear;
+  -o-animation: spinner 1500ms infinite linear;
+  animation: spinner 1500ms infinite linear;
+  border-radius: 0.5em;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0, rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0, rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.5) -1.5em 0 0 0, rgba(0, 0, 0, 0.5) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0, rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+  box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0, rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0, rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) -1.5em 0 0 0, rgba(0, 0, 0, 0.75) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0, rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+}
+
+/* Animation */
+
+@-webkit-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-o-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+/* handle when no js */
+.no-js .loading, .no-js .loading:before {
+  display: none;
+}
+.no-js [data-animation]:not(.u-in-viewport), .no-js .dzsparallaxer.use-loading .dzsparallaxer--target {
+    visibility: visible;
+}
+.no-js .dzsparallaxer.use-loading .dzsparallaxer--target{
+	opacity: 1;
+}

@@ -1,26 +1,5 @@
-# Overview
----
+Whisky Advocate is the informative voice that speaks to its passionate consumer audience about the intelligent, responsible, and joyful consumption of the world’s finest whiskies. Whisky Advocate inspires whisky overs from around world, by delivering top sourced information, education, and entertainment.
 
-## Thank you
----
+<hr class="g-width-30x g-brd-primary g-my-40">
 
-Thank you for your interest in *Whisky Advocate* magazine. Enclosed
-please find the 2017 media kit with complete advertising information.
-
-Published quarterly, *Whisky Advocate* is the world’s top source of
-whisky information, education, and entertainment, informed by the
-lively words of the world’s best whisky writers.
-
-We offer a variety of advertising and promotional options to
-position your brand in front of our unique audience of upscale
-whisky enthusiasts and members of the trade. These outlets include
-advertising in *Whisky Advocate* magazine, exhibiting at WhiskyFest
-events, and promoting your business online.
-
-We look forward to working with you to get your product exposure
-to this valuable targeted audience.
-
-Sincerely,<br />
-Michael McGoldrick<br />
-Director of Advertising<br />
-<a href="mailto:mmcgoldrick@mshanken.com" target="_blank">mmcgoldrick@mshanken.com</a>
+<a href="/images/pdf/WAMediaKit_2018.pdf" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>

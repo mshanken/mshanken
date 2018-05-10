@@ -1,52 +1,40 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<%- partial("_themes/default/_head") %>
-    <!-- Google Analytics -->
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '<%- analytics %>', 'mshanken.com');
-        ga('send', {"hitType":"pageview","page":"<%- current.source %>", "section":"<%- current.path[0] %>"});
-    </script>
-    <!-- End Google Analytics -->
-</head>
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+	<head>
+		<%- partial("_themes/v2/partials/_headingtags") %>
+		<%- partial("_themes/v2/partials/_styles") %>
+	    <% if (ga) { %>
+	    	<%- partial("_themes/v2/partials/_ga") %>
+	    <% 	} %>
+	
+		<!--[if lt IE 9]>
+	      <script src="/js/vendor/html5shiv.js"></script>
+	      <script src="/js/vendor/respond.src.js"></script>
+	    <![endif]-->
+		<script src="/js/vendor/modernizr.js"></script>
+		
+	</head>
 	
 <body>
 	
-	<div id="wrapperBox" class="addclear">
-	&nbsp;
-		<div id="heading">
-
-			<table id="header" width="736" border="0" cellspacing="0" cellpadding="0">
-			<%- partial("_themes/default/_header") %>
-			<%- partial("_themes/default/_navbar") %>
-			<% if ( current.path[0] !== "index"  && current.source !== "contact"  && current.source !== "privatepolicy"  && current.source !== "404" ) { %>
-				<%- partial("_themes/default/_menu") %>
-				<%- partial("_themes/default/_subnavbar") %>
-			<% } %>
-			</table>
-
-		</div>
-
-		<div id="contentWrapper">
-			<% if ( current.path[0] === "index"  || current.source === "contact"  || current.source === "privatepolicy"  || current.source === "404" ) { %>
-	      		<div class="oneColumnContent">
-	      			<%- yield %>
-	      		</div>
-      		<% } else  { %>
-      			<%- partial(current.path[0] + "/_contentbody", { yield: yield }) %>
-      		<% } %>
-      	</div>
-
-      	<%- partial("_themes/default/_footer") %>
-    &nbsp;
-	</div>
-	<script language="javascript" type="text/javascript" src="/js/rollovers.js"></script>
-	<script language="javascript" type="text/javascript" src="/js/ws-adplace.js"></script>
+	<div class="loading">Loading&#8230;</div>
+	<%- partial("_themes/v2/_navbar") %><!-- #header -->
+	
+	<% if ( current.path[0] === "index"  || current.path[0] === "events"  || current.source === "404" ) { %>
+	    <%- yield %>
+	<% } else  { %>
+		<%- partial("_themes/v2/partials/_content", { yield: yield }) %>
+    <% } %>
+	
+	<footer id="footer" role="footer" class="g-brd-top g-brd-primary">
+		<%- partial("_themes/v2/_footer") %>
+	</footer>
+    
+    <%- partial("_themes/v2/partials/_scripts") %>
+    
 </body>
 </html>
     	

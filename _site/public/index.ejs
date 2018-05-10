@@ -1,90 +1,93 @@
+	<section id="carousel">
+		<%- partial("_homepage/carousel") %>
+	</section>
 
+	<section id="brands" class="bg-primary">
+		<div class="container g-py-40">
+			<div class="row">
+				<div class="col-12 text-white text-center">
+					<%- partial("_homepage/brands") %>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-6 col-md-4 text-center">
+					<a href="winespectator" class="btn g-brd-around g-brd-primary"><img src="images/WSLogo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="col-6 col-md-4 text-center">
+					<a href="whiskyadvocate" class="btn g-brd-around g-brd-primary"><img src="images/WALogo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="col-6 col-md-4 text-center">
+					<a href="cigaraficionado" class="btn g-brd-around g-brd-primary"><img src="images/CALogo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="col-6 col-md-4 text-center">
+					<a href="marketwatch" class="btn g-brd-around g-brd-primary"><img src="images/MWLogo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="col-6 col-md-4 text-center">
+					<a href="impact" class="btn g-brd-around g-brd-primary"><img src="images/IMPLogo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="col-6 col-md-4 text-center">
+					<a href="shankennewsdaily" class="btn g-brd-around g-brd-primary"><img src="images/SNDLogo.png" alt="" class="img-fluid"></a>
+				</div>
+			</div>
+		</div>
+	</section>
 
-    <div class="oneColumnContent">
-    	<div class="container">
-			<div class="image-slider-wrapper">
-				<ul id="image_slider">
-					<% for(var i in public.images.mshslider._contents){ %>
-					  <% var image = public.images.mshslider._contents[i] %>
-					  <li><img src="/images/mshslider/<%= image %>" /></li>
-					<% } %>
-				</ul><!-- End: #image_slider -->
-			</div><!-- End: .image-slider-wrapper -->
-		</div><!-- End: .container -->
-    </div>
+	<section id="whatwedeliver" class="bg-light">
+		<div class="container g-py-40">
+			<div class="row">
+				<div class="col-12 text-center">
+					<h2>WHAT WE DELIVER</h2><!-- UNIQUE OFFERINGS AND CAPABILITIES -->
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-10 col-lg-8">
+					<div class="row g-my-40 g-my-50--md">
+						<%- partial("_homepage/wwd-01") %>
+						<%- partial("_homepage/wwd-02") %>
+					</div>
+					<div class="row g-my-40 g-my-50--md">
+						<%- partial("_homepage/wwd-03") %>
+						<%- partial("_homepage/wwd-04") %>
+					</div>
+					<div class="row g-my-40 g-my-50--md">
+						<%- partial("_homepage/wwd-05") %>
+						<%- partial("_homepage/wwd-06") %>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12 text-center">
+					<a href="#" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10 js-fancybox" data-src="//players.brightcove.net/934995283/default_default/index.html?videoId=5783169274001" href="javascript:;">WATCH OUR VIDEO</a>
+				</div>
+			</div>
+		</div>
+	</section>
 
-
-<script type="text/javascript">
-var ul,
-	li_items,
-	li_number,
-	image_number = 0,
-	slider_width = 0,
-	image_width,
-	current = 0;
-function init(){	
-	ul = document.getElementById('image_slider');
-	li_items = ul.children;
-	li_number = li_items.length;
-	for (i = 0; i < li_number; i++){
-		// nodeType == 1 means the node is an element.
-		// in this way it's a cross-browser way.
-		//if (li_items[i].nodeType == 1){
-			//clietWidth and width???
-			image_width = li_items[i].childNodes[0].clientWidth;
-			slider_width += image_width;
-			image_number++;
-	}
+	<section id="others" class="g-my-20 g-my-40--md">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<a href="/events" class="card bg-light g-my-10 g-my-0--md">
+					  <div class="card-body g-my-50--md g-my-100--lg">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Charitable Events</h5>
+					  </div>
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="http://shankencreativegroup.com/" target="_blank" class="card bg-light g-my-10 g-my-0--md">
+					  <div class="card-body  g-my-50--md g-my-90--lg g-my-100--xl">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Shanken Creative Group</h5>
+					  </div>
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="http://shankensocial.com/" target="_blank" class="card bg-light g-my-10 g-my-0--md">
+					  <div class="card-body  g-my-60--md g-my-100--lg">
+					    <h5 class="card-title text-center mb-0 text-uppercase">Shanken Social</h5>
+					  </div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
 	
-	ul.style.width = parseInt(slider_width) + 'px';
-	slider(ul);
-}
-
-function slider(){		
-		animate({
-			delay:17,
-			duration: 3000,
-			delta:function(p){return Math.max(0, -1 + 2 * p)},
-			step:function(delta){
-					ul.style.left = '-' + parseInt(current * image_width + delta * image_width) + 'px';
-				},
-			callback:function(){
-				current++;
-				if(current < li_number-1){
-					slider();
-				}
-				else{
-					var left = (li_number - 1) * image_width;					
-					setTimeout(function(){goBack(left)},2000); 				
-					setTimeout(slider, 4000);
-				}
-			}
-		});
-}
-function goBack(left_limits){
-	current = 0;	
-	setInterval(function(){
-		if(left_limits >= 0){
-			ul.style.left = '-' + parseInt(left_limits) + 'px';
-			left_limits -= image_width;
-		}	
-	}, 17);
-}
-function animate(opts){
-	var start = new Date;
-	var id = setInterval(function(){
-		var timePassed = new Date - start;
-		var progress = timePassed / opts.duration
-		if(progress > 1){
-			progress = 1;
-		}
-		var delta = opts.delta(progress);
-		opts.step(delta);
-		if (progress == 1){
-			clearInterval(id);
-			opts.callback();
-		}
-	}, opts.dalay || 17);
-}
-window.onload = init;
-</script>

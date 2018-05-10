@@ -1,28 +1,14 @@
-# OVERVIEW
----
+Published 16x a year, IMPACT is recognized worldwide as the Number One source for data, trends, and analysis. Impact delivers exclusive data and news to industry subscribers.
 
-Dear Advertiser,
+ 
 
-Many thanks for your interest in *Impact*.
+## CONTENT INCLUDES:
 
-Please see the media kit with the complete advertising information.
+- Ranking and analysis of many suppliers, brands and distributors 
+- Coverage of global markets and trends
+- Interviews with key industry executives
+- The latest news on global spirits, wine, and beer
 
-Published 16 times per year, *Impact* is written for the top decision-makers, who turn to this publication as the number one source for all the information they need to manage their business.
+<hr class="g-width-30x g-brd-primary g-my-40">
 
-The best magazine in its field, in every issue *Impact* offers timely, accurate intelligence and data on trends in the worldwide drinks market including:
-
-- Exclusive interviews with key industry executives
-- News from around the world
-- Significant business developments
-- Coverage of all major product introductions
-- Exclusive interviews with key industry executives
-- Exclusive data on companies, categories and brands
-
-Readers of *Impact* are top executives who control the distribution and sales of spirits, wine and beer throughout the world, covering both duty-paid and
-duty-free markets. Read in more than 50 countries, *Impact boasts* a readership of 25,000.
-
-No other publication has such reach and influence. *Impact* puts you in touch with the decision makers who can influence your spirits, wine and beer business. 
-*Impact* immediately positions your brand as an important worldwide player, expanding your market position while reinforcing the brand's image.
-
-For more information, or to place advertisements, call me Stephen Senatore (Advertising Director), at (212) 684-4224 ext. 668; or email 
-<a href="mailto:ssenatore@mshanken.com">**ssenatore@mshanken.com**</a>
+<a href="/images/pdf/IMPMediaKit_2018.pdf" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>
