@@ -54,8 +54,8 @@ module.exports = function(grunt) {
     'copy:ghpages'
   ]);
   grunt.registerTask('start', [
-    'bower',
-    'frep',
+    'bower'
+    // 'frep', no longer need as BS is used in hidden folder
   ]);
   grunt.registerTask('lint', [
     'jscs',
