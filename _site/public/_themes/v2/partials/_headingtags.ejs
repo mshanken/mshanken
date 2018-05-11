@@ -47,4 +47,117 @@
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
         
         <title><%- title %></title>
+
+        <script type="application/ld+json">
+        { "@context" : "http://schema.org",
+          "@type" : "Organization",
+          "name" : "M. Shanken Communications, Inc.",
+          "url" : "<%- url %>",
+          "location" : {
+            "@type": "Place",
+            "name": "<%- url %>",
+            "address" : {
+              "@type": "PostalAddress",
+              "streetAddress": "825 Eighth Ave., 33rd Fl.",
+              "addressLocality":"New York",
+              "addressRegion":"NY",
+              "postalCode":"10019",
+              "addressCountry":"US"
+              }
+           },
+          "logo" : "<%- url %>/images/MSC-logo.png",
+          "member": [
+            {
+              "@type": "Organization",
+              "name" : "Wine Spectator",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-4224",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-5147",
+                  "contactType" : "PRODUCTION"
+                } , {
+                  "@type" : "ContactPoint",
+                  "contactType" : "CUSTOM MEDIA",
+                  "email" : "shankencreativegroup@mshanken.com"
+                }]
+            },
+            {
+              "@type": "Organization",
+              "name" : "Whisky Advocate",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-4987",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-5147",
+                  "contactType" : "PRODUCTION"
+                } , {
+                  "@type" : "ContactPoint",
+                  "contactType" : "CUSTOM MEDIA",
+                  "email" : "shankencreativegroup@mshanken.com"
+                }]
+            },
+            {
+              "@type": "Organization",
+              "name" : "Cigar Aficionado",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-4896",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-684-5147",
+                  "contactType" : "PRODUCTION"
+                } , {
+                  "@type" : "ContactPoint",
+                  "contactType" : "CUSTOM MEDIA",
+                  "email" : "shankencreativegroup@mshanken.com"
+                }]
+            },
+            {
+              "@type": "Organization",
+              "name" : "Market Watch",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-686-4847 x668",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-686-4847 x668",
+                  "contactType" : "PRODUCTION"
+                }]
+            },
+            {
+              "@type": "Organization",
+              "name" : "Impact",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-686-4847 x668",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-481-8610 x 335",
+                  "contactType" : "PRODUCTION"
+                }]
+            },
+            {
+              "@type": "Organization",
+              "name" : "Shanken News Daily",
+              "contactPoint" : [
+                { "@type" : "ContactPoint",
+                  "telephone" : "+1-212-686-4847 x668",
+                  "contactType" : "ADVERTISING",
+                } , {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+1-212-481-8610 x 335",
+                  "contactType" : "PRODUCTION"
+                }]
+            }
+          ]
+        }
+        </script> 
         <!-- Place favicon.ico in the root directory -->
