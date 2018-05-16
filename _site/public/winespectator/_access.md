@@ -10,6 +10,8 @@
 
 **[E-Newsletters](http://www.winespectator.com/newsletters)**
 
+**[Print and Digital Specs](/images/pdf/Specs.pdf)**
+
 <ul class="u-list-inline">
     <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
