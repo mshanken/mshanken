@@ -8,6 +8,8 @@
 
 **[E-Newsletters](http://newsletters.cigaraficionado.com/)**
 
+**[Print and Digital Specs](/images/pdf/CA_Specs.pdf)**
+
 <ul class="u-list-inline">
     <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
