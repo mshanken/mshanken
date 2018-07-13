@@ -9,16 +9,16 @@
 **[E-Newsletters](http://newsletters.whiskyadvocate.com/)**
 
 <ul class="u-list-inline">
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    <li class="list-inline-item mr-0"><a href="https://www.facebook.com/whiskyadvocate"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-    </span>](https://www.facebook.com/whiskyadvocate)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://twitter.com/whiskyadvocate"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-    </span>](https://twitter.com/whiskyadvocate)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://www.instagram.com/whiskyadvocate/"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-    </span>](https://www.instagram.com/whiskyadvocate/)</li>
+    </span></a></li>
 </ul>
