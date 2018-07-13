@@ -11,16 +11,16 @@
 **[Print and Digital Specs](/images/pdf/CA_Specs.pdf)**
 
 <ul class="u-list-inline">
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    <li class="list-inline-item mr-0"><a href="https://www.facebook.com/CigarAficionado"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-    </span>](https://www.facebook.com/CigarAficionado)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://twitter.com/CigarAficMag"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-    </span>](https://twitter.com/CigarAficMag)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://www.instagram.com/cigaraficmag/"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-    </span>](https://www.instagram.com/cigaraficmag/)</li>
+    </span></a></li>
 </ul>

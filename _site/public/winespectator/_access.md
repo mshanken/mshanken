@@ -13,16 +13,16 @@
 **[Print and Digital Specs](/images/pdf/WS_Specs.pdf)**
 
 <ul class="u-list-inline">
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    <li class="list-inline-item mr-0"><a href="https://www.facebook.com/WineSpectator"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-    </span>](https://www.facebook.com/WineSpectator)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://twitter.com/WineSpectator"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-    </span>](https://twitter.com/WineSpectator)</li>
-    <li class="list-inline-item mr-0">[<span class="fa-stack fa-lg">
+    </span></a></li>
+    <li class="list-inline-item mr-0"><a href="https://www.instagram.com/wine_spectator/"><span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-    </span>](https://www.instagram.com/wine_spectator/)</li>
+    </span></a></li>
 </ul>
