@@ -4,10 +4,10 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
 	<head>
-		<%- partial("_themes/v2/partials/_headingtags") %>
-		<%- partial("_themes/v2/partials/_styles") %>
+		<%- partial("_themes/default/partials/_headingtags") %>
+		<%- partial("_themes/default/partials/_styles") %>
 	    <% if (ga) { %>
-	    	<%- partial("_themes/v2/partials/_ga") %>
+	    	<%- partial("_themes/default/partials/_ga") %>
 	    <% 	} %>
 	
 		<!--[if lt IE 9]>
@@ -21,19 +21,19 @@
 <body>
 	
 	<div class="loading">Loading&#8230;</div>
-	<%- partial("_themes/v2/_navbar") %><!-- #header -->
+	<%- partial("_themes/default/_navbar") %><!-- #header -->
 	
 	<% if ( current.path[0] === "index"  || current.path[0] === "events"  || current.source === "404" ) { %>
 	    <%- yield %>
 	<% } else  { %>
-		<%- partial("_themes/v2/partials/_content", { yield: yield }) %>
+		<%- partial("_themes/default/partials/_content", { yield: yield }) %>
     <% } %>
 	
 	<footer id="footer" role="footer" class="g-brd-top g-brd-primary">
-		<%- partial("_themes/v2/_footer") %>
+		<%- partial("_themes/default/_footer") %>
 	</footer>
     
-    <%- partial("_themes/v2/partials/_scripts") %>
+    <%- partial("_themes/default/partials/_scripts") %>
     
 </body>
 </html>
