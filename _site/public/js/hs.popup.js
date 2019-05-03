@@ -81,7 +81,7 @@
 		            },
 		            matcher: /(^.+jwplatform.com\/players\/)([\d\w]+)(-)([\d\w]+)(.html)/,
 		            type    : 'iframe',
-		            url     : '//content.jwplatform.com/players/$2-$4$5'
+		            url     : 'https://jwp.io/s/eAO1zyxk'
 		        }
 		    }
 		},
