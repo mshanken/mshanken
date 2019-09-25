@@ -10,7 +10,7 @@
 
 **[E-Newsletters](http://www.winespectator.com/newsletters)**
 
-**[Print and Digital Specs](/images/pdf/WS_Specs.pdf?v=v1)**
+**[Print and Digital Specs](/images/pdf/WS_Specs-2019.pdf?v=v1)**
 
 <ul class="u-list-inline">
     <li class="list-inline-item mr-0"><a href="https://www.facebook.com/WineSpectator"><span class="fa-stack fa-lg">
