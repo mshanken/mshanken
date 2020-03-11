@@ -2,4 +2,4 @@ Whisky Advocate is the informative voice that speaks to its passionate consumer 
 
 <hr class="g-width-30x g-brd-primary g-my-40">
 
-<a href="/images/pdf/WAMediaKit_2019.pdf?v=v1" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>
+<a href="/images/pdf/WAMediaKit_2020.pdf?v=v1" class="btn btn-md u-btn-outline-primary g-brd-2 g-rounded-10">DOWNLOAD OUR MEDIA KIT</a>
