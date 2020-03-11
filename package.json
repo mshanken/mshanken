@@ -7,19 +7,15 @@
     {
       "name": "Edison A. Leon",
       "email": "eleon@mshanken.com"
-    },
-    {
-      "name": "Your Name",
-      "email": "your@email.com"
     }
   ],
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mshanken/mshankenstartkit/"
+    "url": "https://github.com/mshanken/mshanken/"
   },
   "bugs": {
-    "url": "https://github.com/mshanken/mshankenstartkit/issues"
+    "url": "https://github.com/mshanken/mshanken/issues"
   },
   "scripts": {
     "start": "npm run jquery && npm run modernizr && grunt start && npm run server",
@@ -36,26 +32,29 @@
   },
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "html5shiv": "^3.7.3",
+    "jay-respond": "^1.4.3",
     "jquery": "^3.1.0",
     "jquery-builder": "^0.7.0",
     "modernizr": "^3.7.1"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "browser-sync": "^2.26.7",
+    "grunt": "^1.0.4",
     "grunt-bower": "^0.20.0",
     "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-concat": "^0.4.0",
     "grunt-contrib-copy": "^0.5.0",
     "grunt-contrib-csslint": "^0.2.0",
-    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^0.2.0",
-    "grunt-contrib-imagemin": "^0.7.2",
-    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-less": "^1.2.0",
     "grunt-contrib-rename": "0.0.3",
     "grunt-contrib-uglify": "^0.11.0",
-    "grunt-frep": "^0.1.2",
-    "grunt-jscs": "^2.6.0",
+    "grunt-jscs": "^3.0.1",
     "grunt-rev": "^0.1.0",
     "grunt-usemin": "^3.1.1",
     "load-grunt-configs": "^0.4.3",
