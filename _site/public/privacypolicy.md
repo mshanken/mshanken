@@ -1,4 +1,4 @@
-## M. Shanken Communications Privacy Policy
+## Privacy Policy
 Wine Spectator, Whisky Advocate and Cigar Aficionado are published by M. Shanken Communications. This privacy policy covers our websites (WineSpectator.com, WhiskyAdvocate.com and CigarAficionado.com), email newsletters, as well as other digital products, including apps.
 
 Our postal address is:<br>
