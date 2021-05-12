@@ -1,6 +1,6 @@
 ## GET ACCESS TO THE WORLD OF WHISKY ADVOCATE
 
-**[WhiskeyAdvocate.com](http://whiskyadvocate.com/)**
+**[WhiskyAdvocate.com](http://whiskyadvocate.com/)**
 
 **[Subscribe](https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&cds_mag_code=MAV&id=1520867866036&lsid=80711017460028442&vid=1)**
 
