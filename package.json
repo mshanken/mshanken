@@ -37,10 +37,10 @@
     "html5shiv": "^3.7.3",
     "jay-respond": "^1.4.3",
     "jquery": "^3.5.0",
-    "modernizr": "^3.11.2"
+    "modernizr": "^3.7.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^0.9.1",
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^1.0.1",
@@ -48,7 +48,7 @@
     "grunt-contrib-csslint": "^2.0.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
-    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-jshint": "^3.1.1",
     "grunt-contrib-rename": "^0.2.0",
     "grunt-contrib-uglify": "^0.11.0",
     "load-grunt-configs": "^1.0.0",
