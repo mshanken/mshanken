@@ -37,10 +37,10 @@
     "html5shiv": "^3.7.3",
     "jay-respond": "^1.4.3",
     "jquery": "^3.5.0",
-    "modernizr": "^3.7.0"
+    "modernizr": "^3.11.8"
   },
   "devDependencies": {
-    "browser-sync": "^0.9.1",
+    "browser-sync": "^2.27.7",
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^1.0.1",
