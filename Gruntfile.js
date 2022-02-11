@@ -5,7 +5,7 @@ module.exports = function(grunt) {
 
   var options = {
     config : {
-      src: 'grunt-tasks/*.js',
+      src: ['grunt-tasks/uglify.js', 'grunt-tasks/copy.js', 'grunt-tasks/concat.js'],
       pkg: grunt.file.readJSON('package.json'),
       replacements: require('./grunt-tasks/replacements'), // Regex for refactor task.
       dev: {
@@ -25,15 +25,11 @@ module.exports = function(grunt) {
     }
   };
 
-  // load all grunt tasks
-  // require('load-grunt-tasks')(grunt,{pattern: ['grunt-*', 'assemble']},{scope: 'devDependencies'});
   // Load grunt configurations automatically
   var configs = require('load-grunt-configs')(grunt, options);
   
   grunt.initConfig(configs);
 
-  // grunt.registerTask('build', ['concat','uglify','less']);
-  // grunt.registerTask('default', ['bower', 'jquery']);
   grunt.registerTask('server', [
     'harp:server'
   ]);
@@ -41,35 +37,10 @@ module.exports = function(grunt) {
     'harp:staticserver'
   ]);
   grunt.registerTask('compile', [
-    // 'harp:dist',
-    // 'concat',
     'uglify'
   ]);
   grunt.registerTask('gh-pages', [
-    // 'harp:dist',
-    // 'concat',
     'uglify',
-    'htmlmin',
-    // 'cssmin',
     'copy:ghpages'
-  ]);
-  grunt.registerTask('start', [
-    'bower'
-    // 'frep', no longer need as BS is used in hidden folder
-  ]);
-  grunt.registerTask('lint', [
-    'jscs',
-    'jshint',
-    'csslint'
-  ]);
-  grunt.registerTask('min', [
-    'useminPrepare',
-    // 'imagemin',
-    'htmlmin',
-    'cssmin',
-    'concat',
-    'uglify',
-    'rev',
-    'usemin'
   ]);
 };
