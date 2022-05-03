@@ -2,7 +2,7 @@
 
 **[WineSpectator.com](http://winespectator.com/)**
 
-**[Subscribe](https://sub.winespectator.com/pubs/M5/WNE/WSSubTop1002013.jsp?cds_page_id=146739&cds_mag_code=WNE&id=1520866961679&lsid=80711002279047437&vid=2&cds_response_key=I4LGGAD)**
+**[Subscribe](https://sub.winespectator.com/pubs/M5/WNE/Subscribe-button-monthly.jsp?cds_page_id=261249&cds_mag_code=WNE&id=1651596418115&lsid=21231146581083747&vid=1)**
 
 **[Grand Tours](http://grandtour.winespectator.com/)**
 
