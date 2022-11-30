@@ -7,7 +7,7 @@
   @if ($n == !important) {
     @return !important
   } @else {
-    $rem-size: $n / 14px;
+    $rem-size: calc($n / 14px);
     @return #{$rem-size}rem;
   }
 }

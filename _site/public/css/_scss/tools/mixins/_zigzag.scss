@@ -21,9 +21,9 @@
       display: block;
       height: $zigzag-size;
       @if ($zigzag-position == top) {
-        background: -webkit-linear-gradient(-225deg, $zigzag-bg-color $zigzag-size/2, transparent 0) 0 $zigzag-size/2, -webkit-linear-gradient(-315deg, $zigzag-bg-color $zigzag-size/2, transparent 0) 0 $zigzag-size/2;
+        background: -webkit-linear-gradient(-225deg, $zigzag-bg-color calc($zigzag-size/2), transparent 0) 0 calc($zigzag-size/2), -webkit-linear-gradient(-315deg, $zigzag-bg-color calc($zigzag-size/2), transparent 0) 0 calc($zigzag-size/2);
       } @else {
-        background: -webkit-linear-gradient(225deg, $zigzag-bg-color $zigzag-size/2, transparent 0) 0 $zigzag-size/2, -webkit-linear-gradient(315deg, $zigzag-bg-color $zigzag-size/2, transparent 0) 0 $zigzag-size/2;
+        background: -webkit-linear-gradient(225deg, $zigzag-bg-color calc($zigzag-size/2), transparent 0) 0 calc($zigzag-size/2), -webkit-linear-gradient(315deg, $zigzag-bg-color calc($zigzag-size/2), transparent 0) 0 calc($zigzag-size/2);
       }
       background: {
         position: top left;
