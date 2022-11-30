@@ -60,10 +60,10 @@
   position: relative;
   margin-bottom: 0;
 
-  // Background-color and (when enabled) gradient
+  // Background-color and (when enabled) gradient   calc(calc($line-height-base / $$custom-control-indicator-size) * 1rem)
   &::before {
     position: absolute;
-    top: (($line-height-base - $custom-control-indicator-size) / 2);
+    top: calc((($line-height-base * 1em) - $custom-control-indicator-size) / 2);
     left: -$custom-control-gutter;
     display: block;
     width: $custom-control-indicator-size;
@@ -78,7 +78,7 @@
   // Foreground (icon)
   &::after {
     position: absolute;
-    top: (($line-height-base - $custom-control-indicator-size) / 2);
+    top: calc((($line-height-base * 1em) - $custom-control-indicator-size) / 2);
     left: -$custom-control-gutter;
     display: block;
     width: $custom-control-indicator-size;
