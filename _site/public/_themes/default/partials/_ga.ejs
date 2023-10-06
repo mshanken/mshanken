@@ -8,4 +8,13 @@
 	        ga('create', '<%- analytics %>', '<%- url %>');
 	        ga('send', {"hitType":"pageview","page":"<%- current.source %>", "section":"<%- current.path[0] %>"});
 	    </script>
-	    <!-- End Google Analytics -->
+		<!-- End Google Analytics -->
+		<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKYEM7J4ND"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-HKYEM7J4ND');
+			</script>
+		<!-- Google tag (gtag.js) -->
