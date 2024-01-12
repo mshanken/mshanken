@@ -8,7 +8,7 @@
 
 **[E-Newsletters](http://newsletters.cigaraficionado.com/)**
 
-**[Print and Digital Specs](/images/pdf/CA_Specs-2022.pdf?v=v1)**
+**[Print Specs](/images/pdf/CA_Specs-2022.pdf?v=v1)**
 
 <ul class="u-list-inline">
     <li class="list-inline-item mr-0"><a href="https://www.facebook.com/CigarAficionado"><span class="fa-stack fa-lg">

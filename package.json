@@ -33,6 +33,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.4.1",
+    "browsersync": "^0.0.1-security",
     "font-awesome": "^4.7.0",
     "html5shiv": "^3.7.3",
     "jquery": "^3.5.0",
@@ -44,6 +45,7 @@
     "grunt-contrib-concat": "^2.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-uglify": "^5.0.1",
+    "harpjs": "^0.0.1-security",
     "load-grunt-configs": "^1.0.0",
     "load-grunt-tasks": "^5.1.0"
   },
