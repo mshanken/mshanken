@@ -1,22 +1,15 @@
-FROM node:6.9.4
-LABEL maintainer="M. Shanken Communications <dev@mshanken.com>"
-LABEL description="Node 6.9.4"
+FROM wordpress:latest
 
-# set up node user
-RUN npm install -g harp grunt-cli node-sass bower browser-sync
-ENV HOME /home/node
-ENV PWD .
+# MAINTAINER M. Shanken Communications <dev@mshanken.com>
 
-COPY package.json $HOME
+# Write the snd theme into the themes dir
+COPY . /usr/src/wordpress/wp-content/themes/msstheme/
 
-# USER node
-ADD $PWD $HOME
-WORKDIR $HOME
-
-RUN chown -R www-data:www-data $HOME \
-	&& mkdir $HOME/www \
-	&& npm install && bower install --allow-root
-
-EXPOSE 9000
-
-CMD [ "npm", "run", "start" ]
+COPY wp-config-cache.php /usr/src/wordpress/wp-content/
+# Install composer devs onto the container
+RUN  cp /usr/src/wordpress/wp-content/themes/msstheme/composer.json /usr/src/wordpress/composer.json && \
+	cp /usr/src/wordpress/wp-content/themes/msstheme/robots.txt /usr/src/wordpress/robots.txt && \
+	cd /usr/src/wordpress && \
+	curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin/ --filename=composer && \
+	composer config --no-plugins allow-plugins.composer/installers true && \
+	composer install --no-dev --no-interaction --optimize-autoloader --prefer-dist

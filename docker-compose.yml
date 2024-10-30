@@ -1,19 +1,15 @@
-version: "2"
-
+version: "3.6"
 services:
-  web:
-    # image: elwebdeveloper/node-ruby
+  my-wp:
     build:
       context: .
       dockerfile: Dockerfile
-
-    working_dir: /home/node
     volumes:
-       - .:/home/node
-       - /home/node/node_modules
-       - /home/node/bower_components
-    
+      - .:/var/www/html/wp-content/themes/msstheme
     ports:
-      - "9000:9000"
-      - "3000:3000"
-      
+      - "8093:80"
+    environment:
+      WORDPRESS_DB_PASSWORD: 'TBA'
+      WORDPRESS_DB_USER: 'TBA'
+      WORDPRESS_DB_HOST: 'TBA'
+      WORDPRESS_DB_NAME: 'TBA'
