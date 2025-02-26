@@ -41,7 +41,7 @@
 					<?php foreach( $images as $image ): ?>
 						<?php $count++; ?>
 						<div class="carousel-item <?php echo ($count == 1) ? 'active' : $count; ?>">
-							<img class="d-block img-fluid mx-auto" src="<?php echo esc_url($image['sizes']['carousel']); ?>" alt="<?php echo esc_attr($image['alt']); ?>">
+							<img class="d-block img-fluid mx-auto" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>">
 						</div>
 					<?php endforeach; ?>
 				<?php endif;?>
