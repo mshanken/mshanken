@@ -30,12 +30,12 @@
 			?>
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="navbar-brand d-none d-md-block">
 				<h1 class="text-hide"><?php bloginfo( 'name' ); ?></h1>
-				<img src="https://mscwordpresscontent.s3.amazonaws.com/mshanken/wp-content/uploads/2024/10/MSC-logo.png" alt="<?php bloginfo( 'name' ); ?>" class="img-fluid g-width-400">
+				<img src="https://mscwordpresscontent.s3.amazonaws.com/mshanken/wp-content/uploads/2025/05/MSC-logo.png" alt="<?php bloginfo( 'name' ); ?>" class="img-fluid g-width-400">
 			</a>
 			<nav class="navbar navbar-expand-md g-pb-0--md">
 				<div class="container">
 					<a href="/" class="navbar-brand d-md-none">
-						<img src="https://mscwordpresscontent.s3.amazonaws.com/mshanken/wp-content/uploads/2024/10/MSC-logo.png" alt="<?php bloginfo( 'name' ); ?>" class="img-fluid g-width-80x">
+						<img src="https://mscwordpresscontent.s3.amazonaws.com/mshanken/wp-content/uploads/2025/05/MSC-logo.png" alt="<?php bloginfo( 'name' ); ?>" class="img-fluid g-width-80x">
 					</a>
 					<!-- Responsive Toggle Button -->
 					<button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-0 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">

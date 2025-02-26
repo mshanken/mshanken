@@ -223,7 +223,7 @@ function msstheme_scripts() {
 	wp_enqueue_style( 'hamburgers'	  , get_stylesheet_directory_uri() . '/vendor/hamburgers/hamburgers.css', array(), _S_VERSION );
 	// wp_enqueue_style( 'fancybox'	  , get_stylesheet_directory_uri() . '/vendor/fancybox/jquery.fancybox.css', array(), _S_VERSION );
 	wp_enqueue_style( 'icons'		  , get_stylesheet_directory_uri() . '/vendor/icon-hs/style.css'		, array(), _S_VERSION );
-	wp_enqueue_style( 'fontawesome'	  , get_stylesheet_directory_uri() . '/css/fontawesome-all.css'			, array(), _S_VERSION );
+	// wp_enqueue_style( 'fontawesome'	  , get_stylesheet_directory_uri() . '/css/fontawesome-all.css'			, array(), _S_VERSION );
 
 	wp_style_add_data( 'msstheme-style', 'rtl', 'replace' );
 
