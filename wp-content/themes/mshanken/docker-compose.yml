@@ -1,0 +1,15 @@
+version: "3.6"
+services:
+  my-wp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/var/www/html/wp-content/themes/msstheme
+    ports:
+      - "8093:80"
+    environment:
+      WORDPRESS_DB_PASSWORD: 'TBA'
+      WORDPRESS_DB_USER: 'TBA'
+      WORDPRESS_DB_HOST: 'TBA'
+      WORDPRESS_DB_NAME: 'TBA'
