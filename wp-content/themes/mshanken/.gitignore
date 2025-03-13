@@ -48,3 +48,4 @@ npm-debug.log
 .local
 www/
 _site/
+feed/
