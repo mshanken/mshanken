@@ -9,8 +9,8 @@
 
 get_header();
 ?>
-	
-	<section class="height-is-based-on-content g-mt-60 g-mt-100--md">
+	<main>
+		<section class="height-is-based-on-content g-mt-60 g-mt-100--md">
 			<?php
 				while ( have_posts() ) :
 					the_post();
@@ -48,7 +48,7 @@ get_header();
 		<?php endif; ?>
 			</div>
 		</section>
-		<main class="container g-py-40">
+		<section id="content" class="container g-py-40">
 			<div class="row" data-animation="fadeIn" data-animation-delay="0" data-animation-duration="1000">
 				<article id="article" class="article col-md-8 g-pb-40 g-pb-0--md text-center text-md-left g-font-size-20" role="main-article">
 					<div class="g-ml-40--md">
@@ -61,7 +61,7 @@ get_header();
 					<?php the_field('get_acess'); ?>
 				</aside>
 			</div>
-		</main>
+		</section>
 		<section id="contact" class="bg-primary py-3"><a name="contact"></a>
 			<div class="container text-white g-py-40">
 				<h2 class="text-center g-pb-40">CONTACT</h2>
@@ -75,7 +75,7 @@ get_header();
 				</div>
 			</div>
 		</section>
-
+	</main>
 <?php
 // get_sidebar();
 get_footer();

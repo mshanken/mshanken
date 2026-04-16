@@ -359,17 +359,6 @@ function add_share_icons( $atts ) {
 }
 
 /**
- * Add custom canonical.
- */
-function add_custom_canonical() {
-    if (is_singular()) {
-        echo '<link rel="canonical" href="' . get_permalink() . '" />' . "\n";
-    }
-}
-add_action('wp_head', 'add_custom_canonical');
-
-
-/**
  * Custom walker class.
  */
 class WPDocs_Walker_Nav_Menu extends Walker_Nav_Menu {

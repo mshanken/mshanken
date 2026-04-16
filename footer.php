@@ -11,7 +11,7 @@
 
 ?>
 	
-	<footer id="footer" role="footer" class="g-brd-top g-brd-primary">
+	<footer id="footer" class="g-brd-top g-brd-primary">
 		<div class="container g-py-40">
 			<div class="row">
 				<div class="col-12">
