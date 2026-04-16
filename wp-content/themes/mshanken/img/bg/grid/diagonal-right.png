@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
 <title>500 Internal Server Error</title>
 </head><body>
@@ -12,6 +12,6 @@ your request.</p>
 <p>More information about this error may be available
 in the server error log.</p>
 <hr>
-<address>Apache/2.4.62 (Debian) Server at multisite-stage.mshanken.com Port 443</address>
+<address>Apache/2.4.66 (Debian) Server at multisite-stage.mshanken.com Port 443</address>
 </body></html>
 <!-- Powered by Staatic (https://staatic.com/) -->
