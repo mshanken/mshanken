@@ -237,7 +237,14 @@ function msstheme_scripts() {
 	wp_enqueue_script( 'header'				, get_template_directory_uri() . '/js/hs.header.js'		 			 , array()		  , _S_VERSION, true );
 	wp_enqueue_script( 'hamburgers'			, get_template_directory_uri() . '/js/hs.hamburgers.js'				 , array()		  , _S_VERSION, true );
 	wp_enqueue_script( 'app'				, get_template_directory_uri() . '/js/app.js'					 	 , array()		  , _S_VERSION, true );
-	
+	wp_enqueue_script( 'ad-consent'			, get_template_directory_uri() . '/js/ad-consent-gate.js'		 	 , array()		  , _S_VERSION, false );
+	// Must print right before ad-consent-gate.js and ahead of any other ad code (see notes in that file).
+	wp_add_inline_script(
+		'ad-consent',
+		'window.googletag = window.googletag || {cmd: []};',
+		'before'
+	);
+
 }
 add_action( 'wp_enqueue_scripts', 'msstheme_scripts' );
 //add_action( 'wp_enqueue_scripts', 'jquery' );

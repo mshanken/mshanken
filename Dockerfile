@@ -1,15 +1,16 @@
-FROM wordpress:latest
+FROM wordpress:php8.2-apache
 
 # MAINTAINER M. Shanken Communications <dev@mshanken.com>
 
-# Write the snd theme into the themes dir
-COPY . /usr/src/wordpress/wp-content/themes/msstheme/
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends unzip && \
+    rm -rf /var/lib/apt/lists/*
 
-COPY wp-config-cache.php /usr/src/wordpress/wp-content/
-# Install composer devs onto the container
-RUN  cp /usr/src/wordpress/wp-content/themes/msstheme/composer.json /usr/src/wordpress/composer.json && \
-	cp /usr/src/wordpress/wp-content/themes/msstheme/robots.txt /usr/src/wordpress/robots.txt && \
-	cd /usr/src/wordpress && \
-	curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin/ --filename=composer && \
-	composer config --no-plugins allow-plugins.composer/installers true && \
-	composer install --no-dev --no-interaction --optimize-autoloader --prefer-dist
+COPY docker/php/uploads.ini /usr/local/etc/php/conf.d/uploads.ini
+
+# ACF Pro (gallery fields used by the templates need Pro). Files under
+# /usr/src/wordpress are copied into /var/www/html on first container start.
+RUN cd /usr/src/wordpress/wp-content/plugins && \
+    curl -fsSL https://mscwordpresscontent.s3.us-east-1.amazonaws.com/advanced-custom-fields-pro.zip -o acf.zip && \
+    unzip -q acf.zip && rm acf.zip && \
+    chown -R www-data:www-data /usr/src/wordpress/wp-content/plugins
