@@ -244,6 +244,18 @@ function msstheme_scripts() {
 		'window.googletag = window.googletag || {cmd: []};',
 		'before'
 	);
+	// "Privacy choices" link: <a id="privacychoice"> anywhere on the page (content, menu, widget)
+	// reopens the Cookiebot banner. Delegated, so it works from <head> and for late-added links.
+	wp_add_inline_script(
+		'ad-consent',
+		"document.addEventListener('click', function (e) {
+	var link = e.target.closest && e.target.closest('#privacychoice');
+	if (!link) return;
+	e.preventDefault();
+	if (window.Cookiebot) { window.Cookiebot.renew(); }
+});",
+		'after'
+	);
 
 }
 add_action( 'wp_enqueue_scripts', 'msstheme_scripts' );
