@@ -63,6 +63,15 @@ window.googletag = window.googletag || {cmd: []};
 //# sourceURL=ad-consent-js-before
 </script>
 <script id="ad-consent-js" src="https://www.mshanken.com/wp-content/themes/mshanken/js/ad-consent-gate.js?ver=1.0.1"></script>
+<script id="ad-consent-js-after">
+document.addEventListener('click', function (e) {
+	var link = e.target.closest && e.target.closest('#privacychoice');
+	if (!link) return;
+	e.preventDefault();
+	if (window.Cookiebot) { window.Cookiebot.renew(); }
+});
+//# sourceURL=ad-consent-js-after
+</script>
 <link rel="https://api.w.org/" href="https://www.mshanken.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.mshanken.com/wp-json/wp/v2/pages/328"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mshanken.com/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 7.1.4">
 <link rel="shortlink" href="https://www.mshanken.com/?p=328">
@@ -265,7 +274,7 @@ The failure of M. Shanken Communications to exercise or enforce any right or pro
 <p class="text-center small">M. Shanken Communications, Inc.<br>
 825 Eighth Ave., 33rd Fl.<br>
 New York, NY 10019&#8209;7475<br>
-<a href="https://www.mshanken.com/privacypolicy">Privacy Policy</a> | <a href="#">Your Privacy Choices</a> | <a href="https://www.mshanken.com/termsofuse">Terms of use</a></p>
+<a href="https://www.mshanken.com/privacypolicy">Privacy Policy</a> | <a href="#" id="privacychoice" title="Your Privacy Choices">Your Privacy Choices</a> | <a href="https://www.mshanken.com/termsofuse">Terms of use</a></p>
 </div>
 		</section></aside><!-- #secondary -->
 					<p class="text-center small">&copy; 2026 M. Shanken Communications, Inc.</p>
